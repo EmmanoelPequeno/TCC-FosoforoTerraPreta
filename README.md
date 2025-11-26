@@ -2,14 +2,14 @@
 
 Este repositório, dedidco a abrigar os resultados do trabalho de conclusão de curso da Ilum Escola de Ciência, faculdade vinculada ao Centro Nacional de Pesquisa em Energia e materiais (CNPEM), tendo como pesquisadores:
 
-- [Davi José Araújo Pereira] (https://github.com/EmmanoelPequeno)
+- Davi José Araújo Pereira (https://github.com/EmmanoelPequeno)
 
-- [Mayllon Emmanoel Pequeno] (https://github.com/EmmanoelPequeno)
+- Mayllon Emmanoel Pequeno (https://github.com/EmmanoelPequeno)
 
-- [Emelyn Alves] (https://github.com/EmmanoelPequeno) (Colaboradora)
+- Emelyn Alves (https://github.com/EmmanoelPequeno) (Colaboradora)
 
-- [Izaque Júnior Oliveira Silva] (https://github.com/EmmanoelPequeno) (Colaborador)
+- Izaque Júnior Oliveira Silva (https://github.com/EmmanoelPequeno) (Colaborador)
 
 
 
-reúne dados, scripts e análises relacionadas ao estudo da Terra Preta Amazônica como sistema socioambiental de referência para a investigação da biodisponibilidade de fósforo. O objetivo geral desta pesquisa foi 
+Este repositório reúne dados, scripts e análises relacionadas ao estudo da Terra Preta Amazônica como sistema socioambiental de referência para a investigação da biodisponibilidade de fósforo. O objetivo geral desta pesquisa foi 
