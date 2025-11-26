@@ -21,12 +21,23 @@ Este repositório reúne dados, scripts e análises relacionadas ao estudo da Te
   Destinada a abrigar os arquivos de estatísticas e *scripts* associados às análises de bioinformática.  
   A pasta está dividida em subpastas de acordo com cada ferramenta e/ou método utilizado nas análises metagenômicas:
 
-  - `QC/` – Controle de qualidade das reads (FastQC, MultiQC, etc.)
-  - `Trimming/` – Remoção de adaptadores e bases de baixa qualidade
-  - `Assembly/` – Montagem dos contigs
-  - `Binning/` – Recuperação de MAGs
-  - `Annotation/` – Anotação taxonômica e funcional (ex: eggNOG, Prokka)
-  - `Diversity_Analysis/` – Análises de diversidade e composição microbiana
+  - `0dados/` – Contém dados utilizados nas análises. Nenhum processamento é feito aqui. Esta pasta funciona como referência para todas as etapas subsequentes.
+  - `1.1FastQC/` – Inclui os relatórios individuais gerados pelo FastQC, permitindo avaliar, por exemplo, qualidade por base, Conteúdo GC, adaptadores ect.
+  - `1.2MultiQC/` – Dados do FastQC sumarizados. Agrupamento de todos os relatórios em um único arquivo.
+  - `2Trimmomatic/` – Contém dados do processamento pelo Trimmomatic, incluindo, por exemplo, remoção de adaptadores, cortes de baixa qualidade e descarte de <i> reads </i> muito curtas
+  - `3Metaphlan4/` – Contém os arquivos de saída do MetaPhlAn4 com composições taxonômicas microbianas identificadas nas <i> reads </i> após o Trimmomatic. Inclui tabelas e perfis de abundância relativa.
+  - `4Megahit/` – Dados de <i> contigs </i> montadas
+  - `5.1Bowtie2/` – Dados do mapeamento das <i> reads </i> para as <i> contigs </i>
+  - `5.2Samtools/` – Dados de processamento dos arquivos SAM e BAM, incluindo conversões, ordenamentos, indexação e cálculo de cobertura.
+  - `5.3MetaBat2/` – Dados de agrupamento de <i> contigs </i> em genomas individuais
+  - `6CheckM2/` – Contém os relatórios gerados pelo CheckM2 indicando a qualidade dos genomas agrupados.
+  - `7GTDB-tk/` – Contém os arquivos de saída do GTDB-tk, definindo a taxonômia dos genomas gerados com base no banco de dados GTDB. Inclui tabelas de qualidade e árvores de referência.
+  - `8.1Prokka/` – Contém os arquivos de anotação funcional inicial.
+  - `8.2eggNOG/` – Contém os arquivos de anotação funcional e categorização metabólica.
+  - `8.3FeGenie/` – Contém os arquivos de análises de genes ligados ao cilo do Ferro. Inclui <i> heatmpas </i>, tabelas funcionais e genes anotados.
+  - `9.1InterProScan/` – Contém os arquivos de anotação funcional com foco em domínios conservados e assinaturas funcionais.
+  - `9.2MAFFT/` – Contém os arquivos de alinhamento múltiplo das sequências do gene <i> gcd </i> (marcador de microrganismos solubilizadores de fósforo).
+  - `9.3IQ-TREE/` – Contém os arquivos relacionados à inferência filogenética do gene <i> gcd </i>. Inclui arquivos como .treefile, .log e .iqtre
 
   
 - **Espectroscopia** (caminho da pasta): Destinada a abrigar os arquivos de tratamento de dados obtidos por meio ds Microfluorescência de Raios X ($\mu$-SXRF) e Estrutura de Absorção de Raios X Próxima à Borda (XANES).
