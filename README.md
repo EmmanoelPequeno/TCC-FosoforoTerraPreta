@@ -2,13 +2,13 @@
 
 Este repositório, dedidco a abrigar os resultados do trabalho de conclusão de curso da Ilum Escola de Ciência, faculdade vinculada ao Centro Nacional de Pesquisa em Energia e materiais (CNPEM), tendo como pesquisadores:
 
-- [Davi José Araújo Pereira] (https://ilum.cnpem.br/processo-de-ingresso/?gad_source=1&gad_campaignid=23280918866&gclid=EAIaIQobChMIwZTkjd2OkQMVymFIAB0_2BifEAAYASAAEgJS1vD_BwE)
+- [Davi José Araújo Pereira] (https://github.com/EmmanoelPequeno)
 
--  [Mayllon Emmanoel Pequeno] (https://ilum.cnpem.br/processo-de-ingresso/?gad_source=1&gad_campaignid=23280918866&gclid=EAIaIQobChMIwZTkjd2OkQMVymFIAB0_2BifEAAYASAAEgJS1vD_BwE)
+- [Mayllon Emmanoel Pequeno] (https://github.com/EmmanoelPequeno)
 
--  [Emelyn Alves] (https://ilum.cnpem.br/processo-de-ingresso/?gad_source=1&gad_campaignid=23280918866&gclid=EAIaIQobChMIwZTkjd2OkQMVymFIAB0_2BifEAAYASAAEgJS1vD_BwE) (Colaboradora)
+- [Emelyn Alves] (https://github.com/EmmanoelPequeno) (Colaboradora)
 
--  [Izaque Júnior Oliveira Silva] (https://ilum.cnpem.br/processo-de-ingresso/?gad_source=1&gad_campaignid=23280918866&gclid=EAIaIQobChMIwZTkjd2OkQMVymFIAB0_2BifEAAYASAAEgJS1vD_BwE) (Colaborador)
+- [Izaque Júnior Oliveira Silva] (https://github.com/EmmanoelPequeno) (Colaborador)
 
 
 
