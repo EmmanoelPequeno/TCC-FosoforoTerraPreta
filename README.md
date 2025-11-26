@@ -1,2 +1,1 @@
-# TCC-Fosoforo-e-TerraPreta
-Repositório dedicado ao armazenamento de dados, arquivos e (possível) disponibilização de pipeline desenvolvido para automatização da busca por genes relacionados à solubilização de fósforo em solos de Terra Preta Antropogênica
+<h1 align="center"> INVESTIGAÇÃO DE PROPRIEDADES FÍSICO-QUÍMICAS E MICROBIANAS RELEVANTES PARA BIODISPONIBILIZAÇÃO DE FÓSFORO EM TERRA PRETA AMAZÔNICA VIA ANÁLISES METAGENÔMICAS E ESPECTROSCOPIA POR LUZ SÍNCROTRON 🌱🦠🖥️ </h1>
