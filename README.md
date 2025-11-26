@@ -15,5 +15,8 @@ Este repositório, dedidco a abrigar os resultados do trabalho de conclusão de 
 - Izaque Júnior Oliveira Silva (https://github.com/Izaque-Junior) (Colaborador)
 
 
+Este repositório reúne dados, scripts e análises relacionadas ao estudo da Terra Preta Amazônica como sistema socioambiental de referência para a investigação da biodisponibilidade de fósforo. O objetivo geral desta pesquisa foi Investigar os mecanismos envolvidos na biodisponibilização de fósforo na Terra Preta Amazônica, por meio da identificação e anotação funcional de microrganismos solubilizadores de fósforo e da análise de suas interações com a matriz físico-química do solo, integrando técnicas avançadas de espectroscopia por luz síncrotron, fracionamento de fósforo e análises metagenômicas. Este respositório está divido em Três pastas principais:
 
-Este repositório reúne dados, scripts e análises relacionadas ao estudo da Terra Preta Amazônica como sistema socioambiental de referência para a investigação da biodisponibilidade de fósforo. O objetivo geral desta pesquisa foi 
+- Metagenômica (caminho da pasta): Destinada a abrigar os arquivos de estatísticas e <i> scripts </i> associados às análises de bioinformática. A pasta está dividida em subpastas de acordo com cada ferramenta e/ou método utilizado nas análises metageômicas. 
+- Espectroscopia (caminho da pasta): Destinada a abrigar os arquivos de tratamento de dados obtidos por meio ds Microfluorescência de Raios X ($\mu$-SXRF) e Estrutura de Absorção de Raios X Próxima à Borda (XANES). 
+- Fracionamento (caminho da pasta): Destinada a abrigar os protocolos e arquivos de tratamento dos dados obtidos a partir das análises químicas realizadas em laboratório.
