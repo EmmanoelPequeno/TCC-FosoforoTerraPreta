@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="intro_imagem.png" alt="Descrição da imagem" width="1000"/>
+</p>
+
 <h1 align="center"> INVESTIGAÇÃO DE PROPRIEDADES FÍSICO-QUÍMICAS E MICROBIANAS RELEVANTES PARA BIODISPONIBILIZAÇÃO DE FÓSFORO EM TERRA PRETA AMAZÔNICA VIA ANÁLISES METAGENÔMICAS E ESPECTROSCOPIA POR LUZ SÍNCROTRON 🌱🦠 </h1>
 
 Este repositório, dedidco a abrigar os resultados do trabalho de conclusão de curso da Ilum Escola de Ciência, faculdade vinculada ao Centro Nacional de Pesquisa em Energia e materiais (CNPEM), tendo como pesquisadores:
