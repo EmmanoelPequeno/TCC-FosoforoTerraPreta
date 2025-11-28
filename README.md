@@ -53,14 +53,14 @@ Este repositório reúne dados, scripts e análises relacionadas ao estudo da Te
 
   
 - **Fracionamento** (caminho da pasta): Destinada a abrigar os protocolos e arquivos de tratamento dos dados obtidos a partir das análises químicas realizadas em laboratório.
-- `03-10(H2O)-Pres` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo residual (P-res) em H2O realizados no dia 03/10/25.
-- `22-09(HCl0,5M)`- Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo resina (P-res) em HCl 0,5M realizados no dia 22/09/25.
-- `23-09(NaHCO3)-Pi`
-- `23-09(NaHCO3)-Pt`
-- `24-09(NaOH-0,1M)-Pi`
-- `24-09(NaOH-0,1M)-Pt`
-- `25-09(HCl1M)-Pi`
-- `25-09(HCl1M)-Pt`
-- `25_09_placa(HCl1M)_Pi_Pt`
-- `26-09(NaOH0,5M)-Pi`
-- `26-09(NaOH0,5M)-Pt`
+- `03-10(H2O)-Pres` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo residual (P-res) em H2O realizadas no dia 03/10/25.
+- `22-09(HCl0,5M)`- Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo em resina (P-RTA) em HCl 0,5 M realizadas no dia 22/09/25.
+- `23-09(NaHCO3)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaHCO3 (pH ajustado pra 8,5) realizadas no dia 23/09/2025
+- `23-09(NaHCO3)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaHCO3 (pH ajustado pra 8,5) realizadas no dia 23/09/2025
+- `24-09(NaOH-0,1M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaOH 0,1 M realizadas no dia 24/09/2025
+- `24-09(NaOH-0,1M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaOH 0,1 M realizadas no dia 24/09/2025
+- `25-09(HCl1M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em HCl 1 M realizadas no dia 25/09/2025
+- `25-09(HCl1M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em HCl 1 M realizadas no dia 25/09/2025
+- `25_09_placa(HCl1M)_Pi_Pt` Contém os dados das medidas realizadas no leitor de placa de 96 poços para o fósforo inorgânico e total em HCl 1 M realizadas no dia 25/09/2025
+- `26-09(NaOH0,5M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaOH 0,5 M realizadas no dia 26/09/2025
+- `26-09(NaOH0,5M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaOH 0,5 M realizadas no dia 26/09/2025
