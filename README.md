@@ -41,5 +41,26 @@ Este repositório reúne dados, scripts e análises relacionadas ao estudo da Te
 
   
 - **Espectroscopia** (caminho da pasta): Destinada a abrigar os arquivos de tratamento de dados obtidos por meio ds Microfluorescência de Raios X ($\mu$-SXRF) e Estrutura de Absorção de Raios X Próxima à Borda (XANES).
+- `A11/` – Contém algo.
+- `A12/` –
+- `A12/` –
+- `B11/` –
+- `B12/` –
+- `B13/` –
+- `images_tiff` –
+- `mapas combinados` –
+- `scale_A11/rearest` –
+
   
 - **Fracionamento** (caminho da pasta): Destinada a abrigar os protocolos e arquivos de tratamento dos dados obtidos a partir das análises químicas realizadas em laboratório.
+- `03-10(H2O)-Pres` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo residual (P-res) em H2O realizados no dia 03/10/25.
+- `22-09(HCl0,5M)`- Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo resina (P-res) em HCl 0,5M realizados no dia 22/09/25.
+- `23-09(NaHCO3)-Pi`
+- `23-09(NaHCO3)-Pt`
+- `24-09(NaOH-0,1M)-Pi`
+- `24-09(NaOH-0,1M)-Pt`
+- `25-09(HCl1M)-Pi`
+- `25-09(HCl1M)-Pt`
+- `25_09_placa(HCl1M)_Pi_Pt`
+- `26-09(NaOH0,5M)-Pi`
+- `26-09(NaOH0,5M)-Pt`
