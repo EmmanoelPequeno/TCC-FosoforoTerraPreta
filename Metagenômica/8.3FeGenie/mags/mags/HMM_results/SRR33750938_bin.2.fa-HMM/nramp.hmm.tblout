@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_333161_3        -          nramp                -           2.5e-205  679.8  21.1  2.8e-205  679.6  21.1   1.0   1   0   0   1   1   1   1 # 1136 # 2527 # 1 # ID=662_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.648
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//nramp.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750938_bin.2.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750938_bin.2.fa-HMM/nramp.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750938_bin.2.fa-HMM/nramp.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//nramp.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750938_bin.2.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:30:34 2025
+# [ok]

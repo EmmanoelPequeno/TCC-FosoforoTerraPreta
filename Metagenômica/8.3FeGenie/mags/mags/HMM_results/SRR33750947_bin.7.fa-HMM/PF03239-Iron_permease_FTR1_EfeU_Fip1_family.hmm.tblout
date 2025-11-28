@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_599867_2        -          FTR1                 PF03239.9    3.5e-29   98.9  27.9   4.5e-29   98.5  27.9   1.1   1   0   0   1   1   1   1 # 1097 # 1924 # -1 # ID=426_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.639
+k141_592982_1        -          FTR1                 PF03239.9    4.3e-19   65.7   9.9   5.1e-19   65.5   9.9   1.0   1   0   0   1   1   1   1 # 3 # 443 # -1 # ID=335_1;partial=10;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.662
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.7.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.7.fa-HMM/PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.7.fa-HMM/PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm.tblout -T 24 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.7.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:32:05 2025
+# [ok]

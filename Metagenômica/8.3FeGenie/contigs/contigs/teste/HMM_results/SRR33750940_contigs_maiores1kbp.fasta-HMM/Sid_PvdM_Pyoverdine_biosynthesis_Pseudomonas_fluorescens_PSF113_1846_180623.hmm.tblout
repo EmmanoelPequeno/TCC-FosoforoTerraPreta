@@ -1,0 +1,18 @@
+#                                                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                  accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                        -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_320656_1        -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            1.2e-47  164.2   0.0   1.4e-47  164.0   0.0   1.0   1   0   0   1   1   1   1 # 2 # 586 # 1 # ID=12613_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.559
+k141_64307_2         -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            4.3e-11   43.6   0.0   5.2e-11   43.4   0.0   1.1   1   0   0   1   1   1   1 # 549 # 1067 # 1 # ID=21358_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.711
+k141_229106_1        -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            2.9e-07   31.0   0.0   2.9e-07   31.0   0.0   1.1   1   0   0   1   1   1   1 # 3 # 359 # -1 # ID=19380_1;partial=10;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=3-4bp;gc_cont=0.560
+k141_311937_1        -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            0.00063   20.0   0.0   0.00071   19.8   0.0   1.1   1   0   0   1   1   1   1 # 3 # 515 # -1 # ID=6780_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.661
+k141_64307_3         -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            0.00079   19.7   0.0   0.00084   19.6   0.0   1.2   1   0   0   1   1   1   1 # 1131 # 1376 # 1 # ID=21358_3;partial=01;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.683
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750940_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750940_contigs_maiores1kbp.fasta-HMM/Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750940_contigs_maiores1kbp.fasta-HMM/Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623.hmm.tblout -T 17 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750940_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:52:47 2025
+# [ok]

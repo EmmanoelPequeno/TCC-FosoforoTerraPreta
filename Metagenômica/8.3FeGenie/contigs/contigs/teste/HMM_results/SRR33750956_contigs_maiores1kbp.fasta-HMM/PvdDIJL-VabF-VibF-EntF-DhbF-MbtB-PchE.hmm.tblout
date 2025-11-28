@@ -1,0 +1,27 @@
+#                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_309618_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -                  0 1016.7   0.0         0 1016.2   0.0   1.2   1   0   0   1   1   1   1 # 3 # 3041 # -1 # ID=35878_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+k141_305180_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           7.6e-217  725.6   0.1  8.4e-217  725.4   0.1   1.0   1   0   0   1   1   1   1 # 3 # 2141 # 1 # ID=30547_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.715
+k141_206526_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           7.7e-215  718.9   0.0  8.6e-215  718.7   0.0   1.0   1   0   0   1   1   1   1 # 1 # 2124 # -1 # ID=24470_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+k141_630629_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           1.9e-208  697.7   2.1  2.1e-208  697.6   2.1   1.0   1   0   0   1   1   1   1 # 2 # 1675 # -1 # ID=29323_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.618
+k141_269905_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -             4e-205  686.7   0.0  4.5e-205  686.5   0.0   1.0   1   0   0   1   1   1   1 # 3 # 1853 # -1 # ID=48751_1;partial=10;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+k141_222138_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           1.2e-197  661.9   0.0  1.2e-181  608.9   0.0   2.0   2   0   0   2   2   2   2 # 2 # 3325 # -1 # ID=43902_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+k141_395535_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           9.5e-177  592.6   0.0  1.2e-176  592.3   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1996 # -1 # ID=26767_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.660
+k141_133164_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           8.3e-162  543.0   0.4  9.2e-162  542.9   0.4   1.0   1   0   0   1   1   1   1 # 1 # 1536 # -1 # ID=49449_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.634
+k141_219004_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           1.3e-158  532.4   0.0  1.5e-158  532.2   0.0   1.0   1   0   0   1   1   1   1 # 3 # 1439 # -1 # ID=40136_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.681
+k141_554116_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           3.4e-146  491.2   0.0  3.9e-146  491.1   0.0   1.0   1   0   0   1   1   1   1 # 1 # 1575 # -1 # ID=50460_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.691
+k141_257268_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -             3e-133  448.3   0.0  3.3e-133  448.2   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1417 # 1 # ID=32283_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+k141_118863_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           5.4e-132  444.1   0.1  6.3e-132  443.9   0.1   1.0   1   0   0   1   1   1   1 # 1 # 1233 # -1 # ID=31835_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+k141_658674_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -             1e-131  443.2   0.0  1.2e-131  443.0   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1453 # -1 # ID=7502_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+k141_144192_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           6.8e-131  440.5   0.1  7.8e-131  440.3   0.1   1.0   1   0   0   1   1   1   1 # 1 # 1269 # -1 # ID=5061_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE.hmm.tblout -T 430 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:52:35 2025
+# [ok]

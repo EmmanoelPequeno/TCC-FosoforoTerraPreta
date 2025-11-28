@@ -1,0 +1,22 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_378644_4        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   2.3e-39  133.5   0.3   3.5e-39  132.9   0.3   1.4   1   0   0   1   1   1   1 # 1848 # 2552 # -1 # ID=281_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.613
+k141_189042_1        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   1.6e-37  127.5   1.7   1.6e-37  127.5   1.7   2.3   2   0   0   2   2   2   1 # 275 # 1087 # 1 # ID=129_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.664
+k141_177187_3        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   2.1e-37  127.1   1.2   2.1e-37  127.1   1.2   2.0   2   0   0   2   2   2   1 # 799 # 1479 # -1 # ID=1849_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.621
+k141_667531_4        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   2.5e-37  126.9   0.6   2.5e-37  126.9   0.6   1.9   2   0   0   2   2   2   1 # 2765 # 3448 # -1 # ID=843_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.652
+k141_251657_3        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11     3e-37  126.6   3.7   3.4e-37  126.5   0.7   2.0   2   0   0   2   2   2   1 # 1048 # 1728 # 1 # ID=1056_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.652
+k141_745488_2        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   4.4e-37  126.1   1.0     6e-37  125.7   1.0   1.2   1   0   0   1   1   1   1 # 174 # 887 # -1 # ID=2255_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.601
+k141_411509_2        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11     5e-37  125.9   2.1     5e-37  125.9   2.1   1.7   2   0   0   2   2   2   1 # 621 # 1562 # 1 # ID=1864_2;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.621
+k141_711749_4        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   6.9e-37  125.5   2.8   1.1e-36  124.8   2.8   1.4   1   0   0   1   1   1   1 # 1582 # 2445 # -1 # ID=630_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+k141_287163_3        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   4.6e-05   22.4   1.2   4.6e-05   22.4   1.2   2.6   3   0   0   3   3   3   1 # 1381 # 2376 # -1 # ID=366_3;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.642
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.3.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.3.fa-HMM/PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.3.fa-HMM/PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm.tblout -T 22 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.3.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:15:48 2025
+# [ok]

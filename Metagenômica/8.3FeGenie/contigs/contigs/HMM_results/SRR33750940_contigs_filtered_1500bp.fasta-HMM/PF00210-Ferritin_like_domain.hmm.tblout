@@ -1,0 +1,18 @@
+#                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_14395_2         -          PF00210-Ferritin_like_domain PF00210.19   3.4e-34  117.9   3.4     4e-34  117.7   3.4   1.1   1   0   0   1   1   1   1 # 763 # 1251 # -1 # ID=2966_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.585
+k141_390298_3        -          PF00210-Ferritin_like_domain PF00210.19     5e-34  117.3   4.4   5.7e-34  117.1   4.4   1.1   1   0   0   1   1   1   1 # 1067 # 1558 # -1 # ID=4296_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.547
+k141_250173_3        -          PF00210-Ferritin_like_domain PF00210.19   1.9e-33  115.5   3.5   2.2e-33  115.2   3.5   1.1   1   0   0   1   1   1   1 # 822 # 1313 # 1 # ID=3040_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.593
+k141_445139_2        -          PF00210-Ferritin_like_domain PF00210.19   3.7e-32  111.3   4.6   4.4e-32  111.0   4.6   1.1   1   0   0   1   1   1   1 # 564 # 1064 # -1 # ID=2357_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.591
+k141_65844_2         -          PF00210-Ferritin_like_domain PF00210.19   1.7e-29  102.7   0.6   1.9e-29  102.5   0.6   1.0   1   0   0   1   1   1   1 # 1403 # 1903 # 1 # ID=6516_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.367
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_storage//PF00210-Ferritin_like_domain.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750940_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750940_contigs_filtered_1500bp.fasta-HMM/PF00210-Ferritin_like_domain.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750940_contigs_filtered_1500bp.fasta-HMM/PF00210-Ferritin_like_domain.hmm.tblout -T 44 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_storage//PF00210-Ferritin_like_domain.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750940_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:09:11 2025
+# [ok]

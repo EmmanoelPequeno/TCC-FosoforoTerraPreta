@@ -1,0 +1,16 @@
+#                                                                           --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                       accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------             -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_3269_3          -          FbpB-FutB-iron_permease_fam1-rep -            1.2e-52  176.8  38.4   4.5e-50  168.3  38.4   2.8   1   1   0   1   1   1   1 # 2220 # 4013 # -1 # ID=91_3;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.633
+k141_41991_3         -          FbpB-FutB-iron_permease_fam1-rep -            1.8e-51  172.9  40.2   1.1e-49  167.0  40.2   2.4   1   1   0   1   1   1   1 # 1376 # 2881 # -1 # ID=234_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+k141_78201_3         -          FbpB-FutB-iron_permease_fam1-rep -            9.1e-47  157.4  41.2   6.6e-41  138.0  26.3   2.8   2   1   0   2   2   2   2 # 1552 # 3270 # 1 # ID=320_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpB-FutB-iron_permease_fam1-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.3.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.3.fa-HMM/FbpB-FutB-iron_permease_fam1-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.3.fa-HMM/FbpB-FutB-iron_permease_fam1-rep.hmm.tblout -T 118 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpB-FutB-iron_permease_fam1-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.3.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:31:58 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_359815_2        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            2.2e-16   59.1  32.2   9.1e-16   57.0  32.2   1.9   1   1   0   1   1   1   1 # 484 # 1863 # -1 # ID=1764_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.662
+k141_260532_4        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            3.1e-16   58.6  38.2   1.3e-15   56.6  38.2   1.8   1   1   0   1   1   1   1 # 5218 # 6567 # -1 # ID=209_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.647
+k141_127864_1        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            9.1e-06   24.1   1.0   1.2e-05   23.8   1.0   1.2   1   0   0   1   1   1   1 # 1 # 459 # -1 # ID=1090_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.580
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:36:52 2025
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_497007_2        -          FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport -            1.2e-70  239.6   0.2   2.5e-70  238.4   0.3   1.4   2   0   0   2   2   2   1 # 708 # 2078 # 1 # ID=24584_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+k141_460203_2        -          FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport -            9.5e-68  230.0   0.1   1.2e-67  229.7   0.1   1.0   1   0   0   1   1   1   1 # 376 # 1254 # 1 # ID=21876_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.539
+k141_364706_1        -          FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport -            5.3e-58  198.0   4.4   8.5e-28   99.1   0.1   3.1   2   1   0   2   2   2   2 # 3 # 1667 # -1 # ID=25986_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.637
+k141_41915_7         -          FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport -              3e-52  179.2   0.1   1.9e-26   94.7   0.0   2.7   2   1   0   2   2   2   2 # 9172 # 10698 # -1 # ID=7452_7;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.749
+k141_489330_1        -          FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport -            4.4e-52  178.6   0.0   5.4e-52  178.4   0.0   1.0   1   0   0   1   1   1   1 # 3 # 668 # 1 # ID=17728_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.728
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750961_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750961_contigs_maiores1kbp.fasta-HMM/FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750961_contigs_maiores1kbp.fasta-HMM/FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport.hmm.tblout -T 172 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750961_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:59:23 2025
+# [ok]

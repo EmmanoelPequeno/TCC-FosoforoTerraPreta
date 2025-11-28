@@ -1,0 +1,14 @@
+#                                                                                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                                     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_215722_1        -          Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610 -            5.9e-22   77.7   0.1   7.5e-22   77.4   0.1   1.1   1   0   0   1   1   1   1 # 1 # 894 # 1 # ID=4102_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.366
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750935_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750935_contigs_filtered_1500bp.fasta-HMM/Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750935_contigs_filtered_1500bp.fasta-HMM/Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm.tblout -T 46 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750935_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:16:00 2025
+# [ok]

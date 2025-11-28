@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_284751_6        -          FeoA                 PF04023.9    3.5e-18   61.8   0.5     2e-17   59.4   0.1   2.2   2   0   0   2   2   2   1 # 6212 # 6889 # 1 # ID=223_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.699
+k141_311126_2        -          FeoA                 PF04023.9    4.6e-07   26.2   0.1   9.1e-06   22.0   0.0   2.2   2   0   0   2   2   2   1 # 897 # 1544 # 1 # ID=253_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.708
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF04023-FeoA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750959_bin.2.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750959_bin.2.fa-HMM/PF04023-FeoA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750959_bin.2.fa-HMM/PF04023-FeoA.hmm.tblout -T 21 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF04023-FeoA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750959_bin.2.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:31:04 2025
+# [ok]

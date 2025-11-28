@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_44310_5         -          FeoE                 -            2.3e-31  106.8   6.5   2.8e-31  106.5   6.5   1.0   1   0   0   1   1   1   1 # 2486 # 3487 # -1 # ID=368_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.397
+k141_226668_4        -          FeoE                 -            8.2e-30  101.7   4.0   8.2e-30  101.7   4.0   2.4   3   0   0   3   3   3   2 # 1299 # 2879 # 1 # ID=5_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.354
+k141_407256_3        -          FeoE                 -            1.2e-12   45.3   8.1   1.7e-12   44.9   8.1   1.1   1   0   0   1   1   1   1 # 1404 # 2378 # -1 # ID=243_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_60408_5         -          FeoE                 -            3.3e-10   37.3   3.5   7.3e-07   26.4   1.4   2.1   2   0   0   2   2   2   2 # 2455 # 3408 # -1 # ID=87_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.410
+k141_433339_2        -          FeoE                 -            1.9e-06   25.0   4.6   1.2e-05   22.3   4.6   1.8   1   1   0   1   1   1   1 # 1731 # 2708 # 1 # ID=181_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.366
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FeoE.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750934_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750934_bin.1.fa-HMM/FeoE.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750934_bin.1.fa-HMM/FeoE.hmm.tblout -T 20 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FeoE.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750934_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:29:54 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_117969_2        -          EfoO-Iron_uptake     -            1.1e-29  104.9   0.1   1.4e-29  104.6   0.1   1.0   1   0   0   1   1   1   1 # 326 # 706 # 1 # ID=6573_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.672
+k141_117969_1        -          EfoO-Iron_uptake     -            1.9e-23   84.4   0.0   2.1e-23   84.3   0.0   1.0   1   0   0   1   1   1   1 # 2 # 310 # 1 # ID=6573_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.712
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//EfeO-Iron_uptake.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750936_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750936_contigs_maiores1kbp.fasta-HMM/EfeO-Iron_uptake.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750936_contigs_maiores1kbp.fasta-HMM/EfeO-Iron_uptake.hmm.tblout -T 31 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//EfeO-Iron_uptake.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750936_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:21 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_59316_1         -          DFE_0462             -            1.4e-28  101.7  31.5   3.3e-26   93.9  24.4   2.1   2   0   0   2   2   2   2 # 3 # 884 # -1 # ID=11193_1;partial=10;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.650
+k141_263055_2        -          DFE_0462             -            7.3e-15   56.5   7.1   9.5e-15   56.2   7.1   1.1   1   0   0   1   1   1   1 # 743 # 1561 # -1 # ID=12172_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0462.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750937_contigs_filtered_1500bp.fasta-HMM/DFE_0462.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750937_contigs_filtered_1500bp.fasta-HMM/DFE_0462.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0462.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:10:27 2025
+# [ok]

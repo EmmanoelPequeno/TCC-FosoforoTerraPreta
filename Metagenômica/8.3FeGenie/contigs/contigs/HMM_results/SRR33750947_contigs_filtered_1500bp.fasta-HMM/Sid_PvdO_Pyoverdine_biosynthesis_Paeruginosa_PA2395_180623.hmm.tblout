@@ -1,0 +1,18 @@
+#                                                                                                     --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_609517_1        -          Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623 -            8.4e-67  226.8   5.6     1e-66  226.5   5.6   1.1   1   0   0   1   1   1   1 # 3 # 1013 # 1 # ID=126_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.637
+k141_87789_3         -          Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623 -            6.3e-57  194.4   6.2   2.1e-56  192.7   6.2   1.7   1   1   0   1   1   1   1 # 433 # 1884 # -1 # ID=285_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.614
+k141_275435_2        -          Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623 -            1.1e-55  190.4   7.1   2.7e-55  189.0   7.1   1.6   1   1   0   1   1   1   1 # 823 # 1584 # -1 # ID=6809_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+k141_473728_1        -          Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623 -            2.4e-53  182.6   2.8   7.3e-52  177.8   2.8   2.1   1   1   0   1   1   1   1 # 2 # 1543 # 1 # ID=17733_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.627
+k141_213630_2        -          Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623 -            1.3e-48  167.1  10.3   2.4e-48  166.2  10.3   1.4   1   1   0   1   1   1   1 # 515 # 1501 # -1 # ID=15154_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.612
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750947_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750947_contigs_filtered_1500bp.fasta-HMM/Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750947_contigs_filtered_1500bp.fasta-HMM/Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623.hmm.tblout -T 154 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdO_Pyoverdine_biosynthesis_Paeruginosa_PA2395_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750947_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:12:50 2025
+# [ok]

@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_125658_3        -          Ndh2                 -            1.4e-58  199.9   0.0   1.8e-58  199.6   0.0   1.0   1   0   0   1   1   1   1 # 875 # 2092 # 1 # ID=5766_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.709
+k141_500291_3        -          Ndh2                 -            1.3e-50  173.6   0.4   1.6e-50  173.3   0.4   1.0   1   0   0   1   1   1   1 # 1328 # 2668 # -1 # ID=8324_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.362
+k141_506553_2        -          Ndh2                 -              1e-47  164.0   0.0   1.2e-47  163.7   0.0   1.0   1   0   0   1   1   1   1 # 142 # 1455 # 1 # ID=10541_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.646
+k141_333660_3        -          Ndh2                 -            4.4e-42  145.4   0.0   5.5e-42  145.1   0.0   1.0   1   0   0   1   1   1   1 # 1128 # 2492 # 1 # ID=1133_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.722
+k141_198482_1        -          Ndh2                 -            6.6e-42  144.8   0.0   8.8e-42  144.4   0.0   1.0   1   0   0   1   1   1   1 # 1 # 1209 # 1 # ID=7222_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+k141_347355_2        -          Ndh2                 -            7.3e-41  141.4   0.0   8.9e-41  141.1   0.0   1.0   1   0   0   1   1   1   1 # 264 # 1628 # 1 # ID=6082_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.697
+k141_64172_1         -          Ndh2                 -            2.3e-37  129.8   0.0     3e-37  129.4   0.0   1.0   1   0   0   1   1   1   1 # 44 # 1414 # -1 # ID=10057_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.722
+k141_31336_2         -          Ndh2                 -            1.2e-35  124.2   0.0   1.6e-35  123.7   0.0   1.0   1   0   0   1   1   1   1 # 275 # 1879 # 1 # ID=11571_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.705
+k141_72929_1         -          Ndh2                 -              2e-34  120.1   0.0   2.7e-34  119.7   0.0   1.0   1   0   0   1   1   1   1 # 3 # 863 # -1 # ID=13165_1;partial=10;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.612
+k141_451855_1        -          Ndh2                 -            2.4e-33  116.6   0.0   3.1e-33  116.2   0.0   1.0   1   0   0   1   1   1   1 # 3 # 923 # -1 # ID=4065_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.714
+k141_59522_1         -          Ndh2                 -            1.7e-32  113.8   0.0   2.5e-32  113.2   0.0   1.1   1   0   0   1   1   1   1 # 27 # 1385 # -1 # ID=8437_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.627
+k141_551433_2        -          Ndh2                 -            5.5e-29  102.1   0.0   9.3e-29  101.4   0.0   1.2   1   1   0   1   1   1   1 # 175 # 1503 # -1 # ID=157_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.622
+k141_219739_2        -          Ndh2                 -              9e-25   88.2   0.0   9.9e-25   88.1   0.0   1.0   1   0   0   1   1   1   1 # 117 # 1016 # -1 # ID=14136_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+k141_553415_1        -          Ndh2                 -            9.2e-25   88.2   0.0   1.1e-24   88.0   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1201 # 1 # ID=1143_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+k141_490780_3        -          Ndh2                 -              8e-15   55.4   0.0     1e-14   55.0   0.0   1.0   1   0   0   1   1   1   1 # 1522 # 2265 # -1 # ID=4855_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.599
+k141_94673_1         -          Ndh2                 -            3.2e-13   50.1   0.0   3.9e-13   49.8   0.0   1.1   1   0   0   1   1   1   1 # 2 # 658 # -1 # ID=7804_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//Ndh2.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750950_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750950_contigs_filtered_1500bp.fasta-HMM/Ndh2.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750950_contigs_filtered_1500bp.fasta-HMM/Ndh2.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//Ndh2.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750950_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:09:51 2025
+# [ok]

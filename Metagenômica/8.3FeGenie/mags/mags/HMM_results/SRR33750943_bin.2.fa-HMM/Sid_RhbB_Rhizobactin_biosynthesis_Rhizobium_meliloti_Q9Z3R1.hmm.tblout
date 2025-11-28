@@ -1,0 +1,17 @@
+#                                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                  accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                        -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_213841_5        -          Sid_RhbB_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R1 -            1.6e-86  287.8   0.0   2.1e-86  287.4   0.0   1.0   1   0   0   1   1   1   1 # 1817 # 3334 # 1 # ID=309_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.716
+k141_166667_3        -          Sid_RhbB_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R1 -            1.3e-75  251.8   0.0   1.4e-75  251.6   0.0   1.0   1   0   0   1   1   1   1 # 2357 # 3388 # -1 # ID=30_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.698
+k141_126535_8        -          Sid_RhbB_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R1 -            1.1e-64  215.7   0.0   2.3e-64  214.7   0.0   1.4   1   1   0   1   1   1   1 # 9327 # 10391 # 1 # ID=239_8;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.689
+k141_427052_3        -          Sid_RhbB_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R1 -            2.7e-47  158.3   0.0   3.2e-47  158.1   0.0   1.0   1   0   0   1   1   1   1 # 1204 # 2589 # 1 # ID=223_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.720
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_RhbB_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R1.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750943_bin.2.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750943_bin.2.fa-HMM/Sid_RhbB_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R1.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750943_bin.2.fa-HMM/Sid_RhbB_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R1.hmm.tblout -T 61 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_RhbB_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R1.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750943_bin.2.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:17:20 2025
+# [ok]

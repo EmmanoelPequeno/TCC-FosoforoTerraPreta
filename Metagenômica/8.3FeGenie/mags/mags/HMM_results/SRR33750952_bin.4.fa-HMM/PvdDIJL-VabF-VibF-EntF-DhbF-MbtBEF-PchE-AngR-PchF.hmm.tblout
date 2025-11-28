@@ -1,0 +1,16 @@
+#                                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_649013_3        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -                  0 2165.7   0.0         0 1762.9   0.0   2.1   1   1   1   2   2   2   2 # 3055 # 10317 # -1 # ID=1851_3;partial=00;start_type=TTG;rbs_motif=GGAG;rbs_spacer=5bp;gc_cont=0.685
+k141_116567_4        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -            2.7e-91  306.2   0.0   3.5e-91  305.8   0.0   1.0   1   0   0   1   1   1   1 # 2193 # 3668 # 1 # ID=1830_4;partial=01;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5bp;gc_cont=0.684
+k141_167480_5        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -            1.3e-84  284.0   0.0   1.8e-84  283.6   0.0   1.0   1   0   0   1   1   1   1 # 3911 # 5482 # -1 # ID=2082_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.723
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm.tblout -T 272 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:18:33 2025
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_158968_1        -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   1.2e-33  116.8   0.0   1.4e-33  116.6   0.0   1.1   1   0   0   1   1   1   1 # 163 # 972 # -1 # ID=5910_1;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.677
+k141_243608_1        -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   2.3e-33  115.9   0.0   2.9e-33  115.6   0.0   1.1   1   0   0   1   1   1   1 # 97 # 1053 # -1 # ID=6536_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.703
+k141_85253_3         -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   7.6e-32  110.9   0.0   9.1e-32  110.7   0.0   1.1   1   0   0   1   1   1   1 # 698 # 1612 # 1 # ID=795_3;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.695
+k141_411753_2        -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   4.9e-17   62.4   0.0   6.5e-17   62.0   0.0   1.1   1   0   0   1   1   1   1 # 845 # 1630 # -1 # ID=7377_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.692
+k141_8794_2          -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   1.6e-12   47.7   0.0     2e-12   47.3   0.0   1.1   1   0   0   1   1   1   1 # 819 # 1571 # -1 # ID=2445_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.684
+k141_209422_1        -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   8.2e-11   42.1   0.0     9e-11   41.9   0.0   1.0   1   0   0   1   1   1   1 # 2 # 364 # -1 # ID=4714_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.680
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750943_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750943_contigs_filtered_1500bp.fasta-HMM/PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750943_contigs_filtered_1500bp.fasta-HMM/PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA.hmm.tblout -T 27 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750943_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:18:48 2025
+# [ok]

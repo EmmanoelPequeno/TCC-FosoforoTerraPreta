@@ -1,0 +1,15 @@
+#                                                                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_151966_1        -          PF07715_sub-TonB_dependent_siderophore_receptor_plug-PirA-PiuA-FepA-RhtA-LvtA -            6.7e-19   68.7   0.4   1.7e-18   67.3   0.4   1.7   1   0   0   1   1   1   1 # 1418 # 2479 # 1 # ID=2636_1;partial=01;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.667
+k141_253214_1        -          PF07715_sub-TonB_dependent_siderophore_receptor_plug-PirA-PiuA-FepA-RhtA-LvtA -            0.00039   21.2   2.4   0.00039   21.2   2.4   2.1   2   0   0   2   2   2   1 # 2 # 1504 # -1 # ID=4247_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.593
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF07715_sub-TonB_dependent_siderophore_receptor_plug-PirA-PiuA-FepA-RhtA-LvtA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750959_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750959_contigs_filtered_1500bp.fasta-HMM/PF07715_sub-TonB_dependent_siderophore_receptor_plug-PirA-PiuA-FepA-RhtA-LvtA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750959_contigs_filtered_1500bp.fasta-HMM/PF07715_sub-TonB_dependent_siderophore_receptor_plug-PirA-PiuA-FepA-RhtA-LvtA.hmm.tblout -T 21 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF07715_sub-TonB_dependent_siderophore_receptor_plug-PirA-PiuA-FepA-RhtA-LvtA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750959_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:18:36 2025
+# [ok]

@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_271188_2        -          nramp                -             1e-203  678.0  20.6  1.2e-203  677.8  20.6   1.0   1   0   0   1   1   1   1 # 814 # 2184 # 1 # ID=672_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.646
+k141_86416_1         -          nramp                -           1.9e-195  650.7  24.5  2.2e-195  650.6  24.5   1.0   1   0   0   1   1   1   1 # 3 # 1205 # 1 # ID=10360_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.627
+k141_386119_1        -          nramp                -           1.2e-183  611.9  15.9  1.3e-183  611.7  15.9   1.0   1   0   0   1   1   1   1 # 1 # 1233 # -1 # ID=13747_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.616
+k141_67661_2         -          nramp                -           1.2e-132  443.8  18.4  1.4e-132  443.7  18.4   1.0   1   0   0   1   1   1   1 # 422 # 1306 # -1 # ID=15070_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+k141_259690_1        -          nramp                -            3.9e-77  260.9  12.2   4.7e-77  260.7  12.2   1.0   1   0   0   1   1   1   1 # 3 # 866 # -1 # ID=10906_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.620
+k141_95700_2         -          nramp                -            3.7e-67  228.1  13.2   4.2e-67  227.9  13.2   1.0   1   0   0   1   1   1   1 # 189 # 1067 # -1 # ID=17941_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.686
+k141_30131_3         -          nramp                -            4.7e-60  204.7   8.1   5.2e-60  204.5   8.1   1.0   1   0   0   1   1   1   1 # 1749 # 2468 # -1 # ID=4367_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.693
+k141_364187_1        -          nramp                -            1.8e-51  176.4  10.0     2e-51  176.2  10.0   1.0   1   0   0   1   1   1   1 # 1 # 645 # 1 # ID=16083_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.698
+k141_388345_1        -          nramp                -            1.8e-37  130.3  13.0     2e-37  130.1  13.0   1.0   1   0   0   1   1   1   1 # 1 # 477 # 1 # ID=15623_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+k141_44149_2         -          nramp                -            2.1e-37  130.1   8.5   2.3e-37  129.9   8.5   1.0   1   0   0   1   1   1   1 # 658 # 1086 # -1 # ID=15632_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.662
+k141_305300_4        -          nramp                -            5.9e-29  102.2   3.9   6.6e-29  102.1   3.9   1.0   1   0   0   1   1   1   1 # 2733 # 3002 # -1 # ID=7947_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+k141_13137_1         -          nramp                -            1.4e-21   77.9   5.5   1.9e-21   77.5   5.5   1.1   1   0   0   1   1   1   1 # 1 # 1056 # -1 # ID=10642_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+k141_259967_1        -          nramp                -            4.2e-17   63.2   7.4   5.2e-17   62.8   7.4   1.0   1   0   0   1   1   1   1 # 43 # 1017 # 1 # ID=11150_1;partial=01;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.377
+k141_328600_2        -          nramp                -              5e-16   59.6  10.5   5.8e-16   59.4  10.5   1.0   1   0   0   1   1   1   1 # 166 # 1038 # 1 # ID=7091_2;partial=01;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.692
+k141_54876_1         -          nramp                -            9.1e-13   48.9   3.1   9.9e-13   48.8   3.1   1.0   1   0   0   1   1   1   1 # 1 # 498 # -1 # ID=4605_1;partial=10;start_type=TTG;rbs_motif=AATAA;rbs_spacer=4bp;gc_cont=0.396
+k141_168287_1        -          nramp                -            1.1e-09   38.7   9.9   1.4e-09   38.4   9.9   1.1   1   0   0   1   1   1   1 # 3 # 785 # 1 # ID=20424_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.669
+k141_179092_2        -          nramp                -            5.9e-06   26.4  11.1   7.6e-06   26.1  11.1   1.1   1   0   0   1   1   1   1 # 142 # 1047 # -1 # ID=5494_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.617
+k141_200504_1        -          nramp                -            1.3e-05   25.3   0.0   1.5e-05   25.1   0.0   1.0   1   0   0   1   1   1   1 # 1 # 327 # -1 # ID=2956_1;partial=10;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.636
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//nramp.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750935_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750935_contigs_maiores1kbp.fasta-HMM/nramp.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750935_contigs_maiores1kbp.fasta-HMM/nramp.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//nramp.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750935_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:32 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                           --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                       accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------             -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_59654_3         -          FbpB-FutB-iron_permease_fam1-rep -            2.2e-52  177.0  45.2   1.3e-50  171.2  45.2   2.4   1   1   0   1   1   1   1 # 1488 # 3224 # 1 # ID=455_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+k141_106091_2        -          FbpB-FutB-iron_permease_fam1-rep -            1.1e-46  158.2  40.1   9.9e-41  138.6  25.9   2.3   2   1   0   2   2   2   2 # 966 # 2684 # 1 # ID=351_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpB-FutB-iron_permease_fam1-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.9.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.9.fa-HMM/FbpB-FutB-iron_permease_fam1-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.9.fa-HMM/FbpB-FutB-iron_permease_fam1-rep.hmm.tblout -T 118 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpB-FutB-iron_permease_fam1-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.9.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:31:33 2025
+# [ok]

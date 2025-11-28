@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_164755_7        -          FUR                  PF01475.14   3.8e-38  128.3   0.2   4.5e-38  128.0   0.2   1.1   1   0   0   1   1   1   1 # 4872 # 5351 # -1 # ID=5_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.679
+k141_168067_2        -          FUR                  PF01475.14   9.6e-26   88.2   0.1   1.1e-25   88.0   0.1   1.1   1   0   0   1   1   1   1 # 786 # 1253 # -1 # ID=109_2;partial=00;start_type=ATG;rbs_motif=GAGG;rbs_spacer=6bp;gc_cont=0.650
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01475-Iron_dependent_repressor-fur_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750960_bin.5.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750960_bin.5.fa-HMM/PF01475-Iron_dependent_repressor-fur_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750960_bin.5.fa-HMM/PF01475-Iron_dependent_repressor-fur_family.hmm.tblout -T 23 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01475-Iron_dependent_repressor-fur_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750960_bin.5.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:43:17 2025
+# [ok]

@@ -1,0 +1,17 @@
+#                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_908935_3        -          HasB-TonB_paralog_heme_uptake_fam1-rep -            1.4e-51  177.9  12.4     4e-51  176.4  12.4   1.6   1   1   0   1   1   1   1 # 1910 # 2665 # -1 # ID=1873_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.616
+k141_532441_5        -          HasB-TonB_paralog_heme_uptake_fam1-rep -              2e-48  167.6  13.4   2.4e-48  167.3  13.4   1.0   1   0   0   1   1   1   1 # 2084 # 2875 # -1 # ID=5785_5;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=11-12bp;gc_cont=0.662
+k141_265554_1        -          HasB-TonB_paralog_heme_uptake_fam1-rep -            9.1e-34  119.5   1.8   1.1e-33  119.3   1.8   1.0   1   0   0   1   1   1   1 # 1 # 294 # 1 # ID=4661_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.670
+k141_409276_1        -          HasB-TonB_paralog_heme_uptake_fam1-rep -            1.2e-30  109.3   3.7   1.9e-30  108.6   3.7   1.3   1   0   0   1   1   1   1 # 145 # 1524 # -1 # ID=7915_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.606
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//HasB-TonB_paralog_heme_uptake-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750951_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750951_contigs_filtered_1500bp.fasta-HMM/HasB-TonB_paralog_heme_uptake-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750951_contigs_filtered_1500bp.fasta-HMM/HasB-TonB_paralog_heme_uptake-rep.hmm.tblout -T 75 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//HasB-TonB_paralog_heme_uptake-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750951_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:10:41 2025
+# [ok]

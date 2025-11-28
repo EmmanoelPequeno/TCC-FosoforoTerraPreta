@@ -1,0 +1,15 @@
+#                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                  accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------        -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_415793_3        -          FbpC-iron_uptake_ATPase-rep -             2e-103  342.6   0.3  5.9e-103  341.1   0.3   1.6   1   1   0   1   1   1   1 # 2067 # 3185 # -1 # ID=163_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.684
+k141_28355_2         -          FbpC-iron_uptake_ATPase-rep -              3e-98  325.6   0.3   5.1e-98  324.8   0.3   1.4   1   1   0   1   1   1   1 # 796 # 1746 # 1 # ID=193_2;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.701
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpC-iron_uptake_ATPase-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.4.fa-HMM/FbpC-iron_uptake_ATPase-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.4.fa-HMM/FbpC-iron_uptake_ATPase-rep.hmm.tblout -T 300 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpC-iron_uptake_ATPase-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:31:28 2025
+# [ok]

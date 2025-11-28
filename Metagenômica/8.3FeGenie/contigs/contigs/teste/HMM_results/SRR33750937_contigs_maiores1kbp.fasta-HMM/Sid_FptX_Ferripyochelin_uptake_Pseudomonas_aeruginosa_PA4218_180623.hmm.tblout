@@ -1,0 +1,21 @@
+#                                                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_568820_1        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            1.6e-17   66.6  25.4   1.6e-17   66.6  25.4   1.6   1   1   0   1   1   1   1 # 1 # 1314 # 1 # ID=10367_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.623
+k141_384322_1        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            1.6e-16   63.3  23.8   1.8e-16   63.1  23.8   1.0   1   0   0   1   1   1   1 # 3 # 905 # -1 # ID=31263_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+k141_305433_2        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            4.2e-16   61.9  11.3   7.3e-16   61.1  11.3   1.4   1   1   0   1   1   1   1 # 501 # 1166 # 1 # ID=31348_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+k141_174528_2        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            1.7e-15   59.9  38.1   6.7e-15   57.9  38.1   1.8   1   1   0   1   1   1   1 # 584 # 1933 # -1 # ID=18114_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.644
+k141_182756_1        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            2.3e-15   59.5  31.2   8.2e-15   57.7  31.2   1.8   1   1   0   1   1   1   1 # 2 # 1345 # -1 # ID=29422_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.661
+k141_191013_1        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            2.3e-13   52.9   6.8   2.6e-13   52.7   6.8   1.0   1   0   0   1   1   1   1 # 2 # 451 # -1 # ID=39674_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+k141_135575_4        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            3.6e-13   52.2  26.6   4.9e-13   51.8  26.6   1.0   1   0   0   1   1   1   1 # 1172 # 2335 # -1 # ID=21013_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+k141_623248_2        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            2.6e-11   46.1  26.0     5e-11   45.2  26.0   1.5   1   1   0   1   1   1   1 # 386 # 1426 # 1 # ID=33749_2;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.551
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:58:40 2025
+# [ok]

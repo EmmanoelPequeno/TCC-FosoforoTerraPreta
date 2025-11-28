@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_293263_1        -          FmnB                 -            1.8e-29  105.8   0.0   2.1e-29  105.5   0.0   1.0   1   0   0   1   1   1   1 # 100 # 624 # 1 # ID=38059_1;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.558
+k141_282507_1        -          FmnB                 -              1e-13   53.9   0.0   1.5e-13   53.4   0.0   1.2   1   0   0   1   1   1   1 # 3 # 1022 # -1 # ID=24053_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+k141_139499_6        -          FmnB                 -            8.4e-13   50.9   0.0   1.2e-12   50.3   0.0   1.2   1   0   0   1   1   1   1 # 5146 # 6114 # -1 # ID=9898_6;partial=00;start_type=TTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.622
+k141_202140_3        -          FmnB                 -            9.9e-12   47.4   0.0   1.3e-11   47.0   0.0   1.1   1   0   0   1   1   1   1 # 918 # 1808 # 1 # ID=5279_3;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.732
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//FmnB.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750957_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750957_contigs_maiores1kbp.fasta-HMM/FmnB.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750957_contigs_maiores1kbp.fasta-HMM/FmnB.hmm.tblout -T 33 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//FmnB.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750957_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:50:22 2025
+# [ok]

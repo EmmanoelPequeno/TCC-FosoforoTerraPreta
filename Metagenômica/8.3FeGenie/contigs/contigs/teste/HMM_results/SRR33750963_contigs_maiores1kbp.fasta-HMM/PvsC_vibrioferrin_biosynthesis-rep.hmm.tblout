@@ -1,0 +1,23 @@
+#                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_512907_2        -          PvsC_vibrioferrin_biosynthesis-rep -            5.1e-14   54.4   8.5   5.1e-14   54.4   8.5   2.1   2   0   0   2   2   2   1 # 700 # 1644 # 1 # ID=45180_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.671
+k141_264186_7        -          PvsC_vibrioferrin_biosynthesis-rep -            7.3e-12   47.3  26.9   1.7e-06   29.7   5.2   2.5   2   1   0   2   2   2   2 # 4180 # 5646 # 1 # ID=9591_7;partial=01;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.690
+k141_537259_1        -          PvsC_vibrioferrin_biosynthesis-rep -              2e-10   42.6   9.2     0.009   17.4   0.2   3.1   2   1   1   3   3   3   3 # 3 # 929 # 1 # ID=30045_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.694
+k141_202007_1        -          PvsC_vibrioferrin_biosynthesis-rep -            5.3e-10   41.2   5.5   5.3e-10   41.2   5.5   2.2   2   0   0   2   2   2   1 # 2 # 1396 # 1 # ID=23390_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+k141_487038_6        -          PvsC_vibrioferrin_biosynthesis-rep -              8e-10   40.6  25.6   2.3e-07   32.5   9.9   3.0   2   1   0   2   2   2   2 # 4077 # 5369 # -1 # ID=12802_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.360
+k141_109232_1        -          PvsC_vibrioferrin_biosynthesis-rep -            8.1e-10   40.6  12.3   1.4e-07   33.2   8.1   2.2   1   1   1   2   2   2   2 # 42 # 1244 # 1 # ID=45001_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.639
+k141_180984_2        -          PvsC_vibrioferrin_biosynthesis-rep -            3.1e-09   38.7  28.0   4.9e-08   34.7  28.0   3.0   1   1   0   1   1   1   1 # 291 # 1490 # 1 # ID=44035_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+k141_413867_3        -          PvsC_vibrioferrin_biosynthesis-rep -            6.2e-09   37.7   7.1   6.2e-09   37.7   7.1   2.2   2   0   0   2   2   2   1 # 1197 # 2795 # -1 # ID=13172_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.630
+k141_390144_3        -          PvsC_vibrioferrin_biosynthesis-rep -              1e-08   37.0  11.3     1e-08   37.0  11.3   3.3   1   1   2   3   3   3   1 # 2566 # 4047 # -1 # ID=29909_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.701
+k141_84555_1         -          PvsC_vibrioferrin_biosynthesis-rep -            2.4e-08   35.8  18.7   1.4e-06   29.9  18.7   2.6   1   1   0   1   1   1   1 # 4 # 1173 # -1 # ID=14050_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.598
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsC_vibrioferrin_biosynthesis-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/PvsC_vibrioferrin_biosynthesis-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/PvsC_vibrioferrin_biosynthesis-rep.hmm.tblout -T 35 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsC_vibrioferrin_biosynthesis-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:51:03 2025
+# [ok]

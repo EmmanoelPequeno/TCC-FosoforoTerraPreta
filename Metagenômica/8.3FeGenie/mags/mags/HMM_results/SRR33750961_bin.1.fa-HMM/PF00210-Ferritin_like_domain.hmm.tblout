@@ -1,0 +1,14 @@
+#                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_191647_1        -          PF00210-Ferritin_like_domain PF00210.19   5.9e-22   73.4   0.0     7e-22   73.2   0.0   1.0   1   0   0   1   1   1   1 # 49 # 543 # 1 # ID=77_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.372
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_storage//PF00210-Ferritin_like_domain.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.1.fa-HMM/PF00210-Ferritin_like_domain.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.1.fa-HMM/PF00210-Ferritin_like_domain.hmm.tblout -T 44 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_storage//PF00210-Ferritin_like_domain.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:10:47 2025
+# [ok]

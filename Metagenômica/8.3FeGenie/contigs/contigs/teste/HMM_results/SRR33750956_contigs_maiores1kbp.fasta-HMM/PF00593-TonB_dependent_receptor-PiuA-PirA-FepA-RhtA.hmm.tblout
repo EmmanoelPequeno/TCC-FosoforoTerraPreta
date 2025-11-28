@@ -1,0 +1,21 @@
+#                                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_109833_1        -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   2.6e-27   99.5   6.3   2.6e-27   99.5   6.3   2.0   2   0   0   2   2   2   1 # 3 # 1025 # 1 # ID=20644_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.627
+k141_291798_1        -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   2.9e-23   86.2  11.1   7.5e-23   84.8  11.1   1.7   1   1   0   1   1   1   1 # 95 # 1033 # -1 # ID=14111_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+k141_59966_1         -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   4.5e-23   85.6   5.9   5.5e-23   85.3   5.9   1.1   1   0   0   1   1   1   1 # 3 # 845 # 1 # ID=16802_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+k141_360012_1        -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   1.1e-21   81.0   0.0   1.1e-21   81.0   0.0   3.0   2   1   0   2   2   2   1 # 3 # 1166 # -1 # ID=41056_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.536
+k141_72397_2         -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   1.9e-21   80.2   0.5   2.1e-21   80.1   0.5   1.0   1   0   0   1   1   1   1 # 544 # 1164 # -1 # ID=32223_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.548
+k141_6565_1          -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   2.5e-21   79.8   1.7   2.5e-21   79.8   1.7   2.6   2   1   0   2   2   2   1 # 2 # 2131 # 1 # ID=7971_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.630
+k141_702489_1        -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   5.2e-20   75.5   8.2   1.2e-19   74.4   2.7   2.1   1   1   1   2   2   2   1 # 1 # 1185 # 1 # ID=2967_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.565
+k141_625743_1        -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   7.4e-20   75.0   5.8   7.4e-20   75.0   5.8   2.3   1   1   1   2   2   2   1 # 1 # 1119 # 1 # ID=23368_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA.hmm.tblout -T 75 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:59:02 2025
+# [ok]

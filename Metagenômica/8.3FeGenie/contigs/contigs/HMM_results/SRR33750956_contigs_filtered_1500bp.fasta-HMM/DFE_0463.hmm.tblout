@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_2390_2          -          DFE_0463             -              3e-43  149.5   9.8   1.1e-16   62.2   0.1   3.1   1   1   2   3   3   3   3 # 5430 # 6512 # 1 # ID=1008_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.385
+k141_94176_1         -          DFE_0463             -            2.8e-42  146.3   3.2   5.1e-18   66.6   0.3   3.2   1   1   2   3   3   3   3 # 862 # 1887 # -1 # ID=339_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373
+k141_580568_1        -          DFE_0463             -            8.7e-42  144.7   6.1   1.5e-21   78.2   0.2   3.2   1   1   2   3   3   3   3 # 1184 # 2104 # 1 # ID=9250_1;partial=01;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.398
+k141_94176_4         -          DFE_0463             -            1.4e-41  144.0   3.9   8.5e-14   52.8   0.3   3.1   1   1   2   3   3   3   3 # 3438 # 4508 # -1 # ID=339_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.397
+k141_547035_1        -          DFE_0463             -            2.2e-41  143.3  16.3   3.5e-16   60.6   2.8   3.6   1   1   2   3   3   3   3 # 165 # 1256 # -1 # ID=14993_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.394
+k141_286027_4        -          DFE_0463             -            7.5e-41  141.6   3.3   6.2e-19   69.6   0.1   3.5   2   1   1   3   3   3   3 # 3478 # 4473 # -1 # ID=2563_4;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.392
+k141_181933_2        -          DFE_0463             -            3.8e-40  139.3   9.0   5.3e-16   60.0   0.1   3.5   1   1   2   3   3   3   3 # 104 # 1276 # -1 # ID=18465_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+k141_738365_1        -          DFE_0463             -            5.3e-39  135.5   8.0   1.4e-20   75.1   0.7   3.2   1   1   1   2   2   2   2 # 153 # 1175 # -1 # ID=17061_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.411
+k141_383120_1        -          DFE_0463             -            1.5e-37  130.8   8.0     4e-17   63.7   1.2   3.3   1   1   1   3   3   3   3 # 1696 # 2829 # 1 # ID=4325_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365
+k141_300650_1        -          DFE_0463             -            1.7e-31  110.9   2.0   8.8e-17   62.6   0.0   3.2   1   1   2   3   3   3   3 # 102 # 1169 # -1 # ID=8954_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.663
+k141_211529_2        -          DFE_0463             -            5.4e-30  106.0   2.5   1.6e-10   42.0   0.3   3.0   1   1   1   3   3   3   3 # 114 # 1115 # -1 # ID=11131_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.546
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750956_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750956_contigs_filtered_1500bp.fasta-HMM/DFE_0463.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750956_contigs_filtered_1500bp.fasta-HMM/DFE_0463.hmm.tblout -T 100 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750956_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:10:02 2025
+# [ok]

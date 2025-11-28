@@ -1,0 +1,16 @@
+#                                                                                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                                     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_475171_5        -          Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610 -            1.7e-47  161.0   0.0   2.1e-47  160.7   0.0   1.0   1   0   0   1   1   1   1 # 2382 # 3278 # -1 # ID=2097_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.615
+k141_305958_14       -          Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610 -            6.1e-27   93.5   0.0   6.7e-27   93.4   0.0   1.0   1   0   0   1   1   1   1 # 12190 # 12708 # 1 # ID=711_14;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+k141_215146_2        -          Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610 -            4.1e-17   61.2   0.0   1.5e-16   59.4   0.0   1.7   1   1   0   1   1   1   1 # 246 # 1094 # 1 # ID=1889_2;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.638
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm.tblout -T 46 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:29:47 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_383537_2        -          PvsC_vibrioferrin_biosynthesis-rep -            1.3e-12   44.9  30.2   1.7e-09   34.6  10.9   3.0   1   1   0   2   2   2   2 # 695 # 2005 # -1 # ID=623_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385
+k141_31754_2         -          PvsC_vibrioferrin_biosynthesis-rep -            4.8e-11   39.7  26.5   1.3e-08   31.7  10.4   3.0   2   1   0   2   2   2   2 # 349 # 1641 # -1 # ID=450_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.357
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsC_vibrioferrin_biosynthesis-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.6.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.6.fa-HMM/PvsC_vibrioferrin_biosynthesis-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.6.fa-HMM/PvsC_vibrioferrin_biosynthesis-rep.hmm.tblout -T 35 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsC_vibrioferrin_biosynthesis-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.6.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:26:10 2025
+# [ok]

@@ -1,0 +1,21 @@
+#                                                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_272491_1        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            6.8e-46  156.7   0.2   8.6e-34  116.8   0.0   3.0   2   1   0   2   2   2   2 # 1 # 1134 # 1 # ID=4721_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.561
+k141_224299_2        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            4.5e-36  124.3   0.5   9.6e-25   86.9   0.9   2.9   2   1   0   2   2   2   2 # 1027 # 2214 # 1 # ID=6773_2;partial=01;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380
+k141_329040_2        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            5.8e-36  123.9   1.7   1.9e-30  105.7   0.8   2.3   2   0   0   2   2   2   2 # 384 # 1511 # -1 # ID=4606_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.679
+k141_309576_1        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            2.7e-33  115.2   6.0   3.9e-28   98.1   2.5   3.0   2   1   0   2   2   2   2 # 3 # 989 # 1 # ID=6881_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.690
+k141_260468_2        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            3.8e-30  104.8   0.9   2.6e-29  102.0   0.9   2.0   1   1   0   1   1   1   1 # 666 # 1529 # -1 # ID=1472_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.628
+k141_388969_2        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            2.1e-28   99.0   2.7   2.5e-28   98.8   2.7   1.0   1   0   0   1   1   1   1 # 832 # 1686 # -1 # ID=5388_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.726
+k141_15316_1         -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            3.5e-28   98.3   0.2     7e-27   94.0   0.2   2.0   1   1   0   1   1   1   1 # 1 # 729 # 1 # ID=4028_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.447
+k141_362131_2        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            4.1e-28   98.1   4.1   1.5e-26   92.9   4.1   2.1   1   1   0   1   1   1   1 # 285 # 1613 # -1 # ID=5812_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.722
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750934_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750934_contigs_filtered_1500bp.fasta-HMM/Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750934_contigs_filtered_1500bp.fasta-HMM/Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623.hmm.tblout -T 98 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750934_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:11:57 2025
+# [ok]

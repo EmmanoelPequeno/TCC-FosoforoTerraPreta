@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_404740_3        -          MamE                 -            1.2e-58  195.9   5.1     5e-45  151.0   5.3   2.0   1   1   1   2   2   2   2 # 1791 # 2729 # -1 # ID=50_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.416
+k141_492952_1        -          MamE                 -            1.5e-53  179.1  13.0   4.3e-47  157.8   9.5   2.3   1   1   1   2   2   2   2 # 1 # 1227 # 1 # ID=245_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_269069_6        -          MamE                 -              2e-52  175.4  15.2   7.5e-48  160.3  11.0   2.4   1   1   1   2   2   2   2 # 2209 # 3552 # -1 # ID=24_6;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.412
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamE.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.4.fa-HMM/MamE.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.4.fa-HMM/MamE.hmm.tblout -T 170 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamE.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:33:13 2025
+# [ok]

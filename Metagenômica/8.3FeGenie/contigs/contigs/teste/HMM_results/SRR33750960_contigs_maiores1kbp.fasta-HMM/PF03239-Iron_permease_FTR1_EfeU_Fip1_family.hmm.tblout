@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_304924_2        -          FTR1                 PF03239.9    1.5e-36  128.5  13.3     2e-36  128.1  13.3   1.1   1   0   0   1   1   1   1 # 277 # 1131 # -1 # ID=10786_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.677
+k141_294237_3        -          FTR1                 PF03239.9    2.8e-35  124.3  12.3   3.6e-35  124.0  12.3   1.0   1   0   0   1   1   1   1 # 912 # 1760 # -1 # ID=36012_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.720
+k141_164755_5        -          FTR1                 PF03239.9    3.2e-30  107.7  28.3   3.1e-25   91.4  11.9   2.2   1   1   1   2   2   2   2 # 2340 # 4466 # -1 # ID=164_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.741
+k141_41556_3         -          FTR1                 PF03239.9    3.4e-28  101.1  20.6   4.5e-28  100.7  20.6   1.1   1   0   0   1   1   1   1 # 687 # 1508 # -1 # ID=10466_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.698
+k141_127705_1        -          FTR1                 PF03239.9    2.6e-25   91.6  21.2   3.4e-25   91.2  21.2   1.1   1   0   0   1   1   1   1 # 32 # 853 # 1 # ID=34562_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.697
+k141_323482_2        -          FTR1                 PF03239.9    2.9e-23   84.9  15.3   3.8e-23   84.5  15.3   1.2   1   0   0   1   1   1   1 # 450 # 1250 # 1 # ID=33091_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.523
+k141_522480_2        -          FTR1                 PF03239.9    9.2e-21   76.7  17.2   1.1e-20   76.4  17.2   1.1   1   0   0   1   1   1   1 # 318 # 1091 # -1 # ID=33951_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+k141_394604_1        -          FTR1                 PF03239.9    2.7e-11   45.6   7.9   3.2e-11   45.4   7.9   1.1   1   0   0   1   1   1   1 # 3 # 395 # -1 # ID=38017_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.677
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750960_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750960_contigs_maiores1kbp.fasta-HMM/PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750960_contigs_maiores1kbp.fasta-HMM/PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm.tblout -T 24 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750960_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:55:41 2025
+# [ok]

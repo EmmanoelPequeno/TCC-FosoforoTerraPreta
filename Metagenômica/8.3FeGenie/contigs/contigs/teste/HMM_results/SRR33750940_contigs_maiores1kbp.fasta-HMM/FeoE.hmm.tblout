@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_110022_2        -          FeoE                 -            8.2e-35  122.1  14.8   6.8e-29  102.6   6.7   3.0   2   1   1   3   3   3   3 # 972 # 2270 # -1 # ID=6628_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.665
+k141_286584_2        -          FeoE                 -            2.8e-32  113.7  13.8   2.8e-30  107.2   9.1   2.0   1   1   1   2   2   2   2 # 901 # 2082 # 1 # ID=18674_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.664
+k141_118143_1        -          FeoE                 -            1.7e-29  104.6   7.5   7.4e-29  102.5   4.0   2.0   2   0   0   2   2   2   1 # 3 # 1292 # -1 # ID=12182_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.355
+k141_132127_1        -          FeoE                 -            7.5e-29  102.5  10.1   8.2e-29  102.4   9.1   1.4   1   1   1   2   2   2   1 # 1 # 963 # -1 # ID=22002_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.728
+k141_448243_4        -          FeoE                 -            2.2e-18   68.1   4.5   2.9e-18   67.7   4.5   1.0   1   0   0   1   1   1   1 # 2415 # 3368 # -1 # ID=11687_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.375
+k141_528072_2        -          FeoE                 -            8.2e-17   63.0   4.8   8.8e-17   62.9   0.3   2.5   3   0   0   3   3   3   1 # 182 # 1270 # -1 # ID=17714_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_135047_1        -          FeoE                 -            4.8e-15   57.2   1.8   6.4e-15   56.8   1.8   1.0   1   0   0   1   1   1   1 # 261 # 1202 # 1 # ID=592_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.525
+k141_336897_1        -          FeoE                 -            2.2e-12   48.4   9.7   2.9e-12   48.0   9.7   1.0   1   0   0   1   1   1   1 # 2 # 871 # -1 # ID=828_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.703
+k141_123831_1        -          FeoE                 -              1e-06   29.8   7.7   1.3e-06   29.5   7.7   1.1   1   0   0   1   1   1   1 # 1 # 915 # 1 # ID=16172_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.741
+k141_142755_3        -          FeoE                 -            1.7e-05   25.9   9.4     2e-05   25.6   9.4   1.1   1   0   0   1   1   1   1 # 1088 # 1885 # 1 # ID=6070_3;partial=01;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.679
+k141_115533_2        -          FeoE                 -            3.5e-05   24.8   4.8    0.0002   22.3   4.8   1.8   1   1   0   1   1   1   1 # 523 # 1500 # -1 # ID=10424_2;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.373
+k141_81677_1         -          FeoE                 -            3.5e-05   24.8   0.7   3.5e-05   24.8   0.7   1.7   2   0   0   2   2   2   1 # 17 # 1009 # 1 # ID=10061_1;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.399
+k141_460452_1        -          FeoE                 -            3.6e-05   24.7  11.9   4.9e-05   24.3  11.9   1.1   1   0   0   1   1   1   1 # 3 # 650 # -1 # ID=23642_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.535
+k141_32347_2         -          FeoE                 -            9.7e-05   23.3   1.1   0.00011   23.2   1.1   1.0   1   0   0   1   1   1   1 # 696 # 1130 # 1 # ID=22690_2;partial=01;start_type=GTG;rbs_motif=TAAAAA;rbs_spacer=13bp;gc_cont=0.382
+k141_316354_3        -          FeoE                 -            0.00019   22.4   1.4   0.00019   22.4   1.4   1.7   1   1   1   2   2   2   1 # 791 # 1174 # 1 # ID=9786_3;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.685
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FeoE.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750940_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750940_contigs_maiores1kbp.fasta-HMM/FeoE.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750940_contigs_maiores1kbp.fasta-HMM/FeoE.hmm.tblout -T 20 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FeoE.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750940_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:07 2025
+# [ok]

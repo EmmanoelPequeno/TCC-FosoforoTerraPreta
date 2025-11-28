@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_421243_4        -          FTR1                 PF03239.9    7.9e-45  150.3  22.4   1.2e-44  149.7  22.4   1.2   1   0   0   1   1   1   1 # 1522 # 2346 # 1 # ID=461_4;partial=00;start_type=ATG;rbs_motif=AGG;rbs_spacer=10bp;gc_cont=0.705
+k141_507743_2        -          FTR1                 PF03239.9    2.2e-44  148.8  23.2   2.5e-44  148.7  23.2   1.0   1   0   0   1   1   1   1 # 2224 # 2847 # 1 # ID=118_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.691
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750938_bin.3.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750938_bin.3.fa-HMM/PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750938_bin.3.fa-HMM/PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm.tblout -T 24 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750938_bin.3.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:30:50 2025
+# [ok]

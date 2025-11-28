@@ -1,0 +1,18 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_314236_1        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   1.5e-38  131.3   1.8   1.9e-38  130.9   1.8   1.2   1   0   0   1   1   1   1 # 2 # 622 # 1 # ID=1159_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.684
+k141_212647_1        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   1.5e-37  128.0   1.9   2.8e-37  127.2   1.9   1.5   1   0   0   1   1   1   1 # 236 # 1096 # 1 # ID=3056_1;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.660
+k141_240081_1        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11     2e-37  127.6   0.7   3.2e-37  127.0   0.7   1.4   1   0   0   1   1   1   1 # 2 # 634 # 1 # ID=4340_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+k141_288919_2        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   1.7e-35  121.4   4.2   2.2e-35  121.0   4.2   1.2   1   0   0   1   1   1   1 # 236 # 862 # -1 # ID=504_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.518
+k141_73299_4         -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   6.2e-05   22.4   1.2   6.2e-05   22.4   1.2   2.6   3   0   0   3   3   3   1 # 2219 # 3214 # -1 # ID=1520_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750936_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750936_contigs_filtered_1500bp.fasta-HMM/PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750936_contigs_filtered_1500bp.fasta-HMM/PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm.tblout -T 22 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750936_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:10:47 2025
+# [ok]

@@ -1,0 +1,19 @@
+#                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_583309_1        -          PF13668_Ferritin_like_domain PF13668.6    2.2e-25   89.8   1.9   2.8e-25   89.5   1.9   1.1   1   0   0   1   1   1   1 # 1 # 447 # 1 # ID=249_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.707
+k141_481962_8        -          PF13668_Ferritin_like_domain PF13668.6    1.9e-23   83.6   1.4   2.1e-23   83.4   1.4   1.0   1   0   0   1   1   1   1 # 5360 # 5818 # -1 # ID=4141_8;partial=00;start_type=ATG;rbs_motif=AGG;rbs_spacer=9bp;gc_cont=0.647
+k141_230211_1        -          PF13668_Ferritin_like_domain PF13668.6    8.4e-23   81.4   2.5   9.4e-23   81.3   2.5   1.0   1   0   0   1   1   1   1 # 510 # 968 # 1 # ID=3311_1;partial=00;start_type=ATG;rbs_motif=AGG;rbs_spacer=9bp;gc_cont=0.651
+k141_120893_2        -          PF13668_Ferritin_like_domain PF13668.6    1.4e-15   58.1   5.4   1.6e-15   57.8   5.4   1.1   1   0   0   1   1   1   1 # 574 # 1071 # 1 # ID=2237_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.703
+k141_120893_3        -          PF13668_Ferritin_like_domain PF13668.6    1.6e-13   51.4   0.6     2e-13   51.1   0.6   1.1   1   0   0   1   1   1   1 # 1125 # 1688 # 1 # ID=2237_3;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=10bp;gc_cont=0.732
+k141_47323_7         -          PF13668_Ferritin_like_domain PF13668.6    1.7e-12   48.0   3.9   2.3e-12   47.6   3.9   1.2   1   0   0   1   1   1   1 # 5547 # 6143 # 1 # ID=4356_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.730
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_storage//PF13668_Ferritin_like_domain.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PF13668_Ferritin_like_domain.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PF13668_Ferritin_like_domain.hmm.tblout -T 23 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_storage//PF13668_Ferritin_like_domain.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:10:29 2025
+# [ok]

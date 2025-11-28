@@ -1,0 +1,30 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_18696_3         -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            9.5e-07   27.6   0.2    0.0021   16.6   0.0   2.1   2   0   0   2   2   2   2 # 795 # 1418 # 1 # ID=1018_3;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=7bp;gc_cont=0.726
+k141_154717_3        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            1.2e-06   27.3   0.0   1.8e-06   26.7   0.0   1.2   1   0   0   1   1   1   1 # 2041 # 2607 # -1 # ID=1796_3;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=9bp;gc_cont=0.711
+k141_398801_2        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            1.4e-06   27.1   0.0   1.7e-06   26.7   0.0   1.0   1   0   0   1   1   1   1 # 1517 # 2068 # 1 # ID=1971_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.719
+k141_53415_5         -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -              2e-06   26.5   0.0      0.02   13.5   0.0   2.0   2   0   0   2   2   2   2 # 2007 # 2615 # -1 # ID=707_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.685
+k141_409634_3        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -              4e-06   25.6   0.0   4.9e-06   25.3   0.0   1.1   1   0   0   1   1   1   1 # 2387 # 2884 # 1 # ID=428_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.721
+k141_595155_2        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            1.1e-05   24.1   0.0   1.7e-05   23.5   0.0   1.3   1   0   0   1   1   1   1 # 491 # 1387 # 1 # ID=1996_2;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5bp;gc_cont=0.682
+k141_241015_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            3.6e-05   22.4   0.0   4.4e-05   22.1   0.0   1.1   1   0   0   1   1   1   1 # 2 # 571 # -1 # ID=33_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.665
+k141_75768_2         -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            4.4e-05   22.1   0.0   0.00076   18.1   0.0   2.0   2   0   0   2   2   2   1 # 832 # 1290 # 1 # ID=1897_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.695
+k141_409825_2        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            7.4e-05   21.4   0.0   0.00038   19.1   0.0   1.8   1   1   0   1   1   1   1 # 324 # 857 # -1 # ID=448_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+k141_37836_3         -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            7.5e-05   21.4   0.0   0.00012   20.7   0.0   1.4   1   1   0   1   1   1   1 # 1981 # 2862 # 1 # ID=1978_3;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=7bp;gc_cont=0.711
+k141_275420_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00012   20.7   0.0   0.00012   20.7   0.0   1.0   1   0   0   1   1   1   1 # 2 # 214 # -1 # ID=1810_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.700
+k141_600401_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00013   20.6   0.2    0.0015   17.2   0.0   2.5   1   1   1   2   2   2   1 # 2 # 763 # -1 # ID=2106_1;partial=10;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5bp;gc_cont=0.698
+k141_382936_7        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00025   19.7   0.0   0.00032   19.3   0.0   1.1   1   0   0   1   1   1   1 # 4260 # 4751 # -1 # ID=1176_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.730
+k141_625033_5        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -             0.0003   19.4   0.0   0.00039   19.0   0.0   1.2   1   0   0   1   1   1   1 # 1317 # 1877 # 1 # ID=1447_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.672
+k141_452773_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -             0.0005   18.7   0.0   0.00084   18.0   0.0   1.3   1   0   0   1   1   1   1 # 172 # 1062 # 1 # ID=602_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.705
+k141_588956_3        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00062   18.4   0.0     0.017   13.7   0.0   2.1   1   1   0   1   1   1   1 # 1772 # 2251 # -1 # ID=1678_3;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.708
+k141_606686_5        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00064   18.4   0.0   0.00076   18.1   0.0   1.0   1   0   0   1   1   1   1 # 2246 # 2527 # 1 # ID=279_5;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.734
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750937_bin.3.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750937_bin.3.fa-HMM/Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750937_bin.3.fa-HMM/Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750937_bin.3.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:42:49 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_670684_3        -          FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport -            2.2e-62  209.4   1.2   1.9e-30  104.7   0.5   2.8   2   1   0   2   2   2   2 # 2149 # 3795 # -1 # ID=1634_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.659
+k141_604079_2        -          FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport -            2.8e-62  209.0   1.6   1.2e-31  108.6   0.0   2.7   2   1   0   2   2   2   2 # 961 # 2589 # -1 # ID=911_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.626
+k141_341117_1        -          FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport -            3.4e-60  202.2   0.3   5.4e-32  109.8   0.1   2.1   2   0   0   2   2   2   2 # 231 # 1913 # -1 # ID=80_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.639
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.9.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.9.fa-HMM/FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.9.fa-HMM/FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport.hmm.tblout -T 172 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//FpuD-CbrD-FepC-FhuC-PvuDE-FecE-SstC-ViuC-Siderophore_ABC_transport.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.9.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:40:34 2025
+# [ok]

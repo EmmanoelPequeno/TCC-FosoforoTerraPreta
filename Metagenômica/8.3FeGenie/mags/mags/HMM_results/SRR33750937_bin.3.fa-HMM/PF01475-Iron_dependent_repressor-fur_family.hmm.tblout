@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_382936_4        -          FUR                  PF01475.14     2e-26   91.5   0.0   2.3e-26   91.3   0.0   1.0   1   0   0   1   1   1   1 # 2333 # 2773 # 1 # ID=1176_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.712
+k141_94168_2         -          FUR                  PF01475.14   1.9e-23   81.9   0.0     2e-23   81.9   0.0   1.0   1   0   0   1   1   1   1 # 1862 # 2281 # 1 # ID=684_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.705
+k141_390799_2        -          FUR                  PF01475.14   5.1e-23   80.5   0.0   5.8e-23   80.4   0.0   1.0   1   0   0   1   1   1   1 # 585 # 989 # -1 # ID=1581_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.716
+k141_524318_3        -          FUR                  PF01475.14   2.3e-21   75.2   0.0   2.9e-21   74.9   0.0   1.1   1   0   0   1   1   1   1 # 988 # 1452 # 1 # ID=155_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.703
+k141_519908_2        -          FUR                  PF01475.14   2.5e-15   55.8   0.0   2.9e-15   55.5   0.0   1.3   1   0   0   1   1   1   1 # 2168 # 2632 # -1 # ID=1970_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.665
+k141_94168_3         -          FUR                  PF01475.14   3.5e-07   29.4   0.1   3.9e-07   29.3   0.1   1.0   1   0   0   1   1   1   1 # 2370 # 2531 # 1 # ID=684_3;partial=01;start_type=GTG;rbs_motif=GGAG;rbs_spacer=9bp;gc_cont=0.679
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01475-Iron_dependent_repressor-fur_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750937_bin.3.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750937_bin.3.fa-HMM/PF01475-Iron_dependent_repressor-fur_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750937_bin.3.fa-HMM/PF01475-Iron_dependent_repressor-fur_family.hmm.tblout -T 23 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01475-Iron_dependent_repressor-fur_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750937_bin.3.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:42:48 2025
+# [ok]

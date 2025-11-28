@@ -1,0 +1,19 @@
+#                                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                      accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                            -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_254992_1        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            7.5e-72  244.3   0.2   9.6e-72  243.9   0.2   1.1   1   0   0   1   1   1   1 # 78 # 854 # -1 # ID=29242_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.726
+k141_581788_2        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            2.1e-69  236.2   0.0   2.9e-69  235.8   0.0   1.2   1   0   0   1   1   1   1 # 176 # 958 # -1 # ID=26934_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.517
+k141_401581_2        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            3.4e-67  229.0   0.4   1.2e-36  128.9   0.1   2.2   2   0   0   2   2   2   2 # 358 # 1833 # 1 # ID=34365_2;partial=01;start_type=ATG;rbs_motif=AGGAG(G)/GGAGG;rbs_spacer=13-15bp;gc_cont=0.709
+k141_706889_2        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            7.3e-67  227.9   5.8   4.3e-34  120.6   0.3   2.0   2   0   0   2   2   2   2 # 210 # 1736 # -1 # ID=8603_2;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.752
+k141_122584_1        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            8.2e-67  227.8   1.4   1.1e-66  227.4   1.4   1.2   1   0   0   1   1   1   1 # 1 # 774 # 1 # ID=36402_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+k141_333965_2        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            1.2e-65  224.0   0.0   1.8e-65  223.4   0.0   1.2   1   0   0   1   1   1   1 # 1986 # 2801 # -1 # ID=8889_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.630
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm.tblout -T 220 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:57:39 2025
+# [ok]

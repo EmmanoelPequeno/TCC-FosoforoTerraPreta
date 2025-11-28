@@ -1,0 +1,15 @@
+#                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_531464_1        -          HasB-TonB_paralog_heme_uptake_fam1-rep -              6e-49  168.1  10.6   7.1e-49  167.8  10.6   1.0   1   0   0   1   1   1   1 # 25 # 858 # -1 # ID=9545_1;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.695
+k141_583568_4        -          HasB-TonB_paralog_heme_uptake_fam1-rep -            6.6e-35  122.0   3.6   7.8e-35  121.8   3.6   1.0   1   0   0   1   1   1   1 # 1098 # 1514 # -1 # ID=2304_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.662
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//HasB-TonB_paralog_heme_uptake-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750938_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750938_contigs_filtered_1500bp.fasta-HMM/HasB-TonB_paralog_heme_uptake-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750938_contigs_filtered_1500bp.fasta-HMM/HasB-TonB_paralog_heme_uptake-rep.hmm.tblout -T 75 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//HasB-TonB_paralog_heme_uptake-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750938_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:10:39 2025
+# [ok]

@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_373654_4        -          Fe_dep_repr_C        PF02742.10   4.4e-31  103.7   0.2   7.8e-31  102.9   0.2   1.4   1   0   0   1   1   1   1 # 3252 # 3965 # 1 # ID=164_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.697
+k141_181215_4        -          Fe_dep_repr_C        PF02742.10   3.1e-28   94.6   0.3   5.9e-28   93.7   0.3   1.5   1   0   0   1   1   1   1 # 2882 # 3430 # -1 # ID=263_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.714
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF02742-Iron_dependent_repressor-dtxR_family_metal_binding_domain.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.6.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.6.fa-HMM/PF02742-Iron_dependent_repressor-dtxR_family_metal_binding_domain.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.6.fa-HMM/PF02742-Iron_dependent_repressor-dtxR_family_metal_binding_domain.hmm.tblout -T 20 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF02742-Iron_dependent_repressor-dtxR_family_metal_binding_domain.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.6.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:43:07 2025
+# [ok]

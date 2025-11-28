@@ -1,0 +1,18 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_221583_1        -          VabG_Vanchrobactin_biosynthesis-rep -           3.5e-133  445.2   0.0    4e-133  445.1   0.0   1.0   1   0   0   1   1   1   1 # 28 # 1089 # -1 # ID=1541_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+k141_255630_1        -          VabG_Vanchrobactin_biosynthesis-rep -           2.1e-124  416.4   0.0  2.3e-124  416.2   0.0   1.0   1   0   0   1   1   1   1 # 2 # 943 # 1 # ID=7224_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+k141_139849_1        -          VabG_Vanchrobactin_biosynthesis-rep -           1.5e-107  361.0   0.0  1.6e-107  360.8   0.0   1.0   1   0   0   1   1   1   1 # 1 # 870 # 1 # ID=2130_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.717
+k141_79008_2         -          VabG_Vanchrobactin_biosynthesis-rep -           5.4e-100  336.1   0.0    6e-100  335.9   0.0   1.0   1   0   0   1   1   1   1 # 196 # 918 # 1 # ID=22044_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+k141_406119_1        -          VabG_Vanchrobactin_biosynthesis-rep -            1.4e-98  331.4   0.0   1.6e-98  331.2   0.0   1.0   1   0   0   1   1   1   1 # 2 # 760 # 1 # ID=19369_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//VabG_Vanchrobactin_biosynthesis-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750943_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750943_contigs_maiores1kbp.fasta-HMM/VabG_Vanchrobactin_biosynthesis-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750943_contigs_maiores1kbp.fasta-HMM/VabG_Vanchrobactin_biosynthesis-rep.hmm.tblout -T 245 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//VabG_Vanchrobactin_biosynthesis-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750943_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:52:24 2025
+# [ok]

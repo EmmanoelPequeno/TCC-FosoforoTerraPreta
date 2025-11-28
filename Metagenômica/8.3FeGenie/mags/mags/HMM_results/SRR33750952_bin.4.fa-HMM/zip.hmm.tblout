@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_391709_4        -          zip                  -            5.1e-13   49.4  13.4   1.3e-12   48.1  13.4   1.7   1   1   0   1   1   1   1 # 1861 # 2598 # -1 # ID=419_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.678
+k141_140578_5        -          zip                  -            3.3e-10   40.2  11.7   1.2e-09   38.4  11.5   2.1   1   1   1   2   2   2   1 # 2518 # 3381 # 1 # ID=3966_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.697
+k141_492885_9        -          zip                  -            8.4e-09   35.6  22.7     3e-07   30.5  22.7   3.4   1   1   0   1   1   1   1 # 6566 # 7294 # 1 # ID=845_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.700
+k141_538401_9        -          zip                  -            2.7e-07   30.7   6.2   2.7e-06   27.4   6.2   2.1   1   1   0   1   1   1   1 # 6322 # 6834 # -1 # ID=609_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.680
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//zip.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/zip.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/zip.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//zip.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:29:33 2025
+# [ok]

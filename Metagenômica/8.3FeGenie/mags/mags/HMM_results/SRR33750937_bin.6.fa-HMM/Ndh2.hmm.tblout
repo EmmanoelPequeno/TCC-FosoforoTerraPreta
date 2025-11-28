@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_186180_7        -          Ndh2                 -            7.4e-46  155.3   0.0   9.8e-46  154.9   0.0   1.0   1   0   0   1   1   1   1 # 7333 # 8631 # 1 # ID=366_7;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.710
+k141_317918_28       -          Ndh2                 -            1.3e-37  128.1   0.0   1.7e-37  127.6   0.0   1.0   1   0   0   1   1   1   1 # 23030 # 24634 # 1 # ID=495_28;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.706
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//Ndh2.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750937_bin.6.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750937_bin.6.fa-HMM/Ndh2.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750937_bin.6.fa-HMM/Ndh2.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//Ndh2.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750937_bin.6.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:13:56 2025
+# [ok]

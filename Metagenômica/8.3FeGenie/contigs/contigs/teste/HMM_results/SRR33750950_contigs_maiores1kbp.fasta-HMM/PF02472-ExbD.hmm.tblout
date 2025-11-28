@@ -1,0 +1,36 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_212658_2        -          PF02472-ExbD         PF02472.11   3.4e-30  107.2   0.7   3.8e-30  107.0   0.7   1.0   1   0   0   1   1   1   1 # 863 # 1285 # 1 # ID=39848_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.515
+k141_579373_4        -          PF02472-ExbD         PF02472.11   4.7e-30  106.8   0.4   5.3e-30  106.6   0.4   1.0   1   0   0   1   1   1   1 # 2792 # 3244 # -1 # ID=40458_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.530
+k141_221257_2        -          PF02472-ExbD         PF02472.11   1.4e-28  102.0   0.4   1.6e-28  101.8   0.4   1.0   1   0   0   1   1   1   1 # 350 # 805 # -1 # ID=853_2;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.627
+k141_151958_2        -          PF02472-ExbD         PF02472.11   8.7e-28   99.4   0.1     1e-27   99.2   0.1   1.0   1   0   0   1   1   1   1 # 851 # 1306 # -1 # ID=5659_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.636
+k141_290684_2        -          PF02472-ExbD         PF02472.11   1.7e-27   98.5   1.6   1.9e-27   98.3   1.6   1.0   1   0   0   1   1   1   1 # 311 # 745 # 1 # ID=35657_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.533
+k141_162924_1        -          PF02472-ExbD         PF02472.11   1.8e-27   98.4   0.0     2e-27   98.3   0.0   1.0   1   0   0   1   1   1   1 # 3 # 437 # 1 # ID=17105_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.611
+k141_458677_2        -          PF02472-ExbD         PF02472.11     1e-26   96.0   5.7   1.2e-26   95.7   5.7   1.0   1   0   0   1   1   1   1 # 67 # 489 # -1 # ID=19506_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.515
+k141_262457_3        -          PF02472-ExbD         PF02472.11   5.2e-26   93.7   0.1     6e-26   93.5   0.1   1.0   1   0   0   1   1   1   1 # 1083 # 1526 # 1 # ID=5913_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=3-4bp;gc_cont=0.581
+k141_218193_1        -          PF02472-ExbD         PF02472.11   1.7e-25   92.0   0.1   2.1e-25   91.7   0.1   1.0   1   0   0   1   1   1   1 # 151 # 594 # -1 # ID=41443_1;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.599
+k141_478957_1        -          PF02472-ExbD         PF02472.11     4e-25   90.8   0.1   4.7e-25   90.6   0.1   1.0   1   0   0   1   1   1   1 # 1 # 468 # 1 # ID=1411_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+k141_572535_2        -          PF02472-ExbD         PF02472.11   1.1e-24   89.4   0.0   1.4e-24   89.0   0.0   1.0   1   0   0   1   1   1   1 # 430 # 855 # 1 # ID=34463_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.643
+k141_477510_4        -          PF02472-ExbD         PF02472.11   6.5e-24   86.9   0.1   7.9e-24   86.6   0.1   1.1   1   0   0   1   1   1   1 # 2314 # 2796 # 1 # ID=39307_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.623
+k141_22619_3         -          PF02472-ExbD         PF02472.11   6.9e-24   86.8   0.0   7.8e-24   86.6   0.0   1.0   1   0   0   1   1   1   1 # 885 # 1313 # 1 # ID=24817_3;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.671
+k141_190178_3        -          PF02472-ExbD         PF02472.11   7.2e-24   86.8   0.0   8.6e-24   86.5   0.0   1.0   1   0   0   1   1   1   1 # 673 # 1092 # -1 # ID=10259_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.626
+k141_453493_2        -          PF02472-ExbD         PF02472.11   1.1e-23   86.2   0.0   1.3e-23   85.9   0.0   1.0   1   0   0   1   1   1   1 # 429 # 866 # 1 # ID=13784_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.500
+k141_158254_2        -          PF02472-ExbD         PF02472.11     3e-23   84.7   0.0     4e-23   84.3   0.0   1.0   1   0   0   1   1   1   1 # 293 # 718 # -1 # ID=12249_2;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.617
+k141_57789_1         -          PF02472-ExbD         PF02472.11   6.8e-23   83.6   0.0     8e-23   83.4   0.0   1.0   1   0   0   1   1   1   1 # 104 # 511 # 1 # ID=22745_1;partial=00;start_type=ATG;rbs_motif=AAAA;rbs_spacer=13bp;gc_cont=0.520
+k141_161140_3        -          PF02472-ExbD         PF02472.11   1.5e-21   79.3   0.0   1.8e-21   79.0   0.0   1.0   1   0   0   1   1   1   1 # 926 # 1357 # -1 # ID=15146_3;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.646
+k141_290684_3        -          PF02472-ExbD         PF02472.11   1.4e-20   76.1   0.2   1.6e-20   75.9   0.2   1.0   1   0   0   1   1   1   1 # 758 # 1186 # 1 # ID=35657_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.503
+k141_546179_2        -          PF02472-ExbD         PF02472.11     4e-19   71.4   0.0   4.8e-19   71.2   0.0   1.0   1   0   0   1   1   1   1 # 368 # 787 # 1 # ID=33995_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.571
+k141_556924_1        -          PF02472-ExbD         PF02472.11   5.8e-18   67.7   0.0   7.2e-18   67.4   0.0   1.0   1   0   0   1   1   1   1 # 89 # 514 # 1 # ID=9214_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.554
+k141_161140_2        -          PF02472-ExbD         PF02472.11   9.2e-14   54.1   0.0   1.2e-13   53.7   0.0   1.1   1   0   0   1   1   1   1 # 457 # 921 # -1 # ID=15146_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.589
+k141_72422_2         -          PF02472-ExbD         PF02472.11   1.9e-10   43.3   1.5   2.2e-10   43.2   1.5   1.0   1   0   0   1   1   1   1 # 793 # 999 # 1 # ID=38347_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.594
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF02472-ExbD.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750950_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750950_contigs_maiores1kbp.fasta-HMM/PF02472-ExbD.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750950_contigs_maiores1kbp.fasta-HMM/PF02472-ExbD.hmm.tblout -T 32 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF02472-ExbD.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750950_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:50:33 2025
+# [ok]

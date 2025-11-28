@@ -1,0 +1,18 @@
+#                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                  accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                        -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_386942_1        -          FutA1-iron_ABC_transporter_iron-binding-rep -           6.8e-126  422.8   0.0  8.3e-126  422.5   0.0   1.0   1   0   0   1   1   1   1 # 80 # 1120 # 1 # ID=35110_1;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.593
+k141_353412_1        -          FutA1-iron_ABC_transporter_iron-binding-rep -           4.7e-114  383.8   0.1  5.6e-114  383.6   0.1   1.0   1   0   0   1   1   1   1 # 115 # 1143 # 1 # ID=42803_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.596
+k141_342628_2        -          FutA1-iron_ABC_transporter_iron-binding-rep -           3.2e-112  377.8   0.2  3.7e-112  377.6   0.2   1.0   1   0   0   1   1   1   1 # 293 # 1318 # -1 # ID=28945_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.610
+k141_438484_3        -          FutA1-iron_ABC_transporter_iron-binding-rep -            4.6e-73  249.1   0.0   5.6e-73  248.8   0.0   1.0   1   0   0   1   1   1   1 # 865 # 1920 # 1 # ID=51822_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.578
+k141_264752_2        -          FutA1-iron_ABC_transporter_iron-binding-rep -            2.4e-35  125.1   0.1   2.7e-35  124.9   0.1   1.0   1   0   0   1   1   1   1 # 628 # 1014 # -1 # ID=31318_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.576
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FutA1-iron_ABC_transporter_iron-binding-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/FutA1-iron_ABC_transporter_iron-binding-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/FutA1-iron_ABC_transporter_iron-binding-rep.hmm.tblout -T 112 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FutA1-iron_ABC_transporter_iron-binding-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:55:49 2025
+# [ok]

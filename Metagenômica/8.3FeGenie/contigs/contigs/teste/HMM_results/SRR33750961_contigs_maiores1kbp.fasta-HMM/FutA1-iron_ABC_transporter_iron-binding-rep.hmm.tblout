@@ -1,0 +1,16 @@
+#                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                  accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                        -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_260634_1        -          FutA1-iron_ABC_transporter_iron-binding-rep -           4.4e-114  383.0   0.2  5.2e-114  382.7   0.2   1.0   1   0   0   1   1   1   1 # 63 # 1091 # 1 # ID=22574_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.594
+k141_269617_7        -          FutA1-iron_ABC_transporter_iron-binding-rep -            2.4e-73  249.1   0.0   2.9e-73  248.8   0.0   1.0   1   0   0   1   1   1   1 # 5306 # 6361 # 1 # ID=1297_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.579
+k141_396121_2        -          FutA1-iron_ABC_transporter_iron-binding-rep -            3.6e-59  202.5   0.2     4e-59  202.3   0.2   1.0   1   0   0   1   1   1   1 # 610 # 1164 # -1 # ID=24062_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.602
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FutA1-iron_ABC_transporter_iron-binding-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750961_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750961_contigs_maiores1kbp.fasta-HMM/FutA1-iron_ABC_transporter_iron-binding-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750961_contigs_maiores1kbp.fasta-HMM/FutA1-iron_ABC_transporter_iron-binding-rep.hmm.tblout -T 112 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FutA1-iron_ABC_transporter_iron-binding-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750961_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:08 2025
+# [ok]

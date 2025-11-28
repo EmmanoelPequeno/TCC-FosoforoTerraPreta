@@ -1,0 +1,32 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_454213_3        -          FUR                  PF01475.14   7.3e-40  137.7   0.2   8.3e-40  137.6   0.2   1.0   1   0   0   1   1   1   1 # 1321 # 1755 # -1 # ID=16496_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.614
+k141_525344_3        -          FUR                  PF01475.14   9.8e-39  134.1   0.2   1.1e-38  133.9   0.2   1.0   1   0   0   1   1   1   1 # 770 # 1153 # 1 # ID=20554_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+k141_269617_6        -          FUR                  PF01475.14   1.4e-34  120.7   1.4   1.7e-34  120.4   1.4   1.1   1   0   0   1   1   1   1 # 4800 # 5237 # 1 # ID=1297_6;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.555
+k141_432583_1        -          FUR                  PF01475.14   4.8e-29  102.8   0.0     6e-29  102.5   0.0   1.1   1   0   0   1   1   1   1 # 2 # 484 # 1 # ID=26973_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.482
+k141_438417_3        -          FUR                  PF01475.14   1.1e-27   98.4   0.1   1.3e-27   98.2   0.1   1.1   1   0   0   1   1   1   1 # 919 # 1371 # 1 # ID=2264_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.678
+k141_56562_2         -          FUR                  PF01475.14   9.1e-26   92.2   0.0     1e-25   92.1   0.0   1.1   1   0   0   1   1   1   1 # 255 # 692 # 1 # ID=20649_2;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.699
+k141_335629_1        -          FUR                  PF01475.14   3.1e-25   90.5   0.9     4e-25   90.2   0.9   1.1   1   0   0   1   1   1   1 # 1 # 402 # 1 # ID=402_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+k141_131396_2        -          FUR                  PF01475.14   9.5e-25   89.0   0.0   1.1e-24   88.8   0.0   1.1   1   0   0   1   1   1   1 # 539 # 976 # 1 # ID=27052_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.705
+k141_195231_2        -          FUR                  PF01475.14   8.2e-23   82.7   0.1   9.5e-23   82.5   0.1   1.1   1   0   0   1   1   1   1 # 176 # 634 # -1 # ID=24342_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.710
+k141_79753_2         -          FUR                  PF01475.14   2.2e-22   81.3   0.0   2.5e-22   81.1   0.0   1.1   1   0   0   1   1   1   1 # 388 # 819 # 1 # ID=11550_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.606
+k141_126397_3        -          FUR                  PF01475.14   1.8e-21   78.4   0.0   2.1e-21   78.1   0.0   1.1   1   0   0   1   1   1   1 # 1016 # 1447 # -1 # ID=22683_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.539
+k141_497987_2        -          FUR                  PF01475.14   4.3e-21   77.2   0.0     5e-21   77.0   0.0   1.1   1   0   0   1   1   1   1 # 725 # 1150 # -1 # ID=25468_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+k141_337314_1        -          FUR                  PF01475.14   7.5e-19   69.9   0.0   8.5e-19   69.7   0.0   1.1   1   0   0   1   1   1   1 # 21 # 527 # 1 # ID=2129_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.641
+k141_516000_1        -          FUR                  PF01475.14   7.6e-19   69.9   0.0   8.7e-19   69.7   0.0   1.1   1   0   0   1   1   1   1 # 83 # 583 # 1 # ID=12239_1;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.667
+k141_358436_3        -          FUR                  PF01475.14   1.4e-18   69.0   0.0   1.6e-18   68.8   0.0   1.1   1   0   0   1   1   1   1 # 1735 # 2199 # 1 # ID=20684_3;partial=01;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.662
+k141_397805_1        -          FUR                  PF01475.14   9.2e-18   66.4   0.0   1.7e-17   65.5   0.0   1.4   1   0   0   1   1   1   1 # 2 # 664 # 1 # ID=25478_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.656
+k141_301553_2        -          FUR                  PF01475.14   4.4e-17   64.2   0.0   4.9e-17   64.1   0.0   1.0   1   0   0   1   1   1   1 # 686 # 1027 # 1 # ID=29338_2;partial=01;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.702
+k141_80014_2         -          FUR                  PF01475.14   2.8e-11   45.5   0.0   3.5e-11   45.2   0.0   1.1   1   0   0   1   1   1   1 # 1202 # 1624 # 1 # ID=11804_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.688
+k141_187265_2        -          FUR                  PF01475.14   3.7e-10   41.9   0.0   4.1e-10   41.7   0.0   1.0   1   0   0   1   1   1   1 # 955 # 1128 # -1 # ID=17530_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01475-Iron_dependent_repressor-fur_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750961_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750961_contigs_maiores1kbp.fasta-HMM/PF01475-Iron_dependent_repressor-fur_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750961_contigs_maiores1kbp.fasta-HMM/PF01475-Iron_dependent_repressor-fur_family.hmm.tblout -T 23 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01475-Iron_dependent_repressor-fur_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750961_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 19:00:45 2025
+# [ok]

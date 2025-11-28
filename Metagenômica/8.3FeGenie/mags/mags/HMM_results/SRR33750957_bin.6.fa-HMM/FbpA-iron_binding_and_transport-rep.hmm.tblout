@@ -1,0 +1,15 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_401260_3        -          FbpA-iron_binding_and_transport-rep -            1.2e-21   74.1   0.0   1.7e-21   73.5   0.0   1.2   1   0   0   1   1   1   1 # 2043 # 3089 # 1 # ID=70_3;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.667
+k141_449946_1        -          FbpA-iron_binding_and_transport-rep -            6.6e-19   65.0   0.0   8.5e-19   64.6   0.0   1.1   1   0   0   1   1   1   1 # 2 # 739 # 1 # ID=365_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpA-iron_binding_and_transport-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.6.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.6.fa-HMM/FbpA-iron_binding_and_transport-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.6.fa-HMM/FbpA-iron_binding_and_transport-rep.hmm.tblout -T 62 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpA-iron_binding_and_transport-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.6.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:31:49 2025
+# [ok]

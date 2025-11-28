@@ -1,0 +1,16 @@
+#                                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                  accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                        -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_475171_5        -          Sid_FpvC_metal_ion_transport_PA2407_Paeruginosa_PAO1_180602 -            3.9e-17   61.6   0.7   4.7e-17   61.4   0.7   1.1   1   0   0   1   1   1   1 # 2382 # 3278 # -1 # ID=2097_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.615
+k141_215146_2        -          Sid_FpvC_metal_ion_transport_PA2407_Paeruginosa_PAO1_180602 -              3e-15   55.4   0.0   3.9e-15   55.1   0.0   1.0   1   0   0   1   1   1   1 # 246 # 1094 # 1 # ID=1889_2;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.638
+k141_305958_14       -          Sid_FpvC_metal_ion_transport_PA2407_Paeruginosa_PAO1_180602 -            4.5e-10   38.4   1.0   5.1e-10   38.2   1.0   1.1   1   0   0   1   1   1   1 # 12190 # 12708 # 1 # ID=711_14;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FpvC_metal_ion_transport_PA2407_Paeruginosa_PAO1_180602.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/Sid_FpvC_metal_ion_transport_PA2407_Paeruginosa_PAO1_180602.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/Sid_FpvC_metal_ion_transport_PA2407_Paeruginosa_PAO1_180602.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FpvC_metal_ion_transport_PA2407_Paeruginosa_PAO1_180602.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:36:52 2025
+# [ok]

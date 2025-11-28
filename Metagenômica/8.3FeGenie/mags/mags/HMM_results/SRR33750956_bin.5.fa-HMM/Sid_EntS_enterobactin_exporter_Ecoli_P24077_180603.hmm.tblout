@@ -1,0 +1,17 @@
+#                                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_29906_3         -          Sid_EntS_enterobactin_exporter_Ecoli_P24077_180603 -            2.1e-13   47.2  30.9   2.7e-13   46.8  30.9   1.0   1   0   0   1   1   1   1 # 1234 # 2511 # -1 # ID=201_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.702
+k141_613242_13       -          Sid_EntS_enterobactin_exporter_Ecoli_P24077_180603 -            6.8e-09   32.3  31.5   8.8e-09   31.9  31.5   1.0   1   0   0   1   1   1   1 # 16101 # 17399 # -1 # ID=39_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.688
+k141_422446_7        -          Sid_EntS_enterobactin_exporter_Ecoli_P24077_180603 -            3.2e-08   30.1  31.3   5.4e-08   29.3  31.3   1.3   1   0   0   1   1   1   1 # 5638 # 7569 # 1 # ID=14_7;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.705
+k141_321651_1        -          Sid_EntS_enterobactin_exporter_Ecoli_P24077_180603 -              1e-05   21.8   0.8   1.1e-05   21.8   0.8   1.0   1   0   0   1   1   1   1 # 2 # 289 # 1 # ID=250_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.677
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_EntS_enterobactin_exporter_Ecoli_P24077_180603.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.5.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.5.fa-HMM/Sid_EntS_enterobactin_exporter_Ecoli_P24077_180603.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.5.fa-HMM/Sid_EntS_enterobactin_exporter_Ecoli_P24077_180603.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_EntS_enterobactin_exporter_Ecoli_P24077_180603.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.5.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:38:05 2025
+# [ok]

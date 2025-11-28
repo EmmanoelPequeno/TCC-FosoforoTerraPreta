@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_507829_1        -          DmkB                 -            7.5e-44  149.2   0.0   9.1e-44  148.9   0.0   1.0   1   0   0   1   1   1   1 # 141 # 1151 # -1 # ID=1986_1;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.628
+k141_699142_4        -          DmkB                 -            1.1e-40  138.8   0.0   1.4e-40  138.5   0.0   1.0   1   0   0   1   1   1   1 # 2330 # 3286 # 1 # ID=2301_4;partial=01;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.625
+k141_44550_3         -          DmkB                 -            1.1e-37  129.0   0.0   1.4e-37  128.6   0.0   1.0   1   0   0   1   1   1   1 # 511 # 1596 # 1 # ID=2175_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.648
+k141_703909_3        -          DmkB                 -            2.3e-20   72.0   0.3   2.1e-19   68.9   0.3   1.9   1   1   0   1   1   1   1 # 2156 # 3049 # -1 # ID=203_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.679
+k141_652302_4        -          DmkB                 -            4.8e-19   67.7   0.5   2.5e-18   65.3   0.5   1.8   1   1   0   1   1   1   1 # 1487 # 2380 # 1 # ID=2243_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.664
+k141_578382_7        -          DmkB                 -            8.3e-10   37.3   0.1     9e-10   37.2   0.1   1.1   1   0   0   1   1   1   1 # 2793 # 3104 # 1 # ID=984_7;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DmkB.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.3.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.3.fa-HMM/DmkB.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.3.fa-HMM/DmkB.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DmkB.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.3.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:14:17 2025
+# [ok]

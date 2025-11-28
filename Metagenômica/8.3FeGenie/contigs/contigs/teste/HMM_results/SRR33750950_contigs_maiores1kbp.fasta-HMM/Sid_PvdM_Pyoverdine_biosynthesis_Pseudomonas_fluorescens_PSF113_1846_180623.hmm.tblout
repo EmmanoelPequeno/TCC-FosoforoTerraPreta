@@ -1,0 +1,20 @@
+#                                                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                  accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                        -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_190159_1        -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            5.6e-46  159.5   0.3   2.8e-29  104.4   0.1   2.9   1   1   1   2   2   2   2 # 3 # 1259 # -1 # ID=10225_1;partial=10;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.598
+k141_362059_2        -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            2.8e-40  140.7   1.3   2.5e-39  137.5   1.3   1.9   1   1   0   1   1   1   1 # 758 # 1867 # -1 # ID=33035_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.631
+k141_137888_1        -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -              5e-38  133.2   0.1   2.1e-19   71.8   0.0   2.0   1   1   1   2   2   2   2 # 2 # 727 # 1 # ID=29470_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.605
+k141_133176_3        -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            6.2e-19   70.3   0.0   6.4e-09   37.3   0.0   2.0   1   1   1   2   2   2   2 # 552 # 1148 # -1 # ID=24584_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+k141_481247_2        -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            6.5e-16   60.4   0.1   2.1e-08   35.6   0.0   2.1   1   1   1   2   2   2   2 # 160 # 1278 # 1 # ID=4099_2;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.690
+k141_18718_2         -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            7.2e-12   47.0   0.0   1.9e-11   45.6   0.0   1.6   2   1   0   2   2   2   1 # 654 # 1547 # 1 # ID=20749_2;partial=01;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.694
+k141_16492_2         -          Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623 -            2.3e-07   32.2   0.0     3e-07   31.8   0.0   1.1   1   0   0   1   1   1   1 # 702 # 1325 # 1 # ID=18221_2;partial=01;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.532
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750950_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750950_contigs_maiores1kbp.fasta-HMM/Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750950_contigs_maiores1kbp.fasta-HMM/Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623.hmm.tblout -T 17 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdM_Pyoverdine_biosynthesis_Pseudomonas_fluorescens_PSF113_1846_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750950_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:51:46 2025
+# [ok]

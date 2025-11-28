@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_58606_2         -          PF04773_FecR         PF04773.13   6.9e-14   53.7   0.0   1.2e-13   53.0   0.0   1.4   1   0   0   1   1   1   1 # 677 # 1255 # -1 # ID=10478_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.584
+k141_55972_2         -          PF04773_FecR         PF04773.13   4.1e-12   48.0   0.6   5.5e-12   47.6   0.1   1.5   2   0   0   2   2   2   1 # 596 # 1141 # -1 # ID=7984_2;partial=00;start_type=GTG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.632
+k141_4469_4          -          PF04773_FecR         PF04773.13   5.6e-09   37.9   0.3   8.7e-09   37.3   0.3   1.3   1   0   0   1   1   1   1 # 1658 # 2311 # 1 # ID=4902_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+k141_65357_1         -          PF04773_FecR         PF04773.13   9.6e-09   37.2   0.2   1.5e-08   36.5   0.2   1.4   1   0   0   1   1   1   1 # 3 # 443 # 1 # ID=17005_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.544
+k141_319162_1        -          PF04773_FecR         PF04773.13   4.9e-08   34.9   1.4     9e-07   30.9   0.7   2.7   2   1   0   2   2   2   1 # 1 # 906 # -1 # ID=7781_1;partial=10;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.591
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF04773_FecR.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750959_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750959_contigs_maiores1kbp.fasta-HMM/PF04773_FecR.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750959_contigs_maiores1kbp.fasta-HMM/PF04773_FecR.hmm.tblout -T 21 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF04773_FecR.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750959_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 19:00:36 2025
+# [ok]

@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_481908_5        -          DmkB                 -            2.4e-34  116.3   1.9   2.8e-34  116.1   1.9   1.1   1   0   0   1   1   1   1 # 3423 # 4424 # 1 # ID=175_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373
+k141_195393_2        -          DmkB                 -            2.7e-26   89.9   0.8   9.1e-26   88.1   0.2   1.7   1   1   1   2   2   2   1 # 1513 # 2385 # 1 # ID=114_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.351
+k141_650665_2        -          DmkB                 -            8.5e-26   88.2   0.1   1.7e-25   87.2   0.1   1.4   1   1   0   1   1   1   1 # 843 # 1733 # 1 # ID=502_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386
+k141_96674_1         -          DmkB                 -            2.7e-08   30.7   0.0     3e-08   30.5   0.0   1.0   1   0   0   1   1   1   1 # 2 # 418 # 1 # ID=41_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DmkB.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.7.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.7.fa-HMM/DmkB.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.7.fa-HMM/DmkB.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DmkB.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.7.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:13:05 2025
+# [ok]

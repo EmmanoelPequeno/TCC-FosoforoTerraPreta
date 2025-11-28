@@ -1,0 +1,14 @@
+#                                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_118232_2        -          PigA_Heme_oxygenase_Pseudomonas_aeruginosa_PDB_1sk7 -            1.3e-07   34.4   4.0   1.8e-07   34.0   4.0   1.1   1   0   0   1   1   1   1 # 252 # 902 # -1 # ID=31100_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.700
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_oxygenase//PigA_Heme_oxygenase_Pseudomonas_aeruginosa_PDB_1sk7.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/PigA_Heme_oxygenase_Pseudomonas_aeruginosa_PDB_1sk7.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/PigA_Heme_oxygenase_Pseudomonas_aeruginosa_PDB_1sk7.hmm.tblout -T 17 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_oxygenase//PigA_Heme_oxygenase_Pseudomonas_aeruginosa_PDB_1sk7.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 19:01:19 2025
+# [ok]

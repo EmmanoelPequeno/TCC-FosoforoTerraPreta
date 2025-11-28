@@ -1,0 +1,24 @@
+#                                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_521071_1        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            1.6e-47  164.9   0.0   2.1e-47  164.5   0.0   1.0   1   0   0   1   1   1   1 # 40 # 1305 # -1 # ID=46005_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.641
+k141_234074_1        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            3.5e-47  163.8   0.0   4.2e-47  163.5   0.0   1.0   1   0   0   1   1   1   1 # 3 # 1142 # -1 # ID=17478_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.631
+k141_531395_1        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -              1e-39  139.2   0.0   1.3e-39  138.9   0.0   1.0   1   0   0   1   1   1   1 # 1 # 999 # -1 # ID=9874_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.588
+k141_198515_2        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            1.7e-38  135.2   0.0     2e-38  135.0   0.0   1.0   1   0   0   1   1   1   1 # 449 # 1342 # 1 # ID=26558_2;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.639
+k141_301043_1        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            5.6e-34  120.3   0.0   7.3e-34  120.0   0.0   1.0   1   0   0   1   1   1   1 # 47 # 1369 # -1 # ID=46804_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.740
+k141_430760_1        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            4.1e-31  110.9   0.0   5.3e-31  110.5   0.0   1.0   1   0   0   1   1   1   1 # 2 # 826 # -1 # ID=42096_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.617
+k141_246816_3        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            1.1e-27   99.6   0.0   1.4e-27   99.3   0.0   1.0   1   0   0   1   1   1   1 # 387 # 1025 # 1 # ID=31371_3;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.621
+k141_507642_1        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            5.1e-26   94.1   0.0   5.9e-26   93.9   0.0   1.0   1   0   0   1   1   1   1 # 136 # 1128 # 1 # ID=31544_1;partial=01;start_type=GTG;rbs_motif=AATAA;rbs_spacer=13bp;gc_cont=0.372
+k141_282914_1        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            1.7e-25   92.4   0.0     2e-25   92.2   0.0   1.0   1   0   0   1   1   1   1 # 1 # 738 # 1 # ID=27177_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.725
+k141_434765_1        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            3.2e-25   91.5   0.0   5.4e-25   90.8   0.0   1.3   1   1   0   1   1   1   1 # 73 # 1203 # -1 # ID=46285_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.668
+k141_525910_1        -          PvsE-AcsE_vibrioferrin_biosynthesis-rep -            1.8e-24   89.1   0.0   2.1e-24   88.8   0.0   1.0   1   0   0   1   1   1   1 # 1 # 1179 # -1 # ID=4019_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.730
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsE-AcsE_vibrioferrin_biosynthesis-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750947_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750947_contigs_maiores1kbp.fasta-HMM/PvsE-AcsE_vibrioferrin_biosynthesis-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750947_contigs_maiores1kbp.fasta-HMM/PvsE-AcsE_vibrioferrin_biosynthesis-rep.hmm.tblout -T 85 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsE-AcsE_vibrioferrin_biosynthesis-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750947_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:54:07 2025
+# [ok]

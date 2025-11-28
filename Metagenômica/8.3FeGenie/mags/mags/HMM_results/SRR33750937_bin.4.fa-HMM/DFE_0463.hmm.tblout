@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_620649_24       -          DFE_0463             -            1.1e-36  124.1  10.3   7.1e-18   62.3   0.7   2.9   1   1   2   3   3   3   3 # 21487 # 22275 # 1 # ID=76_24;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.445
+k141_562844_36       -          DFE_0463             -            1.8e-36  123.4   3.0   7.9e-21   72.0   0.5   2.2   1   1   1   2   2   2   2 # 29613 # 30479 # 1 # ID=14_36;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.446
+k141_161679_6        -          DFE_0463             -            5.2e-30  102.2  13.8   1.5e-13   48.1   0.3   3.9   1   1   3   4   4   4   4 # 3035 # 3979 # -1 # ID=11_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.430
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750937_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750937_bin.4.fa-HMM/DFE_0463.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750937_bin.4.fa-HMM/DFE_0463.hmm.tblout -T 100 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750937_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:14:29 2025
+# [ok]

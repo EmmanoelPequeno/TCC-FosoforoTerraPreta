@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_575360_2        -          MamA                 -            2.2e-80  270.1  21.3   2.7e-23   84.5   0.4   4.3   1   1   4   5   5   5   5 # 987 # 2246 # -1 # ID=34782_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.343
+k141_145179_1        -          MamA                 -            3.6e-48  165.4   6.3   8.5e-21   76.4   0.5   3.1   1   1   2   3   3   3   3 # 3 # 1475 # 1 # ID=27609_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+k141_95635_1         -          MamA                 -            4.2e-48  165.2   3.2   3.7e-21   77.5   0.0   3.0   1   1   2   3   3   3   3 # 79 # 1023 # -1 # ID=16755_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=4bp;gc_cont=0.421
+k141_153563_2        -          MamA                 -            4.6e-45  155.3   9.3   8.2e-18   66.7   1.1   3.3   1   1   2   3   3   3   3 # 557 # 1942 # 1 # ID=35030_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.673
+k141_258291_1        -          MamA                 -            1.9e-42  146.8  12.9   2.3e-15   58.7   1.8   3.4   1   1   2   3   3   3   3 # 3 # 1235 # -1 # ID=25022_1;partial=10;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.649
+k141_441837_1        -          MamA                 -            3.4e-37  129.7  15.6   5.6e-12   47.7   1.4   5.0   1   1   3   4   4   4   4 # 2 # 1159 # -1 # ID=17713_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.671
+k141_189114_1        -          MamA                 -            1.3e-36  127.8  11.7     5e-15   57.6   0.3   2.8   1   1   2   3   3   3   3 # 3 # 902 # -1 # ID=32759_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.618
+k141_179566_1        -          MamA                 -            2.9e-36  126.7   8.9   6.5e-20   73.5   1.3   2.9   1   1   1   2   2   2   2 # 3 # 980 # -1 # ID=23789_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.632
+k141_573952_1        -          MamA                 -            1.2e-35  124.6   6.7   8.7e-17   63.3   0.4   2.5   1   1   2   3   3   3   3 # 3 # 950 # 1 # ID=33481_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.534
+k141_285367_1        -          MamA                 -            3.6e-35  123.1   0.7   9.2e-11   43.7   0.0   5.1   2   2   3   5   5   5   5 # 3 # 1643 # -1 # ID=14824_1;partial=10;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.639
+k141_198983_2        -          MamA                 -            4.7e-34  119.5  10.1   2.8e-20   74.7   2.5   2.1   1   1   1   2   2   2   2 # 284 # 1048 # 1 # ID=6472_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.533
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750938_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750938_contigs_maiores1kbp.fasta-HMM/MamA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750938_contigs_maiores1kbp.fasta-HMM/MamA.hmm.tblout -T 119 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750938_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:51 2025
+# [ok]

@@ -1,0 +1,11 @@
+p__Acidobacteriota
+p__Actinomycetota
+p__Bacteria_unclassified
+p__Firmicutes
+p__Myxococcota
+p__Nitrososphaerota
+p__Nitrospirota
+p__Pseudomonadota
+p__Thermodesulfobacteriota
+p__Thermomicrobiota
+p__Verrucomicrobiota

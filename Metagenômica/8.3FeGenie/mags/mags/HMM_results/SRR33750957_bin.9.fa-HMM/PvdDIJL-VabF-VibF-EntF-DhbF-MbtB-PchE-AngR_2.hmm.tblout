@@ -1,0 +1,15 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_180470_3        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE-AngR_2 -           3.5e-298  990.3   7.2  1.9e-171  569.8   9.3   3.0   3   0   0   3   3   3   3 # 3556 # 8451 # 1 # ID=292_3;partial=01;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.533
+k141_82581_2         -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE-AngR_2 -           1.1e-170  567.4   0.0  9.2e-170  564.3   0.0   1.9   1   1   0   1   1   1   1 # 616 # 3411 # 1 # ID=310_2;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.524
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE-AngR_2.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.9.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.9.fa-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE-AngR_2.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.9.fa-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE-AngR_2.hmm.tblout -T 270 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE-AngR_2.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.9.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:18:46 2025
+# [ok]

@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_463864_1        -          nramp                -           8.7e-140  465.2  18.3    1e-139  465.0  18.3   1.0   1   0   0   1   1   1   1 # 1 # 933 # 1 # ID=1388_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.587
+k141_234185_2        -          nramp                -           1.9e-119  398.2  28.0  2.4e-119  397.9  28.0   1.0   1   0   0   1   1   1   1 # 227 # 1543 # -1 # ID=826_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+k141_139636_3        -          nramp                -           3.3e-119  397.4  25.3  4.1e-119  397.1  25.3   1.0   1   0   0   1   1   1   1 # 1534 # 2853 # 1 # ID=1780_3;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.617
+k141_91531_1         -          nramp                -            1.1e-27   95.9   5.1   1.2e-27   95.8   5.1   1.0   1   0   0   1   1   1   1 # 1 # 255 # 1 # ID=1094_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.647
+k141_103119_4        -          nramp                -            6.6e-23   80.1  16.9   9.2e-23   79.7  16.9   1.1   1   0   0   1   1   1   1 # 1376 # 2677 # -1 # ID=1782_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.600
+k141_160107_4        -          nramp                -            2.7e-21   74.8  18.5   4.1e-21   74.2  18.5   1.2   1   0   0   1   1   1   1 # 2584 # 3891 # 1 # ID=838_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.622
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//nramp.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/nramp.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/nramp.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//nramp.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:29:49 2025
+# [ok]

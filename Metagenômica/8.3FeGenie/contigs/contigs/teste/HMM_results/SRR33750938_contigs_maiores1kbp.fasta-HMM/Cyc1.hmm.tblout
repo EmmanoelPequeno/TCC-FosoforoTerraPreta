@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_406949_1        -          Cyc1                 -              3e-43  149.7   2.9   8.2e-41  141.7   0.3   2.0   1   1   1   2   2   2   2 # 1 # 708 # -1 # ID=20254_1;partial=10;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.589
+k141_517498_1        -          Cyc1                 -              9e-33  115.6   1.3   7.3e-25   89.8   0.1   1.5   1   1   1   2   2   2   2 # 1 # 732 # -1 # ID=16451_1;partial=10;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.649
+k141_368437_2        -          Cyc1                 -            2.2e-30  107.8   0.1   8.6e-30  105.9   0.1   1.7   1   1   0   1   1   1   1 # 435 # 1001 # -1 # ID=20623_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.667
+k141_8186_2          -          Cyc1                 -            5.2e-30  106.6   0.1     1e-29  105.6   0.1   1.5   1   1   0   1   1   1   1 # 604 # 1173 # 1 # ID=7481_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.637
+k141_97203_1         -          Cyc1                 -            1.1e-27   99.0   0.0   2.4e-15   58.9   0.0   2.3   2   0   0   2   2   2   2 # 58 # 1008 # 1 # ID=18296_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.549
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_oxidation//Cyc1.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750938_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750938_contigs_maiores1kbp.fasta-HMM/Cyc1.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750938_contigs_maiores1kbp.fasta-HMM/Cyc1.hmm.tblout -T 98 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_oxidation//Cyc1.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750938_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:54:44 2025
+# [ok]

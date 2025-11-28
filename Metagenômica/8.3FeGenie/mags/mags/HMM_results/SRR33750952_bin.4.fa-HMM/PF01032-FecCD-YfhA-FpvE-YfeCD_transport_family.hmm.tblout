@@ -1,0 +1,19 @@
+#                                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_657264_5        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   1.6e-85  287.3  34.5   1.9e-85  287.1  34.5   1.0   1   0   0   1   1   1   1 # 2951 # 3937 # -1 # ID=2600_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.722
+k141_631468_4        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   1.3e-83  281.0  43.8   1.6e-83  280.7  43.8   1.0   1   0   0   1   1   1   1 # 2591 # 3607 # 1 # ID=214_4;partial=00;start_type=GTG;rbs_motif=GAGG;rbs_spacer=7bp;gc_cont=0.720
+k141_64748_7         -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   5.9e-54  183.6  20.8   6.6e-54  183.4  20.8   1.0   1   0   0   1   1   1   1 # 3932 # 4510 # -1 # ID=1587_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.712
+k141_9854_2          -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   1.4e-12   47.7  25.6   1.4e-12   47.7  25.6   1.3   2   0   0   2   2   2   1 # 903 # 1721 # 1 # ID=952_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.709
+k141_297285_3        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   2.5e-11   43.6  26.0   2.5e-11   43.6  26.0   1.4   2   0   0   2   2   2   1 # 1784 # 2629 # 1 # ID=655_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.714
+k141_386250_5        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13     1e-05   25.1  39.1   1.6e-05   24.5  39.0   1.4   1   1   0   1   1   1   1 # 1955 # 2755 # 1 # ID=4167_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.703
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:36:19 2025
+# [ok]

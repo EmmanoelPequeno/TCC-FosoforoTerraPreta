@@ -1,0 +1,17 @@
+#                                                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_709226_1        -          Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229 -            2.8e-27   98.8   1.1   7.5e-22   81.0   0.2   2.1   2   0   0   2   2   2   2 # 2 # 1018 # 1 # ID=42930_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+k141_644945_1        -          Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229 -            5.6e-24   87.9   1.8   5.7e-19   71.5   0.1   3.0   3   0   0   3   3   3   2 # 1 # 2055 # 1 # ID=21486_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.617
+k141_100647_2        -          Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229 -            2.2e-18   69.6   0.1   4.1e-14   55.6   0.2   2.0   2   0   0   2   2   2   2 # 609 # 1562 # -1 # ID=5400_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+k141_55373_1         -          Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229 -            3.2e-18   69.1   1.9   3.8e-18   68.8   1.9   1.0   1   0   0   1   1   1   1 # 3 # 617 # 1 # ID=9952_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.628
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229.hmm.tblout -T 64 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:53:42 2025
+# [ok]

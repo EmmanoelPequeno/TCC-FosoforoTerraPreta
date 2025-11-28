@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_161994_2        -          zip                  -            2.9e-27   98.3  26.8   8.2e-12   47.7  10.4   3.1   1   1   1   2   2   2   2 # 227 # 967 # -1 # ID=34565_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.691
+k141_218045_2        -          zip                  -            4.1e-16   61.8  13.5     5e-13   51.7  13.5   3.1   1   1   0   1   1   1   1 # 358 # 1119 # -1 # ID=481_2;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.581
+k141_590607_1        -          zip                  -            1.8e-07   33.5  12.3   1.5e-06   30.5  12.3   2.7   1   1   0   1   1   1   1 # 424 # 1014 # -1 # ID=30712_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.621
+k141_136711_2        -          zip                  -            1.3e-06   30.6   7.7   2.6e-05   26.4   7.5   2.6   1   1   0   1   1   1   1 # 237 # 956 # 1 # ID=6593_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.718
+k141_292634_1        -          zip                  -            1.3e-06   30.6   8.1   5.2e-06   28.7   8.1   1.9   1   1   0   1   1   1   1 # 26 # 745 # -1 # ID=37812_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.686
+k141_153299_1        -          zip                  -              3e-06   29.5   7.0   2.9e-05   26.3   7.0   2.2   1   1   0   1   1   1   1 # 3 # 464 # 1 # ID=24979_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.688
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//zip.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750947_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750947_contigs_maiores1kbp.fasta-HMM/zip.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750947_contigs_maiores1kbp.fasta-HMM/zip.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//zip.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750947_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:37 2025
+# [ok]

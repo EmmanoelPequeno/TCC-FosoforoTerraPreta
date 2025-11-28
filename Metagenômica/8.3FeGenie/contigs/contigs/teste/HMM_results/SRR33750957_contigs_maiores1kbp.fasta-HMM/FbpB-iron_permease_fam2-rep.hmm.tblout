@@ -1,0 +1,33 @@
+#                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                  accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------        -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_384349_2        -          FbpB-iron_permease_fam2-rep -             4e-132  444.7  14.6  4.7e-132  444.5  14.6   1.0   1   0   0   1   1   1   1 # 841 # 2082 # -1 # ID=27581_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.696
+k141_449154_2        -          FbpB-iron_permease_fam2-rep -            1.3e-87  297.7  14.3   1.5e-87  297.4  14.3   1.0   1   0   0   1   1   1   1 # 331 # 1152 # -1 # ID=29213_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.693
+k141_412040_1        -          FbpB-iron_permease_fam2-rep -            2.2e-56  194.4  34.7   2.6e-56  194.2  34.7   1.0   1   0   0   1   1   1   1 # 137 # 1756 # -1 # ID=20593_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.683
+k141_523271_5        -          FbpB-iron_permease_fam2-rep -            4.1e-43  150.5  37.1   5.6e-43  150.1  37.1   1.1   1   0   0   1   1   1   1 # 4275 # 6068 # -1 # ID=41186_5;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.628
+k141_310662_3        -          FbpB-iron_permease_fam2-rep -            1.9e-42  148.3   8.4   2.1e-42  148.2   8.4   1.0   1   0   0   1   1   1   1 # 1688 # 2275 # -1 # ID=17785_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.679
+k141_390427_1        -          FbpB-iron_permease_fam2-rep -              4e-40  140.7  41.0   5.3e-40  140.3  41.0   1.0   1   0   0   1   1   1   1 # 37 # 1791 # -1 # ID=35451_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.568
+k141_154456_1        -          FbpB-iron_permease_fam2-rep -            4.8e-38  133.8  24.8   5.7e-38  133.5  24.8   1.0   1   0   0   1   1   1   1 # 2 # 1219 # 1 # ID=29354_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.557
+k141_449946_2        -          FbpB-iron_permease_fam2-rep -            3.6e-37  130.9  33.4   4.7e-37  130.5  33.4   1.0   1   0   0   1   1   1   1 # 777 # 2489 # 1 # ID=30347_2;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.701
+k141_326329_2        -          FbpB-iron_permease_fam2-rep -            1.5e-36  128.8  23.6   1.8e-36  128.6  23.6   1.0   1   0   0   1   1   1   1 # 815 # 2068 # -1 # ID=38158_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.581
+k141_480554_1        -          FbpB-iron_permease_fam2-rep -            4.9e-34  120.5  21.3   5.8e-34  120.3  21.3   1.0   1   0   0   1   1   1   1 # 2 # 1261 # 1 # ID=24680_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+k141_39527_1         -          FbpB-iron_permease_fam2-rep -            1.2e-32  115.9  20.7   1.5e-32  115.6  20.7   1.0   1   0   0   1   1   1   1 # 3 # 1055 # -1 # ID=9367_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.530
+k141_482346_2        -          FbpB-iron_permease_fam2-rep -            3.3e-30  107.9  23.0   3.9e-30  107.6  23.0   1.0   1   0   0   1   1   1   1 # 370 # 1734 # -1 # ID=27020_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+k141_371639_1        -          FbpB-iron_permease_fam2-rep -            9.2e-30  106.4  36.1   2.1e-26   95.3  31.0   2.1   1   1   1   2   2   2   2 # 33 # 1568 # -1 # ID=10858_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+k141_350221_1        -          FbpB-iron_permease_fam2-rep -            1.2e-28  102.8  28.6   1.4e-28  102.5  28.6   1.0   1   0   0   1   1   1   1 # 118 # 1497 # 1 # ID=26336_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.665
+k141_219447_2        -          FbpB-iron_permease_fam2-rep -            4.8e-28  100.7  18.8     6e-28  100.4  18.8   1.0   1   0   0   1   1   1   1 # 1267 # 2337 # -1 # ID=28286_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.669
+k141_377812_1        -          FbpB-iron_permease_fam2-rep -            1.7e-27   98.9  19.8     2e-27   98.7  19.8   1.1   1   0   0   1   1   1   1 # 3 # 1310 # 1 # ID=19200_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.627
+k141_243826_1        -          FbpB-iron_permease_fam2-rep -            7.5e-26   93.5  17.0   8.8e-26   93.3  17.0   1.0   1   0   0   1   1   1   1 # 3 # 1028 # -1 # ID=16610_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.586
+k141_100815_3        -          FbpB-iron_permease_fam2-rep -              1e-25   93.0  12.9   1.1e-25   92.9  12.9   1.0   1   0   0   1   1   1   1 # 1517 # 2122 # -1 # ID=2571_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+k141_251577_2        -          FbpB-iron_permease_fam2-rep -              1e-24   89.7  23.5   1.2e-24   89.5  23.5   1.0   1   0   0   1   1   1   1 # 154 # 1257 # -1 # ID=26846_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.652
+k141_471565_2        -          FbpB-iron_permease_fam2-rep -            1.7e-24   89.0  26.8   7.4e-24   86.9  19.8   2.0   1   1   0   2   2   2   2 # 384 # 1868 # 1 # ID=12539_2;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.542
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpB-iron_permease_fam2-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750957_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750957_contigs_maiores1kbp.fasta-HMM/FbpB-iron_permease_fam2-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750957_contigs_maiores1kbp.fasta-HMM/FbpB-iron_permease_fam2-rep.hmm.tblout -T 88 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpB-iron_permease_fam2-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750957_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:39 2025
+# [ok]

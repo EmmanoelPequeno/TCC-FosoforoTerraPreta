@@ -1,0 +1,15 @@
+#                                                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_98726_1         -          Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229 -            5.9e-26   93.7   0.5   9.1e-20   73.4   0.1   2.1   2   0   0   2   2   2   2 # 1 # 984 # 1 # ID=38188_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.622
+k141_145896_2        -          Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229 -            4.2e-18   68.0   0.2   7.1e-13   50.8   0.4   2.0   2   0   0   2   2   2   2 # 474 # 1328 # -1 # ID=16496_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.565
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750960_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750960_contigs_maiores1kbp.fasta-HMM/Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750960_contigs_maiores1kbp.fasta-HMM/Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229.hmm.tblout -T 64 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PchC_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4229.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750960_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:51:23 2025
+# [ok]

@@ -1,0 +1,27 @@
+#                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_549594_2        -          PvsC_vibrioferrin_biosynthesis-rep -            1.1e-22   83.3  22.0   1.4e-22   83.0  22.0   1.0   1   0   0   1   1   1   1 # 961 # 2121 # 1 # ID=39660_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.543
+k141_213622_3        -          PvsC_vibrioferrin_biosynthesis-rep -            7.8e-13   50.9  31.6   5.6e-12   48.1  31.6   1.9   1   1   0   1   1   1   1 # 1444 # 2565 # -1 # ID=18198_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.735
+k141_489306_1        -          PvsC_vibrioferrin_biosynthesis-rep -              1e-12   50.6  31.7   2.4e-12   49.3  31.7   1.7   1   1   0   1   1   1   1 # 93 # 1307 # -1 # ID=11949_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+k141_582097_45       -          PvsC_vibrioferrin_biosynthesis-rep -              9e-11   44.1  24.3   9.2e-06   27.6  14.9   3.0   1   1   0   2   2   2   2 # 36978 # 38309 # 1 # ID=32574_45;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.382
+k141_483353_2        -          PvsC_vibrioferrin_biosynthesis-rep -            1.3e-10   43.6  20.9   2.3e-09   39.5   8.9   2.7   2   1   0   2   2   2   2 # 493 # 1725 # 1 # ID=3621_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.594
+k141_216328_2        -          PvsC_vibrioferrin_biosynthesis-rep -            2.5e-10   42.7   2.5   2.5e-10   42.7   2.5   4.6   2   2   2   5   5   5   2 # 438 # 1628 # -1 # ID=21208_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.688
+k141_165574_3        -          PvsC_vibrioferrin_biosynthesis-rep -            2.5e-09   39.4   7.4   2.5e-09   39.4   7.4   2.2   2   0   0   2   2   2   1 # 3178 # 4776 # -1 # ID=7191_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.629
+k141_154907_1        -          PvsC_vibrioferrin_biosynthesis-rep -            3.4e-09   38.9  11.6   7.8e-06   27.9   0.7   2.1   1   1   1   2   2   2   2 # 3 # 602 # -1 # ID=45294_1;partial=10;start_type=ATG;rbs_motif=TAA;rbs_spacer=3bp;gc_cont=0.370
+k141_564240_1        -          PvsC_vibrioferrin_biosynthesis-rep -            3.9e-09   38.7  11.3   3.9e-09   38.7  11.3   2.9   1   1   1   3   3   3   1 # 2 # 964 # -1 # ID=4051_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.711
+k141_338550_1        -          PvsC_vibrioferrin_biosynthesis-rep -            1.1e-08   37.2  19.0   0.00016   23.6  19.0   3.0   1   1   0   1   1   1   1 # 3 # 1085 # 1 # ID=23583_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.350
+k141_78798_1         -          PvsC_vibrioferrin_biosynthesis-rep -            1.3e-08   37.1   4.4   1.4e-08   36.9   4.4   1.1   1   0   0   1   1   1   1 # 2 # 472 # -1 # ID=51082_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.546
+k141_190090_3        -          PvsC_vibrioferrin_biosynthesis-rep -            1.3e-08   37.1  28.2   1.7e-08   36.7  28.2   1.1   1   0   0   1   1   1   1 # 1248 # 2393 # -1 # ID=38542_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.635
+k141_24651_1         -          PvsC_vibrioferrin_biosynthesis-rep -            2.7e-08   36.0   7.5   3.7e-08   35.5   7.5   1.1   1   0   0   1   1   1   1 # 3 # 791 # 1 # ID=32218_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+k141_94581_2         -          PvsC_vibrioferrin_biosynthesis-rep -            4.7e-08   35.2  34.6   1.4e-05   27.0   7.7   3.1   2   1   1   3   3   3   2 # 1090 # 2256 # 1 # ID=18405_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsC_vibrioferrin_biosynthesis-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/PvsC_vibrioferrin_biosynthesis-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/PvsC_vibrioferrin_biosynthesis-rep.hmm.tblout -T 35 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsC_vibrioferrin_biosynthesis-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:52:04 2025
+# [ok]

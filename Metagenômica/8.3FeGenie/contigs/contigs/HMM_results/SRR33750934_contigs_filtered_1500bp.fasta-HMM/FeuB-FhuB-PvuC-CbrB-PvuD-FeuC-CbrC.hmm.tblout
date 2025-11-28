@@ -1,0 +1,14 @@
+#                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_353618_2        -          FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC -            5.1e-47  161.0  22.6   7.1e-47  160.5  22.6   1.2   1   0   0   1   1   1   1 # 616 # 1629 # -1 # ID=3620_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.690
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750934_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750934_contigs_filtered_1500bp.fasta-HMM/FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750934_contigs_filtered_1500bp.fasta-HMM/FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC.hmm.tblout -T 151 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750934_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:17:55 2025
+# [ok]

@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_195063_2        -          DFE_0463             -            3.9e-80  272.1  14.5   4.6e-24   87.9   0.2   6.7   3   2   3   6   6   6   6 # 658 # 3627 # -1 # ID=2297_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.565
+k141_531893_2        -          DFE_0463             -            3.6e-58  199.9   0.0   3.4e-17   65.4   0.0   7.0   1   1   3   6   6   6   6 # 1205 # 3487 # 1 # ID=62944_2;partial=01;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.718
+k141_169001_1        -          DFE_0463             -            1.1e-52  181.9  12.8   6.6e-19   71.0   0.2   5.3   3   2   1   4   4   4   3 # 3 # 1415 # 1 # ID=32428_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+k141_291755_1        -          DFE_0463             -            4.4e-51  176.6   0.0     2e-17   66.1   0.0   4.5   2   2   1   4   4   4   4 # 1 # 1680 # 1 # ID=2154_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+k141_67601_2         -          DFE_0463             -            1.7e-44  155.0   4.7   4.3e-21   78.2   0.2   3.2   1   1   2   3   3   3   3 # 841 # 1803 # 1 # ID=27008_2;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=7bp;gc_cont=0.406
+k141_692192_1        -          DFE_0463             -            3.8e-41  144.0   9.1   4.2e-13   51.9   0.6   4.0   1   1   3   4   4   4   4 # 1 # 1029 # -1 # ID=19984_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.398
+k141_289840_2        -          DFE_0463             -            2.3e-38  134.9   6.4     4e-19   71.7   0.2   3.1   1   1   2   3   3   3   3 # 190 # 1077 # 1 # ID=63244_2;partial=01;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.548
+k141_173727_1        -          DFE_0463             -            3.6e-38  134.2   7.9     2e-14   56.3   0.1   6.6   4   2   2   6   6   6   6 # 3 # 1796 # 1 # ID=39060_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.559
+k141_572833_3        -          DFE_0463             -            2.1e-37  131.7   4.6   3.7e-14   55.4   0.1   3.2   1   1   2   3   3   3   3 # 1354 # 2832 # -1 # ID=54290_3;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.403
+k141_103481_6        -          DFE_0463             -            3.9e-35  124.3  10.1   2.5e-16   62.5   0.6   2.9   1   1   2   3   3   3   3 # 5114 # 5902 # -1 # ID=9199_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.449
+k141_495198_21       -          DFE_0463             -            7.3e-35  123.4   3.0   3.2e-19   72.0   0.5   2.2   1   1   1   2   2   2   2 # 16560 # 17426 # 1 # ID=15394_21;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.446
+k141_630733_3        -          DFE_0463             -              1e-32  116.3   4.3     7e-18   67.6   0.1   2.9   1   1   2   3   3   3   3 # 1648 # 2463 # 1 # ID=2324_3;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.382
+k141_385324_2        -          DFE_0463             -              4e-32  114.4   1.6     4e-18   68.4   0.0   3.2   1   1   2   3   3   3   3 # 646 # 1701 # -1 # ID=60788_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.634
+k141_406255_1        -          DFE_0463             -              6e-31  110.5   1.7     1e-14   57.3   0.1   4.3   3   2   1   5   5   5   4 # 2 # 1042 # 1 # ID=25545_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.623
+k141_58561_1         -          DFE_0463             -            5.8e-29  104.0   0.0   3.9e-06   29.1   0.1   4.9   2   2   1   4   4   4   4 # 2 # 1585 # -1 # ID=14501_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.664
+k141_235029_2        -          DFE_0463             -            1.7e-28  102.5   0.0   8.2e-10   41.1   0.0   3.6   1   1   2   3   3   3   3 # 292 # 1056 # -1 # ID=55306_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.535
+k141_263224_11       -          DFE_0463             -            2.1e-28  102.2  13.8   6.1e-12   48.1   0.3   3.9   1   1   3   4   4   4   4 # 11336 # 12280 # 1 # ID=28427_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.430
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/DFE_0463.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/DFE_0463.hmm.tblout -T 100 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:50:03 2025
+# [ok]

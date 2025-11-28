@@ -1,0 +1,18 @@
+#                                                                                                     --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_397862_3        -          Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606 -            2.5e-10   40.9   0.0   2.8e-10   40.7   0.0   1.1   1   0   0   1   1   1   1 # 1125 # 1565 # -1 # ID=3981_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.698
+k141_130454_3        -          Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606 -            8.7e-08   32.6   0.0   9.5e-08   32.5   0.0   1.1   1   0   0   1   1   1   1 # 2780 # 3268 # -1 # ID=4543_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.354
+k141_291976_2        -          Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606 -            5.9e-05   23.4   0.0   7.5e-05   23.0   0.0   1.1   1   0   0   1   1   1   1 # 688 # 1050 # 1 # ID=6669_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.576
+k141_168229_2        -          Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606 -            0.00032   21.0   0.0   0.00036   20.8   0.0   1.1   1   0   0   1   1   1   1 # 494 # 808 # 1 # ID=4358_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.743
+k141_45755_2         -          Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606 -            0.00058   20.1   0.0    0.0007   19.9   0.0   1.2   1   0   0   1   1   1   1 # 675 # 1274 # -1 # ID=2188_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.668
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750938_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750938_contigs_filtered_1500bp.fasta-HMM/Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750938_contigs_filtered_1500bp.fasta-HMM/Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606.hmm.tblout -T 20 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750938_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:19:34 2025
+# [ok]

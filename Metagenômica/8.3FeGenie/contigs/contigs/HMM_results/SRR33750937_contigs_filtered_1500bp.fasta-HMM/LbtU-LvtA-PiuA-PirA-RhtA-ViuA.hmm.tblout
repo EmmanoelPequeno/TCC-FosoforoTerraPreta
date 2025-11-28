@@ -1,0 +1,19 @@
+#                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_625599_1        -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            2.1e-11   44.7   0.3   5.2e-05   23.6   0.1   2.8   3   1   0   3   3   3   2 # 3 # 1679 # 1 # ID=15274_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+k141_208153_3        -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            1.3e-09   38.8   0.0   0.00058   20.1   0.0   3.0   2   1   0   2   2   2   2 # 1167 # 3428 # 1 # ID=4576_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+k141_605362_1        -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            1.8e-09   38.3   2.4   3.6e-05   24.1   0.2   3.2   2   1   0   2   2   2   2 # 3 # 2045 # 1 # ID=2305_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.540
+k141_60973_2         -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            3.1e-09   37.6   0.1   8.5e-06   26.2   1.2   2.4   2   1   0   2   2   2   2 # 761 # 2710 # 1 # ID=12013_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.676
+k141_252185_1        -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            1.6e-07   31.9   0.1    0.0032   17.7   0.0   2.3   3   0   0   3   3   3   2 # 2 # 1417 # 1 # ID=6260_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.578
+k141_66383_1         -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            1.4e-05   25.5   0.0     3e-05   24.4   0.0   1.5   2   0   0   2   2   2   1 # 2 # 1033 # 1 # ID=14654_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.608
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//LbtU-LvtA-PiuA-PirA-RhtA-ViuA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750937_contigs_filtered_1500bp.fasta-HMM/LbtU-LvtA-PiuA-PirA-RhtA-ViuA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750937_contigs_filtered_1500bp.fasta-HMM/LbtU-LvtA-PiuA-PirA-RhtA-ViuA.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//LbtU-LvtA-PiuA-PirA-RhtA-ViuA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:19:17 2025
+# [ok]

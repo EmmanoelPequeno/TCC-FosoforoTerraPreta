@@ -1,0 +1,23 @@
+#                                                                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                 -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_55546_9         -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -              6e-22   75.2   0.0   7.7e-22   74.9   0.0   1.0   1   0   0   1   1   1   1 # 5556 # 6383 # 1 # ID=52_9;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.437
+k141_581437_29       -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -            1.8e-18   63.7   0.1   2.6e-18   63.2   0.1   1.1   1   0   0   1   1   1   1 # 19562 # 20269 # -1 # ID=9_29;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.418
+k141_57302_1         -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -              6e-17   58.7   0.0   8.2e-17   58.3   0.0   1.1   1   0   0   1   1   1   1 # 350 # 1456 # -1 # ID=58_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388
+k141_245163_9        -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -            9.8e-17   58.0   0.0   8.7e-16   54.9   0.0   1.9   1   1   0   1   1   1   1 # 8793 # 9536 # -1 # ID=27_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.387
+k141_256070_21       -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -            4.7e-16   55.8   0.0   2.9e-15   53.2   0.0   1.8   1   1   0   1   1   1   1 # 19062 # 19811 # 1 # ID=79_21;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.393
+k141_193668_10       -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -            2.2e-15   53.6   0.0   1.2e-14   51.1   0.0   1.8   1   1   0   1   1   1   1 # 8203 # 8949 # -1 # ID=2_10;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.383
+k141_6666_14         -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -            3.6e-15   52.8   0.1   4.9e-15   52.4   0.1   1.1   1   0   0   1   1   1   1 # 11602 # 12546 # -1 # ID=50_14;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.439
+k141_486812_15       -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -            2.8e-12   43.3   0.7   1.3e-11   41.1   0.7   1.8   1   1   0   1   1   1   1 # 12929 # 13918 # 1 # ID=25_15;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.427
+k141_741116_5        -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -            2.7e-11   40.1   0.0   1.4e-06   24.5   0.0   2.0   2   0   0   2   2   2   2 # 2382 # 3194 # -1 # ID=92_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.405
+k141_436647_14       -          Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623 -            1.3e-10   37.8   0.0   1.7e-10   37.4   0.0   1.1   1   0   0   1   1   1   1 # 7927 # 8895 # 1 # ID=11_14;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.10.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.10.fa-HMM/Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.10.fa-HMM/Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623.hmm.tblout -T 24 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PchH_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4223_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.10.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:25:19 2025
+# [ok]

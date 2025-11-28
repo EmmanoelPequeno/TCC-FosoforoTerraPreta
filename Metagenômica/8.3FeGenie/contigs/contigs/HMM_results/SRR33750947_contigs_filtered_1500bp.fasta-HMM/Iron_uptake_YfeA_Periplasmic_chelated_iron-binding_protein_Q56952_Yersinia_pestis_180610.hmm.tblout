@@ -1,0 +1,18 @@
+#                                                                                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                                               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                                     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_604205_3        -          Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610 -              8e-28   98.8   0.1   1.3e-27   98.1   0.1   1.2   1   0   0   1   1   1   1 # 2248 # 3351 # 1 # ID=16267_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404
+k141_345240_2        -          Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610 -            4.8e-19   69.9   0.1   1.9e-18   67.9   0.1   1.7   1   1   0   1   1   1   1 # 455 # 1372 # -1 # ID=15592_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+k141_673150_2        -          Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610 -            9.8e-18   65.6   0.0   1.1e-17   65.5   0.0   1.0   1   0   0   1   1   1   1 # 1428 # 1841 # 1 # ID=8133_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.669
+k141_430419_2        -          Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610 -            1.6e-16   61.7   0.0     5e-16   60.0   0.0   1.6   1   1   0   1   1   1   1 # 424 # 1272 # 1 # ID=14871_2;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.643
+k141_464854_2        -          Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610 -            1.2e-15   58.8   0.0     1e-14   55.7   0.0   1.9   1   1   0   1   1   1   1 # 620 # 1570 # 1 # ID=17052_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.575
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750947_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750947_contigs_filtered_1500bp.fasta-HMM/Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750947_contigs_filtered_1500bp.fasta-HMM/Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm.tblout -T 46 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//Iron_uptake_YfeA_Periplasmic_chelated_iron-binding_protein_Q56952_Yersinia_pestis_180610.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750947_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:15:51 2025
+# [ok]

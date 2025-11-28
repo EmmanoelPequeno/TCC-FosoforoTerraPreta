@@ -1,0 +1,16 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_494903_2        -          VabG_Vanchrobactin_biosynthesis-rep -           3.9e-138  462.8   0.0  4.8e-138  462.6   0.0   1.0   1   0   0   1   1   1   1 # 1148 # 2293 # -1 # ID=18526_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.557
+k141_241634_22       -          VabG_Vanchrobactin_biosynthesis-rep -           1.1e-130  438.4   0.0  1.2e-130  438.2   0.0   1.0   1   0   0   1   1   1   1 # 19374 # 20447 # -1 # ID=1487_22;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.713
+k141_38350_1         -          VabG_Vanchrobactin_biosynthesis-rep -           1.4e-125  421.6   0.0  1.5e-125  421.5   0.0   1.0   1   0   0   1   1   1   1 # 61 # 1119 # 1 # ID=50568_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.554
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//VabG_Vanchrobactin_biosynthesis-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/VabG_Vanchrobactin_biosynthesis-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/VabG_Vanchrobactin_biosynthesis-rep.hmm.tblout -T 245 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//VabG_Vanchrobactin_biosynthesis-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:52:02 2025
+# [ok]

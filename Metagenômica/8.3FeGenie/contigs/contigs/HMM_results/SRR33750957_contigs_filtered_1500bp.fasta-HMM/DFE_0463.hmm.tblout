@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_236473_4        -          DFE_0463             -            1.2e-80  272.3  15.2   2.4e-24   87.4   0.4   6.7   3   2   3   6   6   6   6 # 2787 # 5756 # 1 # ID=2932_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.563
+k141_506890_1        -          DFE_0463             -            3.1e-43  149.4   0.0   4.8e-18   66.7   0.0   3.9   2   2   2   4   4   4   3 # 1 # 1302 # 1 # ID=7262_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.679
+k141_346295_4        -          DFE_0463             -            1.4e-35  124.3  10.1   9.1e-17   62.5   0.6   2.9   1   1   2   3   3   3   3 # 4668 # 5456 # 1 # ID=8806_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.446
+k141_515607_1        -          DFE_0463             -            2.6e-35  123.4   3.0   1.1e-19   72.0   0.5   2.2   1   1   1   2   2   2   2 # 914 # 1780 # -1 # ID=12522_1;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.448
+k141_36977_2         -          DFE_0463             -            1.8e-28  100.9   6.4   2.7e-12   47.8   0.2   3.9   1   1   2   4   4   4   3 # 3035 # 3937 # -1 # ID=2503_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.431
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750957_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750957_contigs_filtered_1500bp.fasta-HMM/DFE_0463.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750957_contigs_filtered_1500bp.fasta-HMM/DFE_0463.hmm.tblout -T 100 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750957_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:09:40 2025
+# [ok]

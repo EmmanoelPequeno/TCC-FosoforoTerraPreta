@@ -1,0 +1,17 @@
+#                                                                           --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                       accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------             -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_29590_5         -          FbpB-FutB-iron_permease_fam1-rep -            1.6e-65  220.7  40.8   1.5e-54  184.4  28.6   2.8   2   1   0   2   2   2   2 # 3952 # 5712 # 1 # ID=1732_5;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.616
+k141_351647_3        -          FbpB-FutB-iron_permease_fam1-rep -            2.1e-52  177.3  37.7   6.3e-50  169.2  37.7   2.8   1   1   0   1   1   1   1 # 1709 # 3502 # -1 # ID=1263_3;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.632
+k141_332911_3        -          FbpB-FutB-iron_permease_fam1-rep -            1.7e-50  171.1  48.0   1.5e-48  164.7  48.0   2.3   1   1   0   1   1   1   1 # 2221 # 3993 # 1 # ID=149_3;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.644
+k141_501315_2        -          FbpB-FutB-iron_permease_fam1-rep -            1.3e-46  158.3  43.7   2.3e-36  124.5  33.3   2.6   2   1   0   2   2   2   2 # 1305 # 2999 # 1 # ID=1459_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.568
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpB-FutB-iron_permease_fam1-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/FbpB-FutB-iron_permease_fam1-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750963_bin.1.fa-HMM/FbpB-FutB-iron_permease_fam1-rep.hmm.tblout -T 118 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpB-FutB-iron_permease_fam1-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750963_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:29:48 2025
+# [ok]

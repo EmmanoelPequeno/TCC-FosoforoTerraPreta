@@ -1,0 +1,23 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_146399_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -              4e-06   26.5   0.0   5.8e-06   26.0   0.0   1.2   1   0   0   1   1   1   1 # 88 # 747 # -1 # ID=2516_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+k141_526200_3        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            6.8e-06   25.8   0.1   1.2e-05   25.0   0.1   1.3   1   1   0   1   1   1   1 # 1029 # 1565 # -1 # ID=4744_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.544
+k141_91476_2         -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            3.5e-05   23.4   0.0   4.8e-05   23.0   0.0   1.2   1   0   0   1   1   1   1 # 1138 # 1776 # 1 # ID=4966_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+k141_47665_7         -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            9.5e-05   22.0   0.0   0.00011   21.8   0.0   1.0   1   0   0   1   1   1   1 # 2822 # 3058 # -1 # ID=2886_7;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+k141_283286_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00011   21.8   0.0   0.00012   21.7   0.0   1.1   1   0   0   1   1   1   1 # 3 # 278 # -1 # ID=4299_1;partial=10;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.707
+k141_368162_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00018   21.1   0.0   0.00025   20.7   0.0   1.3   1   0   0   1   1   1   1 # 2 # 1015 # -1 # ID=6585_1;partial=10;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.731
+k141_345767_2        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00044   19.9   0.1   0.00051   19.6   0.1   1.1   1   0   0   1   1   1   1 # 1580 # 1936 # 1 # ID=2064_2;partial=01;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.692
+k141_239073_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00047   19.8   0.0    0.0008   19.0   0.0   1.4   1   1   0   1   1   1   1 # 21 # 605 # -1 # ID=822_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.668
+k141_232217_2        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            0.00083   19.0   0.0    0.0011   18.6   0.0   1.1   1   0   0   1   1   1   1 # 444 # 1097 # 1 # ID=6293_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.700
+k141_31738_3         -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -             0.0014   18.2   0.2    0.0022   17.6   0.2   1.3   1   0   0   1   1   1   1 # 2420 # 3028 # 1 # ID=6475_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.612
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750940_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750940_contigs_filtered_1500bp.fasta-HMM/Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750940_contigs_filtered_1500bp.fasta-HMM/Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750940_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:19:34 2025
+# [ok]

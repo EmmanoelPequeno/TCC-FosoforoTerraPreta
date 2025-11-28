@@ -1,0 +1,15 @@
+#                                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_322356_3        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -             6e-176  583.2   0.0  7.4e-176  582.9   0.0   1.0   1   0   0   1   1   1   1 # 2059 # 3522 # 1 # ID=232_3;partial=01;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.531
+k141_228917_2        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -            1.8e-84  279.6   6.8   2.1e-84  279.4   6.8   1.0   1   0   0   1   1   1   1 # 2559 # 3560 # 1 # ID=293_2;partial=01;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.509
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.6.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.6.fa-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.6.fa-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm.tblout -T 272 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.6.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:20:26 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_142252_4        -          FeoE                 -            2.8e-23   80.6  12.1   1.3e-18   65.2   3.4   3.0   1   1   2   3   3   3   3 # 1906 # 3285 # 1 # ID=301_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.722
+k141_370336_1        -          FeoE                 -            1.1e-12   45.8   5.7   1.5e-12   45.4   5.7   1.1   1   0   0   1   1   1   1 # 234 # 1139 # -1 # ID=234_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.725
+k141_142252_3        -          FeoE                 -            4.7e-06   24.0   6.3   6.5e-06   23.6   6.3   1.1   1   0   0   1   1   1   1 # 963 # 1868 # -1 # ID=301_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.716
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FeoE.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750960_bin.5.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750960_bin.5.fa-HMM/FeoE.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750960_bin.5.fa-HMM/FeoE.hmm.tblout -T 20 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FeoE.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750960_bin.5.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:32:07 2025
+# [ok]

@@ -1,0 +1,35 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_163432_1        -          DmkB                 -            6.6e-43  148.3   0.0   8.4e-43  147.9   0.0   1.0   1   0   0   1   1   1   1 # 11 # 1000 # -1 # ID=18357_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.608
+k141_360443_1        -          DmkB                 -            2.6e-42  146.3   0.0   2.9e-42  146.2   0.0   1.0   1   0   0   1   1   1   1 # 2 # 946 # 1 # ID=12978_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.678
+k141_224775_1        -          DmkB                 -            7.4e-42  144.8   0.0   8.4e-42  144.6   0.0   1.0   1   0   0   1   1   1   1 # 146 # 1078 # -1 # ID=2766_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.517
+k141_323339_2        -          DmkB                 -            2.1e-41  143.4   0.5   2.4e-41  143.2   0.5   1.0   1   0   0   1   1   1   1 # 1220 # 2215 # -1 # ID=2809_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.572
+k141_214932_2        -          DmkB                 -              7e-39  135.0   0.8   7.9e-39  134.9   0.8   1.0   1   0   0   1   1   1   1 # 327 # 1103 # -1 # ID=14326_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.551
+k141_207028_2        -          DmkB                 -            2.1e-38  133.5   0.0   2.6e-38  133.2   0.0   1.0   1   0   0   1   1   1   1 # 370 # 1380 # -1 # ID=8105_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.627
+k141_66016_3         -          DmkB                 -            1.3e-32  114.5   0.1   1.6e-32  114.2   0.1   1.0   1   0   0   1   1   1   1 # 1483 # 2184 # 1 # ID=13733_3;partial=01;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.651
+k141_331975_1        -          DmkB                 -            1.3e-29  104.6   0.0     4e-29  103.0   0.0   1.7   1   1   0   1   1   1   1 # 2 # 847 # 1 # ID=9850_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.728
+k141_248528_1        -          DmkB                 -            6.5e-25   89.1   0.2   1.3e-24   88.1   0.1   1.4   1   1   0   1   1   1   1 # 34 # 924 # -1 # ID=1965_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.387
+k141_251730_1        -          DmkB                 -            8.7e-25   88.7   0.3   1.5e-24   87.9   0.3   1.3   1   1   0   1   1   1   1 # 412 # 1251 # 1 # ID=4525_1;partial=00;start_type=TTG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.354
+k141_317613_2        -          DmkB                 -            1.7e-22   81.2   0.0   1.9e-22   81.1   0.0   1.0   1   0   0   1   1   1   1 # 802 # 1362 # -1 # ID=17876_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.595
+k141_385182_1        -          DmkB                 -            1.3e-20   75.0   0.4   2.1e-20   74.3   0.3   1.4   1   1   1   2   2   2   1 # 3 # 614 # 1 # ID=12967_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_332888_1        -          DmkB                 -            2.8e-17   64.1   0.1   2.9e-17   64.0   0.1   1.1   1   0   0   1   1   1   1 # 3 # 548 # -1 # ID=10577_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.388
+k141_163533_1        -          DmkB                 -              2e-15   57.9   0.1   3.3e-15   57.2   0.1   1.3   1   1   0   1   1   1   1 # 2 # 565 # -1 # ID=18491_1;partial=10;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.546
+k141_292492_4        -          DmkB                 -            2.1e-15   57.9   0.0   4.1e-11   43.8   0.0   2.0   2   0   0   2   2   2   2 # 2967 # 3929 # 1 # ID=20963_4;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.676
+k141_34840_1         -          DmkB                 -            4.1e-15   56.9   0.1     6e-14   53.1   0.1   2.0   1   1   0   1   1   1   1 # 2 # 1000 # 1 # ID=8140_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+k141_228067_1        -          DmkB                 -              2e-14   54.7   0.0   2.3e-11   44.6   0.0   2.2   2   0   0   2   2   2   2 # 1 # 846 # -1 # ID=5364_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.730
+k141_106297_1        -          DmkB                 -              1e-12   49.1   0.0     1e-12   49.0   0.0   1.0   1   0   0   1   1   1   1 # 2 # 361 # -1 # ID=8128_1;partial=10;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.733
+k141_73202_1         -          DmkB                 -            2.1e-12   48.1   0.1   2.3e-12   47.9   0.1   1.0   1   0   0   1   1   1   1 # 3 # 326 # -1 # ID=19486_1;partial=10;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.633
+k141_10185_1         -          DmkB                 -            3.5e-12   47.3   0.0     4e-12   47.1   0.0   1.0   1   0   0   1   1   1   1 # 2 # 580 # 1 # ID=8283_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.385
+k141_360550_1        -          DmkB                 -            7.4e-11   43.0   0.1   9.8e-11   42.5   0.1   1.1   1   0   0   1   1   1   1 # 1 # 537 # -1 # ID=13084_1;partial=10;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.687
+k141_171171_1        -          DmkB                 -              8e-10   39.6   0.0   3.3e-09   37.5   0.0   1.8   1   1   0   1   1   1   1 # 1 # 996 # 1 # ID=20843_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.545
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DmkB.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750935_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750935_contigs_maiores1kbp.fasta-HMM/DmkB.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750935_contigs_maiores1kbp.fasta-HMM/DmkB.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DmkB.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750935_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:50:11 2025
+# [ok]

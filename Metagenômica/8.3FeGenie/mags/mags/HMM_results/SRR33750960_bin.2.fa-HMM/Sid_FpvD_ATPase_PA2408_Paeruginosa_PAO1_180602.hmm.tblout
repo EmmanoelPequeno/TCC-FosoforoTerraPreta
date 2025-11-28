@@ -1,0 +1,17 @@
+#                                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_193854_3        -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            1.5e-15   51.9   2.2   6.2e-15   49.8   2.2   1.8   1   1   0   1   1   1   1 # 672 # 1580 # 1 # ID=107_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.708
+k141_391651_2        -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -              3e-13   44.3   2.9   8.9e-13   42.7   2.9   1.7   1   1   0   1   1   1   1 # 164 # 1294 # 1 # ID=105_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.694
+k141_149449_1        -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            1.1e-12   42.4   3.8     2e-07   25.2   0.0   3.2   3   0   0   3   3   3   2 # 1 # 2295 # 1 # ID=55_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.696
+k141_426308_2        -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -              5e-12   40.3   0.0     6e-12   40.0   0.0   1.0   1   0   0   1   1   1   1 # 2165 # 2620 # -1 # ID=112_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.697
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750960_bin.2.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750960_bin.2.fa-HMM/Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750960_bin.2.fa-HMM/Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750960_bin.2.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:38:26 2025
+# [ok]

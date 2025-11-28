@@ -1,0 +1,16 @@
+#                                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_153375_1        -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   1.9e-26   95.9   7.2   2.9e-26   95.3   7.2   1.4   1   1   0   1   1   1   1 # 174 # 1040 # -1 # ID=34963_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.554
+k141_269865_1        -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   7.4e-24   87.4  11.7   9.5e-24   87.0  11.7   1.1   1   0   0   1   1   1   1 # 1 # 975 # 1 # ID=808_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+k141_205796_1        -          PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA PF00593.19   7.4e-22   80.8  13.7   1.5e-21   79.8  13.7   1.5   1   1   0   1   1   1   1 # 1 # 897 # 1 # ID=12494_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750938_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750938_contigs_maiores1kbp.fasta-HMM/PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750938_contigs_maiores1kbp.fasta-HMM/PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA.hmm.tblout -T 75 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF00593-TonB_dependent_receptor-PiuA-PirA-FepA-RhtA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750938_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:58:09 2025
+# [ok]

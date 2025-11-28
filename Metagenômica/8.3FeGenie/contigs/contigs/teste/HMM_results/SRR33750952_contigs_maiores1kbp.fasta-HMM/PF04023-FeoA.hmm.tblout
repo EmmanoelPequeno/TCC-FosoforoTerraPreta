@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_643228_1        -          FeoA                 PF04023.9    2.8e-16   62.5   1.2   1.1e-14   57.4   0.1   2.2   2   0   0   2   2   2   1 # 3 # 560 # 1 # ID=19107_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.717
+k141_48651_6         -          FeoA                 PF04023.9    4.5e-16   61.8   0.5   2.6e-15   59.4   0.1   2.2   2   0   0   2   2   2   1 # 5981 # 6658 # 1 # ID=482_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+k141_452416_2        -          FeoA                 PF04023.9    3.1e-15   59.1   0.1   7.3e-14   54.7   0.0   2.2   2   0   0   2   2   2   1 # 353 # 1036 # -1 # ID=22596_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.713
+k141_238847_3        -          FeoA                 PF04023.9    5.5e-15   58.4   1.7   5.9e-14   55.0   0.1   2.4   2   1   0   2   2   2   1 # 1808 # 2491 # 1 # ID=60145_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.705
+k141_310163_2        -          FeoA                 PF04023.9    6.2e-13   51.8   0.0   6.8e-13   51.6   0.0   1.0   1   0   0   1   1   1   1 # 1064 # 1255 # -1 # ID=26322_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.625
+k141_332361_2        -          FeoA                 PF04023.9      2e-11   46.9   0.0     4e-10   42.8   0.0   2.2   2   0   0   2   2   2   1 # 508 # 1191 # 1 # ID=55901_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.703
+k141_377579_3        -          FeoA                 PF04023.9    2.7e-11   46.5   0.4   6.3e-11   45.3   0.1   1.8   2   0   0   2   2   2   1 # 963 # 1484 # -1 # ID=50930_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.686
+k141_492747_4        -          FeoA                 PF04023.9      3e-11   46.4   0.3     7e-10   42.0   0.0   2.5   3   0   0   3   3   3   1 # 1839 # 2552 # -1 # ID=12084_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.696
+k141_654990_2        -          FeoA                 PF04023.9    1.6e-10   44.0   0.0   1.6e-09   40.8   0.0   2.2   2   0   0   2   2   2   1 # 1045 # 1758 # 1 # ID=35198_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.679
+k141_142037_3        -          FeoA                 PF04023.9      5e-10   42.5   1.1   6.4e-09   38.9   0.1   2.2   2   0   0   2   2   2   1 # 1393 # 2064 # 1 # ID=60797_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.536
+k141_571924_1        -          FeoA                 PF04023.9    3.4e-08   36.6   0.1   4.1e-08   36.3   0.1   1.1   1   0   0   1   1   1   1 # 2 # 343 # 1 # ID=53146_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+k141_622736_6        -          FeoA                 PF04023.9    7.9e-06   29.0   0.6   1.4e-05   28.2   0.6   1.4   1   0   0   1   1   1   1 # 4634 # 5347 # 1 # ID=56489_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.707
+k141_103879_1        -          FeoA                 PF04023.9    7.5e-05   25.9   0.1    0.0014   21.8   0.0   2.3   2   0   0   2   2   2   1 # 1 # 717 # 1 # ID=9677_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.706
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF04023-FeoA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/PF04023-FeoA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/PF04023-FeoA.hmm.tblout -T 21 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF04023-FeoA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:26 2025
+# [ok]

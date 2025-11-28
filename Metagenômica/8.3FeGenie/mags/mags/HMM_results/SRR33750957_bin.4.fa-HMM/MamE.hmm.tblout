@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_7478_11         -          MamE                 -            4.4e-58  194.8   4.9   1.8e-44  150.0   5.0   2.0   1   1   1   2   2   2   2 # 8749 # 9687 # 1 # ID=136_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.419
+k141_3120_11         -          MamE                 -            3.3e-56  188.6   8.4   3.6e-50  168.8   5.5   2.2   2   0   0   2   2   2   2 # 8067 # 9314 # -1 # ID=69_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.418
+k141_13395_8         -          MamE                 -              2e-53  179.5  12.8   6.5e-49  164.7   7.9   2.7   1   1   1   2   2   2   2 # 6259 # 7506 # -1 # ID=205_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.450
+k141_13009_22        -          MamE                 -            8.3e-53  177.5  13.4   1.5e-46  156.9   9.9   2.3   1   1   1   2   2   2   2 # 16958 # 18166 # -1 # ID=200_22;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_509338_6        -          MamE                 -            2.4e-51  172.6  12.0   1.8e-47  159.9  10.8   2.1   1   1   1   2   2   2   2 # 2186 # 3226 # -1 # ID=230_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.422
+k141_13812_5         -          MamE                 -            4.2e-51  171.9  15.1   1.1e-46  157.3  10.9   2.4   1   1   1   2   2   2   2 # 2778 # 4220 # 1 # ID=211_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.412
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamE.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.4.fa-HMM/MamE.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.4.fa-HMM/MamE.hmm.tblout -T 170 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamE.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:33:30 2025
+# [ok]

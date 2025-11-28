@@ -1,0 +1,15 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_507607_1        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11     4e-40  134.9   0.2   6.2e-40  134.3   0.2   1.4   1   0   0   1   1   1   1 # 1 # 705 # -1 # ID=712_1;partial=10;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.623
+k141_376743_1        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   3.2e-30  102.8   1.7   3.7e-30  102.6   1.7   1.1   1   0   0   1   1   1   1 # 3 # 275 # 1 # ID=1020_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.608
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.8.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.8.fa-HMM/PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.8.fa-HMM/PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm.tblout -T 22 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.8.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:15:13 2025
+# [ok]

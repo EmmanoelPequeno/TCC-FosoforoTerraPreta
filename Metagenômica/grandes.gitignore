@@ -1,0 +1,79 @@
+# ==============================
+# Arquivos grandes comuns
+# ==============================
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+*.faa
+*.fna
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.vcf
+*.vcf.gz
+*.bed
+*.bed.gz
+*.gff
+*.gff3
+*.gtf
+*.tsv
+*.csv
+*.xlsx
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+*.npz
+*.npy
+*.rdata
+*.rds
+
+# Arquivos de alinhamento
+*.msa
+*.msa.gz
+*.aln
+*.aln.gz
+*.phy
+*.phy.gz
+
+# ==============================
+# Outputs de ferramentas de bioinfo
+# ==============================
+gtdbtk_out/
+Metagenômica/7GTDB-tk/gtdbtk_out/
+Metagenômica/**/gtdbtk_out/
+
+# ==============================
+# Pastas de resultados e temporários
+# ==============================
+results/
+outputs/
+tmp/
+temp/
+cache/
+intermediate/
+workdir/
+
+# ==============================
+# Logs e arquivos de ambiente
+# ==============================
+*.log
+*.out
+*.err
+.env
+.venv
+ipython_log.txt
+.DS_Store
+Thumbs.db
+
+# ==============================
+# HPC / SLURM
+# ==============================
+slurm-*.out
+slurm-*.err
+

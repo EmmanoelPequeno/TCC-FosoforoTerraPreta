@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_287143_2        -          HmuY                 PF14064.1    8.9e-14   55.1   0.0   1.3e-13   54.6   0.0   1.3   1   0   0   1   1   1   1 # 664 # 1245 # 1 # ID=59908_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.739
+k141_346808_2        -          HmuY                 PF14064.1    1.6e-13   54.2   0.0   2.3e-13   53.8   0.0   1.3   1   0   0   1   1   1   1 # 1024 # 1509 # -1 # ID=10641_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.739
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//PF14064-HmuY_heme_binding.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/PF14064-HmuY_heme_binding.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/PF14064-HmuY_heme_binding.hmm.tblout -T 31 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//PF14064-HmuY_heme_binding.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:57:46 2025
+# [ok]

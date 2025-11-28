@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "SRR33750956_bin.8.fa-proteins.faa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.8.fa-proteins.faa",
+  "number-of-letters": 324340,
+  "number-of-sequences": 1194,
+  "last-updated": "2025-11-02T15:46:00",
+  "number-of-volumes": 1,
+  "bytes-total": 605598,
+  "bytes-to-cache": 335287,
+  "files": [
+    "SRR33750956_bin.8.fa-proteins.faa.pdb",
+    "SRR33750956_bin.8.fa-proteins.faa.phr",
+    "SRR33750956_bin.8.fa-proteins.faa.pin",
+    "SRR33750956_bin.8.fa-proteins.faa.pot",
+    "SRR33750956_bin.8.fa-proteins.faa.psq",
+    "SRR33750956_bin.8.fa-proteins.faa.ptf",
+    "SRR33750956_bin.8.fa-proteins.faa.pto"
+  ]
+}

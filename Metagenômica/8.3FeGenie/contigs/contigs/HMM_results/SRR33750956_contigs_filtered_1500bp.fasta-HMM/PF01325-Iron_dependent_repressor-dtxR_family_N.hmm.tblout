@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_233386_3        -          Fe_dep_repress       PF01325.14   6.6e-22   79.1   0.8   1.7e-21   77.8   0.5   1.8   2   0   0   2   2   2   1 # 2141 # 2518 # -1 # ID=11_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.365
+k141_739807_1        -          Fe_dep_repress       PF01325.14   6.4e-19   69.5   2.2   1.1e-18   68.8   2.2   1.4   1   0   0   1   1   1   1 # 325 # 678 # 1 # ID=17651_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_703645_1        -          Fe_dep_repress       PF01325.14     1e-16   62.4   0.0     2e-16   61.5   0.0   1.5   1   0   0   1   1   1   1 # 3 # 713 # 1 # ID=1600_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.689
+k141_583880_24       -          Fe_dep_repress       PF01325.14   1.9e-15   58.4   0.1   3.6e-15   57.5   0.1   1.5   1   0   0   1   1   1   1 # 20150 # 20827 # 1 # ID=10745_24;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.704
+k141_204163_3        -          Fe_dep_repress       PF01325.14     2e-15   58.3   0.2   3.4e-15   57.6   0.2   1.4   1   0   0   1   1   1   1 # 1557 # 2120 # 1 # ID=7836_3;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.713
+k141_190830_2        -          Fe_dep_repress       PF01325.14   2.2e-11   45.3   0.0   3.8e-11   44.6   0.0   1.3   1   0   0   1   1   1   1 # 883 # 1305 # 1 # ID=1896_2;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.650
+k141_110609_2        -          Fe_dep_repress       PF01325.14   3.1e-11   44.9   0.0   6.2e-11   43.9   0.0   1.5   1   0   0   1   1   1   1 # 1035 # 1616 # 1 # ID=7828_2;partial=01;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.699
+k141_507621_1        -          Fe_dep_repress       PF01325.14   5.2e-10   41.0   0.0   6.4e-10   40.7   0.0   1.1   1   0   0   1   1   1   1 # 1 # 231 # -1 # ID=17647_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.671
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01325-Iron_dependent_repressor-dtxR_family_N.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750956_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750956_contigs_filtered_1500bp.fasta-HMM/PF01325-Iron_dependent_repressor-dtxR_family_N.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750956_contigs_filtered_1500bp.fasta-HMM/PF01325-Iron_dependent_repressor-dtxR_family_N.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01325-Iron_dependent_repressor-dtxR_family_N.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750956_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:19:45 2025
+# [ok]

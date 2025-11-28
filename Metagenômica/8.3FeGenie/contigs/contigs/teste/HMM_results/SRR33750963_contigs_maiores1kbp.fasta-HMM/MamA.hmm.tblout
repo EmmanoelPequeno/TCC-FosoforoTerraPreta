@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_382937_1        -          MamA                 -            3.1e-90  302.7  27.1   6.1e-27   96.8   1.2   5.1   1   1   4   5   5   5   5 # 197 # 1918 # 1 # ID=20700_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.606
+k141_47216_1         -          MamA                 -            2.2e-49  169.8   6.6   8.2e-22   80.1   0.1   3.1   1   1   2   3   3   3   3 # 1 # 1152 # 1 # ID=13147_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.523
+k141_112259_1        -          MamA                 -            5.2e-48  165.3   6.7   8.7e-21   76.8   0.6   3.1   1   1   2   3   3   3   3 # 1 # 1524 # -1 # ID=3167_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.648
+k141_60276_2         -          MamA                 -            9.6e-48  164.4   8.3   4.2e-18   68.0   0.3   4.0   1   1   3   4   4   4   4 # 215 # 1567 # 1 # ID=29097_2;partial=01;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.563
+k141_347754_1        -          MamA                 -            2.9e-46  159.6   5.7   8.5e-18   67.0   0.3   3.2   1   1   2   3   3   3   3 # 2 # 1120 # 1 # ID=21844_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.631
+k141_561871_1        -          MamA                 -            3.2e-46  159.5   2.6   3.8e-21   77.9   0.0   3.0   1   1   2   3   3   3   3 # 3 # 923 # -1 # ID=15935_1;partial=10;start_type=ATG;rbs_motif=TAA;rbs_spacer=4bp;gc_cont=0.421
+k141_528867_1        -          MamA                 -            8.7e-44  151.6   6.4   1.5e-16   63.0   0.3   3.6   2   1   1   3   3   3   3 # 2 # 2062 # -1 # ID=19552_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.658
+k141_262665_1        -          MamA                 -            1.4e-41  144.4  15.6   4.1e-16   61.6   0.3   3.9   1   1   4   5   5   5   5 # 2 # 928 # -1 # ID=7607_1;partial=10;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.655
+k141_507904_2        -          MamA                 -            5.3e-41  142.5  15.0   1.5e-11   46.7   0.6   5.1   3   2   2   5   5   5   5 # 1755 # 3626 # -1 # ID=38914_2;partial=00;start_type=TTG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.515
+k141_16_1            -          MamA                 -            2.6e-38  133.8  10.0   3.9e-18   68.1   0.5   4.0   1   1   2   3   3   3   3 # 3 # 998 # 1 # ID=18_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+k141_74252_1         -          MamA                 -            6.8e-36  125.9   5.4     3e-20   75.0   0.4   3.0   1   1   1   2   2   2   2 # 120 # 1508 # 1 # ID=1047_1;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.654
+k141_282953_1        -          MamA                 -            9.1e-36  125.5  12.4   8.3e-15   57.3   0.3   2.7   1   1   2   3   3   3   3 # 2 # 895 # -1 # ID=32711_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.621
+k141_108669_1        -          MamA                 -            2.2e-35  124.2  15.4   2.7e-22   81.7   2.4   3.4   1   1   2   3   3   3   3 # 3 # 1352 # -1 # ID=44332_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.584
+k141_43431_1         -          MamA                 -              1e-34  122.1   1.2   7.3e-13   51.0   0.5   3.8   3   1   1   4   4   4   4 # 248 # 1600 # -1 # ID=8417_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.619
+k141_101004_1        -          MamA                 -            4.1e-34  120.1   3.5   2.6e-16   62.2   0.1   2.8   1   1   2   3   3   3   3 # 1 # 909 # -1 # ID=34653_1;partial=10;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.675
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/MamA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/MamA.hmm.tblout -T 119 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:50 2025
+# [ok]

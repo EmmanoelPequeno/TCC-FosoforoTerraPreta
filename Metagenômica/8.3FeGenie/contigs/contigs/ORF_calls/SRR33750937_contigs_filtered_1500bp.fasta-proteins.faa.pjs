@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa",
+  "number-of-letters": 17238733,
+  "number-of-sequences": 72389,
+  "last-updated": "2025-09-10T11:21:00",
+  "number-of-volumes": 1,
+  "bytes-total": 32244281,
+  "bytes-to-cache": 17890483,
+  "files": [
+    "SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa.pdb",
+    "SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa.phr",
+    "SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa.pin",
+    "SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa.pot",
+    "SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa.psq",
+    "SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa.ptf",
+    "SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa.pto"
+  ]
+}

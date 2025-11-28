@@ -1,0 +1,16 @@
+#                                                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                 -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_45010_3         -          Sid_PvdT_Pyoverdine_export_Paeruginosa_PA2390_180623 -            1.4e-70  236.7   9.3   1.7e-44  150.5   1.1   2.0   2   0   0   2   2   2   2 # 4711 # 6237 # -1 # ID=354_3;partial=00;start_type=GTG;rbs_motif=AGG;rbs_spacer=7bp;gc_cont=0.752
+k141_65490_2         -          Sid_PvdT_Pyoverdine_export_Paeruginosa_PA2390_180623 -            2.2e-59  199.7   5.6   2.4e-59  199.5   5.6   1.0   1   0   0   1   1   1   1 # 216 # 1430 # 1 # ID=963_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.680
+k141_345489_2        -          Sid_PvdT_Pyoverdine_export_Paeruginosa_PA2390_180623 -            1.4e-53  180.5   0.0   1.6e-53  180.3   0.0   1.0   1   0   0   1   1   1   1 # 1879 # 2658 # -1 # ID=442_2;partial=00;start_type=ATG;rbs_motif=AGG;rbs_spacer=10bp;gc_cont=0.682
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_PvdT_Pyoverdine_export_Paeruginosa_PA2390_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.7.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.7.fa-HMM/Sid_PvdT_Pyoverdine_export_Paeruginosa_PA2390_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.7.fa-HMM/Sid_PvdT_Pyoverdine_export_Paeruginosa_PA2390_180623.hmm.tblout -T 175 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_PvdT_Pyoverdine_export_Paeruginosa_PA2390_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.7.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:41:59 2025
+# [ok]

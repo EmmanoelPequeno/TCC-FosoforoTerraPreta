@@ -1,0 +1,17 @@
+#                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_69585_1         -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           2.3e-251  836.7   0.0  2.6e-251  836.6   0.0   1.0   1   0   0   1   1   1   1 # 1 # 2406 # 1 # ID=775_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+k141_185127_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           6.9e-188  626.2   0.0  7.7e-188  626.0   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1885 # -1 # ID=1864_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+k141_273453_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           2.3e-155  518.4   0.0  2.5e-155  518.2   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1576 # 1 # ID=1958_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.669
+k141_160222_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE -           1.4e-143  479.3   0.0  1.6e-143  479.1   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1573 # 1 # ID=1293_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.643
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750936_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750936_contigs_filtered_1500bp.fasta-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750936_contigs_filtered_1500bp.fasta-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE.hmm.tblout -T 430 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtB-PchE.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750936_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:13:37 2025
+# [ok]

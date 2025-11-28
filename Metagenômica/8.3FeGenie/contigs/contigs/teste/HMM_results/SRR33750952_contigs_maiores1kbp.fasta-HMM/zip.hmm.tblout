@@ -1,0 +1,27 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_391709_4        -          zip                  -            3.5e-12   49.4  13.4   8.9e-12   48.1  13.4   1.7   1   1   0   1   1   1   1 # 1861 # 2598 # -1 # ID=6111_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.678
+k141_377579_4        -          zip                  -            4.7e-10   42.4  13.5     1e-08   38.1  13.5   2.7   1   1   0   1   1   1   1 # 1716 # 2552 # 1 # ID=50930_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.688
+k141_172152_2        -          zip                  -            5.9e-10   42.1   7.1   6.8e-09   38.6   7.1   2.5   1   1   0   1   1   1   1 # 483 # 1202 # 1 # ID=36878_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.539
+k141_140578_5        -          zip                  -            2.3e-09   40.2  11.7     8e-09   38.4  11.5   2.1   1   1   1   2   2   2   1 # 2518 # 3381 # 1 # ID=58911_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.697
+k141_492885_9        -          zip                  -            5.7e-08   35.6  22.7   2.1e-06   30.5  22.7   3.4   1   1   0   1   1   1   1 # 6566 # 7294 # 1 # ID=12327_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.700
+k141_538401_9        -          zip                  -            1.8e-06   30.7   6.2   1.8e-05   27.4   6.2   2.1   1   1   0   1   1   1   1 # 6322 # 6834 # -1 # ID=8585_9;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.680
+k141_533767_1        -          zip                  -            1.9e-06   30.6  12.8   3.1e-06   29.9  12.5   1.6   1   1   0   1   1   1   1 # 1 # 1068 # -1 # ID=2356_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.651
+k141_86078_1         -          zip                  -            2.1e-06   30.5   9.6   1.8e-05   27.4   9.6   2.2   1   1   0   1   1   1   1 # 1 # 531 # 1 # ID=53406_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.699
+k141_489500_2        -          zip                  -            2.7e-06   30.1  18.3   0.00042   23.0   7.7   2.3   1   1   1   2   2   2   2 # 445 # 1173 # 1 # ID=7843_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.521
+k141_286654_2        -          zip                  -            2.9e-06   30.0  12.7   2.1e-05   27.2  12.7   2.1   1   1   0   1   1   1   1 # 648 # 1361 # -1 # ID=59248_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.518
+k141_70577_2         -          zip                  -            5.3e-06   29.2  23.8   0.00012   24.8  23.8   3.3   1   1   0   1   1   1   1 # 657 # 1400 # 1 # ID=31263_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.703
+k141_469752_2        -          zip                  -            8.1e-06   28.6   4.8   1.2e-05   28.0   4.8   1.3   1   0   0   1   1   1   1 # 116 # 1006 # 1 # ID=45325_2;partial=01;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.692
+k141_680021_1        -          zip                  -            1.3e-05   27.9  15.3    0.0027   20.3   0.7   3.0   1   1   2   3   3   3   2 # 244 # 1083 # 1 # ID=3751_1;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.714
+k141_301027_2        -          zip                  -            2.2e-05   27.1  11.8   4.8e-05   26.0   7.9   2.9   2   1   0   2   2   2   1 # 272 # 1108 # 1 # ID=14260_2;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.701
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//zip.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/zip.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750952_contigs_maiores1kbp.fasta-HMM/zip.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//zip.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750952_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:56:29 2025
+# [ok]

@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_583880_24       -          Fe_dep_repr_C        PF02742.10   2.5e-29  102.6   0.1     4e-29  101.9   0.1   1.3   1   0   0   1   1   1   1 # 20150 # 20827 # 1 # ID=10745_24;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.704
+k141_703645_1        -          Fe_dep_repr_C        PF02742.10   3.1e-29  102.3   0.1   6.4e-29  101.3   0.1   1.6   1   0   0   1   1   1   1 # 3 # 713 # 1 # ID=1600_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.689
+k141_110609_2        -          Fe_dep_repr_C        PF02742.10   6.8e-29  101.2   0.7   6.8e-29  101.2   0.7   2.1   2   0   0   2   2   2   1 # 1035 # 1616 # 1 # ID=7828_2;partial=01;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.699
+k141_204163_3        -          Fe_dep_repr_C        PF02742.10   2.3e-27   96.3   0.7   3.7e-27   95.7   0.7   1.4   1   0   0   1   1   1   1 # 1557 # 2120 # 1 # ID=7836_3;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.713
+k141_732213_3        -          Fe_dep_repr_C        PF02742.10   2.7e-27   96.1   0.5   6.2e-27   94.9   0.5   1.6   1   0   0   1   1   1   1 # 2540 # 3778 # 1 # ID=14383_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.619
+k141_109692_2        -          Fe_dep_repr_C        PF02742.10   1.2e-21   78.0   0.1   2.9e-21   76.8   0.2   1.6   2   0   0   2   2   2   1 # 603 # 1298 # -1 # ID=7399_2;partial=00;start_type=TTG;rbs_motif=AGGAG(G)/GGAGG;rbs_spacer=13-15bp;gc_cont=0.705
+k141_588998_1        -          Fe_dep_repr_C        PF02742.10   1.3e-21   77.9   0.1   2.3e-21   77.1   0.1   1.4   1   0   0   1   1   1   1 # 3 # 527 # 1 # ID=13053_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.716
+k141_233386_3        -          Fe_dep_repr_C        PF02742.10   2.4e-16   61.0   0.1   4.5e-16   60.1   0.1   1.4   1   0   0   1   1   1   1 # 2141 # 2518 # -1 # ID=11_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.365
+k141_739807_1        -          Fe_dep_repr_C        PF02742.10   2.2e-12   48.3   0.3   3.6e-12   47.6   0.3   1.4   1   0   0   1   1   1   1 # 325 # 678 # 1 # ID=17651_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_190830_2        -          Fe_dep_repr_C        PF02742.10   2.9e-11   44.8   0.5   5.2e-11   43.9   0.5   1.5   1   0   0   1   1   1   1 # 883 # 1305 # 1 # ID=1896_2;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.650
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF02742-Iron_dependent_repressor-dtxR_family_metal_binding_domain.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750956_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750956_contigs_filtered_1500bp.fasta-HMM/PF02742-Iron_dependent_repressor-dtxR_family_metal_binding_domain.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750956_contigs_filtered_1500bp.fasta-HMM/PF02742-Iron_dependent_repressor-dtxR_family_metal_binding_domain.hmm.tblout -T 20 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF02742-Iron_dependent_repressor-dtxR_family_metal_binding_domain.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750956_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:19:45 2025
+# [ok]

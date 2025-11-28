@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_554457_2        -          DFE_0463             -              1e-42  143.0  11.9   5.3e-16   55.3   1.8   3.6   1   1   2   3   3   3   3 # 460 # 1551 # 1 # ID=194_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396
+k141_130454_9        -          DFE_0463             -            3.2e-42  141.4   3.7   1.4e-22   77.0   0.4   3.6   2   1   0   2   2   2   2 # 4956 # 5966 # 1 # ID=181_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.396
+k141_158613_2        -          DFE_0463             -            7.2e-42  140.2   4.2   2.8e-15   52.9   0.3   3.1   1   1   2   3   3   3   3 # 966 # 2036 # 1 # ID=63_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395
+k141_542168_4        -          DFE_0463             -            1.6e-38  129.3   4.2   4.6e-16   55.5   0.2   3.2   1   1   2   3   3   3   3 # 2083 # 3561 # 1 # ID=59_4;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.405
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750938_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750938_bin.1.fa-HMM/DFE_0463.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750938_bin.1.fa-HMM/DFE_0463.hmm.tblout -T 100 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0463.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750938_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:12:19 2025
+# [ok]

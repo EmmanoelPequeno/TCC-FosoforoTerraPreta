@@ -1,0 +1,17 @@
+#                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_77104_1         -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            3.4e-14   54.4   0.0   4.5e-14   54.0   0.0   1.1   1   0   0   1   1   1   1 # 48 # 1268 # 1 # ID=4603_1;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.659
+k141_133007_1        -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            1.6e-10   42.2   0.0   1.3e-05   26.0   0.0   2.1   2   0   0   2   2   2   2 # 3 # 1430 # 1 # ID=29219_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.564
+k141_464354_1        -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            7.7e-09   36.7   1.9     2e-05   25.4   0.2   2.9   2   1   0   2   2   2   2 # 3 # 1991 # 1 # ID=30142_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.544
+k141_348706_1        -          LbtU-LvtA-PiuA-PirA-RhtA-ViuA -            1.7e-08   35.6   0.0   0.00011   23.0   0.0   2.6   3   0   0   3   3   3   2 # 3 # 1085 # 1 # ID=23072_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.589
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//LbtU-LvtA-PiuA-PirA-RhtA-ViuA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/LbtU-LvtA-PiuA-PirA-RhtA-ViuA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/LbtU-LvtA-PiuA-PirA-RhtA-ViuA.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//LbtU-LvtA-PiuA-PirA-RhtA-ViuA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:57:58 2025
+# [ok]

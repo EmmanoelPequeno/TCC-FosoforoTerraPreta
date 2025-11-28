@@ -1,0 +1,18 @@
+#                                                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_141377_1        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            8.2e-20   72.4  11.4     1e-19   72.1  11.4   1.1   1   0   0   1   1   1   1 # 3 # 803 # -1 # ID=11245_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+k141_490733_1        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            1.2e-17   65.2  28.3   1.5e-17   64.9  28.3   1.0   1   0   0   1   1   1   1 # 2 # 1354 # 1 # ID=4838_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.548
+k141_1705_1          -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            1.3e-15   58.6  38.2   5.2e-15   56.6  38.2   1.8   1   1   0   1   1   1   1 # 104 # 1453 # -1 # ID=670_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.644
+k141_82601_1         -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -              4e-15   57.0   5.3   4.6e-15   56.8   5.3   1.0   1   0   0   1   1   1   1 # 3 # 515 # -1 # ID=3394_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+k141_197773_2        -          Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623 -            6.8e-14   52.9  40.7   2.5e-13   51.1  40.7   1.7   1   1   0   1   1   1   1 # 306 # 1661 # 1 # ID=6931_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.625
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750950_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750950_contigs_filtered_1500bp.fasta-HMM/Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750950_contigs_filtered_1500bp.fasta-HMM/Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FptX_Ferripyochelin_uptake_Pseudomonas_aeruginosa_PA4218_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750950_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:18:13 2025
+# [ok]

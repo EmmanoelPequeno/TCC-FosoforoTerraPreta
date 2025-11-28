@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_52441_3         -          MamA                 -            1.2e-69  230.6  15.8   3.9e-30  102.0   0.3   5.2   1   1   5   6   6   6   6 # 1658 # 3517 # -1 # ID=304_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.517
+k141_168795_5        -          MamA                 -            4.6e-37  124.5   4.1   2.9e-14   50.4   0.2   2.8   1   1   2   3   3   3   3 # 3191 # 4888 # -1 # ID=19_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.547
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.2.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.2.fa-HMM/MamA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.2.fa-HMM/MamA.hmm.tblout -T 119 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.2.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:33:45 2025
+# [ok]

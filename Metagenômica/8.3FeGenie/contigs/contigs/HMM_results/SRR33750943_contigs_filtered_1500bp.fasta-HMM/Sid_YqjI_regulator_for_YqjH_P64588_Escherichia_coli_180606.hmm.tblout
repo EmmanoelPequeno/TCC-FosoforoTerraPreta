@@ -1,0 +1,16 @@
+#                                                                                                     --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_219384_2        -          Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606 -            3.2e-15   56.3   0.0   8.9e-15   54.8   0.0   1.7   1   1   0   1   1   1   1 # 1855 # 2250 # -1 # ID=7308_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.649
+k141_205178_3        -          Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606 -            6.6e-12   45.5   0.0   7.9e-12   45.2   0.0   1.1   1   0   0   1   1   1   1 # 1422 # 1994 # -1 # ID=3505_3;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.750
+k141_433995_2        -          Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606 -            2.7e-09   36.9   0.0   2.9e-09   36.8   0.0   1.1   1   0   0   1   1   1   1 # 1059 # 1625 # 1 # ID=6189_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750943_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750943_contigs_filtered_1500bp.fasta-HMM/Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750943_contigs_filtered_1500bp.fasta-HMM/Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606.hmm.tblout -T 20 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_YqjI_regulator_for_YqjH_P64588_Escherichia_coli_180606.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750943_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:19:48 2025
+# [ok]

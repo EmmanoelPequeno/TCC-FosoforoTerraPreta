@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_473564_12       -          FTR1                 PF03239.9    2.9e-44  151.9  22.3   4.2e-44  151.3  22.3   1.2   1   0   0   1   1   1   1 # 9152 # 9976 # -1 # ID=3407_12;partial=00;start_type=ATG;rbs_motif=AGG;rbs_spacer=10bp;gc_cont=0.703
+k141_516619_4        -          FTR1                 PF03239.9    5.5e-36  124.7  12.3   6.9e-36  124.3  12.3   1.0   1   0   0   1   1   1   1 # 1022 # 1870 # -1 # ID=2967_4;partial=00;start_type=GTG;rbs_motif=AGTAG;rbs_spacer=4bp;gc_cont=0.718
+k141_100086_1        -          FTR1                 PF03239.9    7.5e-32  111.1  28.3   2.5e-26   92.9  12.0   2.2   1   1   1   2   2   2   2 # 2 # 1315 # 1 # ID=292_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.744
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm.tblout -T 24 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF03239-Iron_permease_FTR1_EfeU_Fip1_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:29:33 2025
+# [ok]

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_155532_11       -          FeoE                 -            2.1e-31  106.9   8.0   4.3e-31  105.9   6.4   1.9   2   0   0   2   2   2   1 # 5227 # 6810 # 1 # ID=351_11;partial=01;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.406
+k141_69874_7         -          FeoE                 -            8.3e-30  101.7   4.0   8.3e-30  101.7   4.0   2.5   3   0   0   3   3   3   1 # 5112 # 6692 # -1 # ID=528_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.352
+k141_94285_1         -          FeoE                 -            2.6e-17   60.7   7.6   3.3e-17   60.3   7.6   1.0   1   0   0   1   1   1   1 # 19 # 1029 # -1 # ID=104_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.374
+k141_478754_1        -          FeoE                 -            3.3e-10   37.3   3.5   7.4e-07   26.4   1.4   2.1   2   0   0   2   2   2   2 # 175 # 1128 # -1 # ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_22063_4         -          FeoE                 -            2.4e-09   34.5   5.1   2.9e-08   31.0   5.1   1.9   1   1   0   1   1   1   1 # 4144 # 5112 # -1 # ID=300_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.418
+k141_7077_2          -          FeoE                 -            2.2e-06   24.8   4.8   1.3e-05   22.3   4.8   1.8   1   1   0   1   1   1   1 # 895 # 1872 # -1 # ID=102_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.370
+k141_576784_2        -          FeoE                 -            2.2e-06   24.8   0.7   2.2e-06   24.8   0.7   1.7   2   0   0   2   2   2   1 # 2425 # 3417 # -1 # ID=210_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.400
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FeoE.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.6.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.6.fa-HMM/FeoE.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.6.fa-HMM/FeoE.hmm.tblout -T 20 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FeoE.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.6.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:32:02 2025
+# [ok]

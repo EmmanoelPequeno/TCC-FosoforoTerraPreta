@@ -1,0 +1,22 @@
+#                                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_277564_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -                  0 1262.7   0.0         0 1260.6   0.0   1.7   1   1   0   1   1   1   1 # 3 # 3614 # 1 # ID=2620_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+k141_101248_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -           6.2e-224  745.7   0.1  7.5e-224  745.4   0.1   1.0   1   0   0   1   1   1   1 # 2 # 2245 # -1 # ID=697_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+k141_100158_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -           8.9e-210  698.7   0.0    1e-209  698.6   0.0   1.0   1   0   0   1   1   1   1 # 3 # 2612 # -1 # ID=484_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+k141_374817_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -           9.7e-207  688.7   0.0  1.1e-206  688.5   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1948 # -1 # ID=1251_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.646
+k141_20307_1         -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -           9.7e-173  575.8   0.0  5.4e-119  397.5   0.0   2.0   1   1   1   2   2   2   2 # 3 # 1646 # -1 # ID=4551_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.682
+k141_21203_1         -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -           6.4e-166  553.2   0.0  7.8e-166  552.9   0.0   1.0   1   0   0   1   1   1   1 # 3 # 1664 # -1 # ID=4732_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.676
+k141_176885_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -           1.3e-149  499.1   0.0  1.6e-149  498.8   0.0   1.1   1   0   0   1   1   1   1 # 1 # 1938 # -1 # ID=996_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+k141_19909_1         -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -           2.1e-145  485.1   0.1  2.3e-145  485.0   0.1   1.0   1   0   0   1   1   1   1 # 3 # 1394 # -1 # ID=4439_1;partial=10;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.632
+k141_199976_1        -          PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF -             1e-142  476.2   0.0  1.1e-142  476.0   0.0   1.0   1   0   0   1   1   1   1 # 1 # 1518 # -1 # ID=666_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.665
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750935_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750935_contigs_filtered_1500bp.fasta-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750935_contigs_filtered_1500bp.fasta-HMM/PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm.tblout -T 272 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvdDIJL-VabF-VibF-EntF-DhbF-MbtBEF-PchE-AngR-PchF.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750935_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:13:10 2025
+# [ok]

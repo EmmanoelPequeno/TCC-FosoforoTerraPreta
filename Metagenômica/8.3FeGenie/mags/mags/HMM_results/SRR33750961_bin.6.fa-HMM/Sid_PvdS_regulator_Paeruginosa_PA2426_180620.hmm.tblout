@@ -1,0 +1,17 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_429533_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            1.8e-10   37.1   0.1   2.4e-10   36.8   0.1   1.1   1   0   0   1   1   1   1 # 806 # 1375 # 1 # ID=294_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.554
+k141_515207_2        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            8.9e-07   25.1   0.1   1.5e-06   24.3   0.1   1.4   1   0   0   1   1   1   1 # 1465 # 2250 # 1 # ID=132_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.543
+k141_511433_2        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            7.8e-06   22.0   0.0   1.4e-05   21.2   0.0   1.4   1   0   0   1   1   1   1 # 967 # 1842 # 1 # ID=97_2;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.562
+k141_102480_4        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            6.1e-05   19.1   0.2    0.0008   15.5   0.2   2.0   1   1   0   1   1   1   1 # 1738 # 2307 # -1 # ID=22_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.430
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.6.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.6.fa-HMM/Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.6.fa-HMM/Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.6.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:42:32 2025
+# [ok]

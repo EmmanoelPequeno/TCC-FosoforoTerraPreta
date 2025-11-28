@@ -1,0 +1,16 @@
+#                                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_862373_2        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13     5e-86  285.2  36.1   5.9e-86  285.0  36.1   1.0   1   0   0   1   1   1   1 # 1130 # 2119 # -1 # ID=172_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.694
+k141_460467_4        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   1.1e-82  274.3  36.9   1.3e-82  274.0  36.9   1.0   1   0   0   1   1   1   1 # 2609 # 3622 # 1 # ID=83_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.700
+k141_47179_2         -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   1.8e-79  263.7  35.7   2.2e-79  263.4  35.7   1.0   1   0   0   1   1   1   1 # 242 # 1270 # 1 # ID=323_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.706
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750951_bin.3.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750951_bin.3.fa-HMM/PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750951_bin.3.fa-HMM/PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750951_bin.3.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:41:51 2025
+# [ok]

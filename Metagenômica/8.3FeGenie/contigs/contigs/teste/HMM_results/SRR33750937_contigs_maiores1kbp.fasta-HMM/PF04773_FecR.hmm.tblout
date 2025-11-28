@@ -1,0 +1,36 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_544185_2        -          PF04773_FecR         PF04773.13   1.4e-15   60.5   0.4   3.9e-15   59.0   0.4   1.8   1   0   0   1   1   1   1 # 2300 # 5698 # 1 # ID=31779_2;partial=00;start_type=TTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.660
+k141_578897_1        -          PF04773_FecR         PF04773.13   4.6e-14   55.6   0.2   1.1e-13   54.4   0.2   1.7   1   0   0   1   1   1   1 # 3 # 1337 # -1 # ID=26462_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.584
+k141_169881_1        -          PF04773_FecR         PF04773.13   4.5e-13   52.4   0.1   5.9e-13   52.0   0.1   1.2   1   0   0   1   1   1   1 # 1 # 432 # 1 # ID=12869_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.553
+k141_389914_3        -          PF04773_FecR         PF04773.13   1.9e-12   50.4   1.0   7.8e-12   48.4   0.2   1.9   2   0   0   2   2   2   1 # 1973 # 2419 # -1 # ID=38517_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.662
+k141_108261_1        -          PF04773_FecR         PF04773.13   8.6e-12   48.3   0.0   1.4e-11   47.6   0.0   1.3   1   0   0   1   1   1   1 # 520 # 1098 # -1 # ID=33784_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.573
+k141_456690_2        -          PF04773_FecR         PF04773.13   9.6e-12   48.2   2.4   9.6e-12   48.2   2.4   2.6   2   1   1   3   3   3   1 # 481 # 1260 # 1 # ID=20373_2;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.695
+k141_601483_2        -          PF04773_FecR         PF04773.13   2.1e-11   47.1   0.1   3.4e-11   46.4   0.1   1.3   1   0   0   1   1   1   1 # 849 # 1700 # 1 # ID=420_2;partial=01;start_type=ATG;rbs_motif=GGGGG;rbs_spacer=7bp;gc_cont=0.667
+k141_475742_5        -          PF04773_FecR         PF04773.13   3.2e-11   46.5   0.2   5.7e-11   45.7   0.2   1.3   1   0   0   1   1   1   1 # 2615 # 3181 # -1 # ID=44655_5;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.640
+k141_264786_2        -          PF04773_FecR         PF04773.13   4.9e-11   45.9   0.0   7.7e-11   45.3   0.0   1.3   1   0   0   1   1   1   1 # 96 # 830 # -1 # ID=31358_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.573
+k141_446342_2        -          PF04773_FecR         PF04773.13   2.3e-10   43.8   1.2   5.9e-10   42.4   0.5   2.0   2   0   0   2   2   2   1 # 1365 # 2285 # 1 # ID=7575_2;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.596
+k141_340143_3        -          PF04773_FecR         PF04773.13   3.1e-10   43.3   0.3   1.8e-09   40.9   0.0   1.9   2   0   0   2   2   2   1 # 1462 # 1911 # -1 # ID=25821_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.709
+k141_230434_2        -          PF04773_FecR         PF04773.13   9.2e-10   41.8   0.1   1.5e-09   41.1   0.1   1.3   1   0   0   1   1   1   1 # 534 # 941 # 1 # ID=39344_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.566
+k141_494400_1        -          PF04773_FecR         PF04773.13   1.7e-09   40.9   0.6   4.8e-09   39.5   0.4   1.9   2   0   0   2   2   1   1 # 3 # 1649 # -1 # ID=17934_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.589
+k141_499755_4        -          PF04773_FecR         PF04773.13     1e-08   38.5   0.2   1.6e-08   37.8   0.2   1.4   1   0   0   1   1   1   1 # 1903 # 2667 # -1 # ID=24795_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.648
+k141_331306_1        -          PF04773_FecR         PF04773.13   1.1e-08   38.3   0.0   1.8e-08   37.7   0.0   1.2   1   0   0   1   1   1   1 # 80 # 727 # -1 # ID=13627_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562
+k141_429154_2        -          PF04773_FecR         PF04773.13   1.3e-08   38.2   0.5   2.3e-08   37.3   0.1   1.6   2   0   0   2   2   2   1 # 750 # 1157 # 1 # ID=40549_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.564
+k141_606906_1        -          PF04773_FecR         PF04773.13   1.4e-08   38.0   0.2   2.3e-08   37.3   0.2   1.4   1   0   0   1   1   1   1 # 391 # 906 # 1 # ID=7465_1;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.566
+k141_121994_3        -          PF04773_FecR         PF04773.13   3.5e-08   36.7   0.1   5.3e-08   36.2   0.1   1.3   1   0   0   1   1   1   1 # 1739 # 2146 # 1 # ID=2896_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.578
+k141_635180_2        -          PF04773_FecR         PF04773.13   1.4e-07   34.9   0.1   2.6e-07   33.9   0.1   1.5   1   0   0   1   1   1   1 # 713 # 1120 # -1 # ID=50027_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.583
+k141_376238_3        -          PF04773_FecR         PF04773.13   2.5e-07   34.0   0.0   5.1e-07   33.0   0.0   1.5   2   0   0   2   2   2   1 # 648 # 1019 # 1 # ID=21320_3;partial=01;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.543
+k141_624327_2        -          PF04773_FecR         PF04773.13   3.6e-06   30.3   0.5   7.3e-06   29.3   0.5   1.5   1   0   0   1   1   1   1 # 450 # 1403 # -1 # ID=35473_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.709
+k141_507986_2        -          PF04773_FecR         PF04773.13   3.6e-05   27.1   2.9    0.0012   22.3   1.4   3.0   2   1   1   3   3   3   1 # 530 # 1291 # 1 # ID=34294_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.669
+k141_75550_3         -          PF04773_FecR         PF04773.13    0.0011   22.4   0.1    0.0023   21.3   0.1   1.6   1   0   0   1   1   1   1 # 858 # 1550 # 1 # ID=47196_3;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.564
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF04773_FecR.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/PF04773_FecR.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/PF04773_FecR.hmm.tblout -T 21 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF04773_FecR.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 19:00:39 2025
+# [ok]

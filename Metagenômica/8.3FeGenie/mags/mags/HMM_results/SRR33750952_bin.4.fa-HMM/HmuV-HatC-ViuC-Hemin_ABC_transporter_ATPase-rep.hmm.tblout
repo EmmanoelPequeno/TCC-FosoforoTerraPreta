@@ -1,0 +1,16 @@
+#                                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                      accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                            -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_64748_6         -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            2.5e-78  263.1   0.0   3.4e-78  262.6   0.0   1.2   1   0   0   1   1   1   1 # 3150 # 3935 # -1 # ID=1587_6;partial=00;start_type=GTG;rbs_motif=GGAG;rbs_spacer=6bp;gc_cont=0.726
+k141_203372_4        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            1.8e-68  230.8   6.8   7.3e-35  120.7   0.3   2.0   2   0   0   2   2   2   2 # 4043 # 5569 # 1 # ID=896_4;partial=00;start_type=GTG;rbs_motif=GAGG;rbs_spacer=7bp;gc_cont=0.750
+k141_480783_2        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            1.6e-67  227.7   0.9     2e-37  129.1   0.1   2.2   2   0   0   2   2   2   2 # 160 # 1656 # -1 # ID=4031_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.713
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm.tblout -T 220 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:34:11 2025
+# [ok]

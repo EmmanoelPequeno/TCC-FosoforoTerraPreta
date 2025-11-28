@@ -1,0 +1,4 @@
+# emapper version: emapper-2.0.1 emapper DB: 5.0.2
+# command: ./emapper.py  -i /home/public/Terra-Preta/metagenomics/6prokka_annotation/new_outputs/mags/SRR33750961_bin.6/SRR33750961_bin.6.faa -o SRR33750961_bin.6 --output_dir /home/public/Terra-Preta/metagenomics/7eggnog_annotation/new_anotate/mags --cpu 16 --data_dir /home/mayllon23025/eggnog_db -m diamond
+# time: Mon Sep 22 21:52:50 2025
+#query_name	seed_eggNOG_ortholog	seed_ortholog_evalue	seed_ortholog_score	best_tax_level	Preferred_name	GOs	EC	KEGG_ko	KEGG_Pathway	KEGG_Module	KEGG_Reaction	KEGG_rclass	BRITE	KEGG_TC	CAZy	BiGG_Reaction	taxonomic scope	eggNOG OGs	best eggNOG OG	COG Functional cat.	eggNOG free text desc.

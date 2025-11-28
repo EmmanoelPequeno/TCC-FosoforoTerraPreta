@@ -1,0 +1,15 @@
+#                                                                                                     --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_167195_2        -          Sid_PvdE_Pyoverdine_biosynthesis_Paeruginosa_PA2397_180623 -            1.2e-78  266.3   4.1   1.6e-78  265.9   4.1   1.0   1   0   0   1   1   1   1 # 1103 # 2746 # -1 # ID=22894_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.560
+k141_101064_2        -          Sid_PvdE_Pyoverdine_biosynthesis_Paeruginosa_PA2397_180623 -            2.1e-61  209.4   0.0   2.6e-61  209.1   0.0   1.0   1   0   0   1   1   1   1 # 214 # 1002 # -1 # ID=5670_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.575
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdE_Pyoverdine_biosynthesis_Paeruginosa_PA2397_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750959_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750959_contigs_maiores1kbp.fasta-HMM/Sid_PvdE_Pyoverdine_biosynthesis_Paeruginosa_PA2397_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750959_contigs_maiores1kbp.fasta-HMM/Sid_PvdE_Pyoverdine_biosynthesis_Paeruginosa_PA2397_180623.hmm.tblout -T 120 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdE_Pyoverdine_biosynthesis_Paeruginosa_PA2397_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750959_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:51:40 2025
+# [ok]

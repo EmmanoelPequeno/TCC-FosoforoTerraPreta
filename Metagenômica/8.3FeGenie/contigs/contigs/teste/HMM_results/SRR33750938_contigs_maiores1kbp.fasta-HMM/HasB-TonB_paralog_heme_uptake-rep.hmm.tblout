@@ -1,0 +1,16 @@
+#                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_531464_1        -          HasB-TonB_paralog_heme_uptake_fam1-rep -            1.5e-48  168.1  10.6   1.7e-48  167.8  10.6   1.0   1   0   0   1   1   1   1 # 25 # 858 # -1 # ID=29502_1;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.695
+k141_583568_3        -          HasB-TonB_paralog_heme_uptake_fam1-rep -            1.6e-34  122.0   3.6   1.9e-34  121.8   3.6   1.0   1   0   0   1   1   1   1 # 1098 # 1514 # -1 # ID=7132_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.662
+k141_341665_2        -          HasB-TonB_paralog_heme_uptake_fam1-rep -            1.2e-24   89.7   0.5   1.3e-24   89.6   0.5   1.0   1   0   0   1   1   1   1 # 1206 # 1406 # -1 # ID=31283_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.612
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//HasB-TonB_paralog_heme_uptake-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750938_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750938_contigs_maiores1kbp.fasta-HMM/HasB-TonB_paralog_heme_uptake-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750938_contigs_maiores1kbp.fasta-HMM/HasB-TonB_paralog_heme_uptake-rep.hmm.tblout -T 75 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//HasB-TonB_paralog_heme_uptake-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750938_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:50:31 2025
+# [ok]

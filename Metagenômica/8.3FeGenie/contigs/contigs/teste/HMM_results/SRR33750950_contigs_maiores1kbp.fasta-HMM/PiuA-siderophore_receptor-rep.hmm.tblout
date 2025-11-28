@@ -1,0 +1,17 @@
+#                                                                        --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_48268_1         -          PiuA-siderophore_receptor-rep -           2.4e-105  355.7   0.1    3e-105  355.4   0.1   1.0   1   0   0   1   1   1   1 # 2 # 1528 # 1 # ID=12663_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.574
+k141_528286_1        -          PiuA-siderophore_receptor-rep -            3.1e-49  170.2   1.4   3.3e-49  170.1   1.4   1.0   1   0   0   1   1   1   1 # 1 # 1020 # 1 # ID=14666_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.632
+k141_337593_1        -          PiuA-siderophore_receptor-rep -            5.1e-46  159.6   5.8   7.1e-46  159.1   5.8   1.1   1   0   0   1   1   1   1 # 1 # 1629 # -1 # ID=7524_1;partial=10;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.648
+k141_520425_1        -          PiuA-siderophore_receptor-rep -            3.3e-40  140.4   0.1   4.9e-40  139.8   0.1   1.1   1   0   0   1   1   1   1 # 129 # 1355 # -1 # ID=6441_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PiuA-siderophore_receptor-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750950_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750950_contigs_maiores1kbp.fasta-HMM/PiuA-siderophore_receptor-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750950_contigs_maiores1kbp.fasta-HMM/PiuA-siderophore_receptor-rep.hmm.tblout -T 101 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PiuA-siderophore_receptor-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750950_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:58:30 2025
+# [ok]

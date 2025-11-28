@@ -1,0 +1,23 @@
+#                                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_441170_2        -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -              6e-35  117.7   0.0   8.1e-35  117.3   0.0   1.1   1   0   0   1   1   1   1 # 1070 # 1882 # -1 # ID=89_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_318_4           -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            3.3e-18   62.9   0.1   9.2e-18   61.4   0.1   1.6   1   1   0   1   1   1   1 # 3767 # 4789 # 1 # ID=7_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.443
+k141_303690_6        -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            2.2e-15   53.6   0.0   8.3e-08   28.8   0.0   2.1   2   0   0   2   2   2   2 # 4982 # 5758 # -1 # ID=58_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.414
+k141_170444_16       -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -              3e-15   53.2   1.1     3e-07   27.0   0.2   3.5   3   1   0   3   3   3   3 # 12614 # 14161 # -1 # ID=55_16;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.444
+k141_58554_4         -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            1.2e-14   51.3   0.1   1.4e-13   47.8   0.1   2.0   1   1   0   1   1   1   1 # 1943 # 3049 # -1 # ID=257_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388
+k141_402901_3        -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            6.3e-14   48.9   0.2   5.5e-13   45.8   0.2   1.9   1   1   0   1   1   1   1 # 6313 # 7302 # -1 # ID=17_3;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.424
+k141_42430_7         -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            1.3e-13   47.9   0.4     1e-12   44.9   0.4   1.9   1   1   0   1   1   1   1 # 5296 # 6267 # 1 # ID=129_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.421
+k141_274398_14       -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            1.8e-13   47.4   0.0   1.2e-09   34.9   0.0   2.2   2   0   0   2   2   2   2 # 9239 # 10090 # -1 # ID=98_14;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.425
+k141_406262_4        -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            9.5e-13   45.0   0.3   2.2e-12   43.8   0.3   1.7   1   1   0   1   1   1   1 # 2007 # 2996 # 1 # ID=75_4;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.451
+k141_277997_3        -          Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602 -            2.6e-12   43.6   1.2   9.6e-06   22.1   0.0   2.7   3   0   0   3   3   3   2 # 2499 # 5387 # 1 # ID=136_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.4.fa-HMM/Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750961_bin.4.fa-HMM/Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FpvD_ATPase_PA2408_Paeruginosa_PAO1_180602.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750961_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:39:17 2025
+# [ok]

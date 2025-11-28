@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_465180_15       -          Cyc1                 -            1.9e-41  144.6   4.2   2.4e-33  118.2   0.6   2.0   1   1   1   2   2   2   2 # 23968 # 24555 # 1 # ID=31441_15;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.646
+k141_29413_2         -          Cyc1                 -            3.5e-40  140.5   0.2   1.8e-25   92.7   0.1   1.5   1   1   1   2   2   2   2 # 460 # 1077 # -1 # ID=38628_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.613
+k141_179626_1        -          Cyc1                 -            5.5e-40  139.9   2.1   1.2e-31  112.7   0.3   1.4   1   1   1   2   2   2   2 # 3 # 785 # -1 # ID=25023_1;partial=10;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.659
+k141_78427_3         -          Cyc1                 -            3.1e-33  117.9   0.0   4.3e-33  117.4   0.0   1.2   1   0   0   1   1   1   1 # 1764 # 2282 # -1 # ID=50674_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+k141_403646_2        -          Cyc1                 -            4.4e-33  117.4   0.0   1.5e-32  115.6   0.0   1.7   1   1   0   1   1   1   1 # 698 # 1231 # -1 # ID=3736_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.642
+k141_104468_1        -          Cyc1                 -            1.3e-32  115.9   0.2   4.9e-32  114.0   0.0   1.9   2   0   0   2   2   2   1 # 2 # 907 # 1 # ID=29347_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.560
+k141_49693_1         -          Cyc1                 -            9.9e-31  109.7   0.0   1.5e-30  109.2   0.0   1.3   1   1   0   1   1   1   1 # 1 # 564 # 1 # ID=12622_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.654
+k141_256930_2        -          Cyc1                 -            3.5e-30  108.0   0.3   8.2e-30  106.7   0.3   1.5   1   1   0   1   1   1   1 # 518 # 1033 # -1 # ID=22649_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.661
+k141_500728_2        -          Cyc1                 -              2e-29  105.5   0.1     7e-29  103.7   0.1   1.7   1   1   0   1   1   1   1 # 924 # 1490 # -1 # ID=25947_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.624
+k141_241634_14       -          Cyc1                 -            5.5e-29  104.1   0.0   7.4e-29  103.6   0.0   1.2   1   0   0   1   1   1   1 # 10615 # 11259 # 1 # ID=1487_14;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.733
+k141_479334_1        -          Cyc1                 -            3.7e-28  101.4   0.2     2e-14   56.7   0.0   2.1   2   0   0   2   2   2   2 # 1 # 930 # -1 # ID=49486_1;partial=10;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.656
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_oxidation//Cyc1.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/Cyc1.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750937_contigs_maiores1kbp.fasta-HMM/Cyc1.hmm.tblout -T 98 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_oxidation//Cyc1.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750937_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:54:52 2025
+# [ok]

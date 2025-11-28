@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_184263_2        -          DmkB                 -            5.6e-29   99.3   0.0   6.3e-29   99.2   0.0   1.1   1   0   0   1   1   1   1 # 1673 # 2638 # -1 # ID=561_2;partial=00;start_type=TTG;rbs_motif=AGG;rbs_spacer=8bp;gc_cont=0.728
+k141_231298_8        -          DmkB                 -            5.9e-28   96.0   0.0   8.1e-28   95.5   0.0   1.2   1   0   0   1   1   1   1 # 6297 # 7217 # -1 # ID=6_8;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.725
+k141_338079_6        -          DmkB                 -            1.5e-23   81.5   0.0     4e-16   57.1   0.0   2.1   2   0   0   2   2   2   2 # 2369 # 3370 # 1 # ID=216_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.691
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DmkB.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.7.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.7.fa-HMM/DmkB.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.7.fa-HMM/DmkB.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DmkB.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.7.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:15:01 2025
+# [ok]

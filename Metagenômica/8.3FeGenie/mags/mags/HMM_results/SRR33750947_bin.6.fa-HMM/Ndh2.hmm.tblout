@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_638623_1        -          Ndh2                 -            4.7e-56  188.0   0.0     1e-55  186.9   0.0   1.4   1   1   0   1   1   1   1 # 81 # 2180 # -1 # ID=412_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365
+k141_100118_2        -          Ndh2                 -            3.5e-52  175.2   0.2   4.5e-52  174.8   0.2   1.1   1   0   0   1   1   1   1 # 250 # 1659 # 1 # ID=189_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.388
+k141_255572_1        -          Ndh2                 -            1.2e-49  166.9   0.0   1.5e-49  166.5   0.0   1.1   1   0   0   1   1   1   1 # 1 # 1629 # 1 # ID=515_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.381
+k141_317619_4        -          Ndh2                 -            9.2e-34  114.3   0.1   1.2e-33  114.0   0.1   1.0   1   0   0   1   1   1   1 # 2299 # 3279 # -1 # ID=185_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.378
+k141_317619_5        -          Ndh2                 -            9.3e-17   58.2   0.1   1.3e-16   57.7   0.1   1.1   1   0   0   1   1   1   1 # 3251 # 3712 # -1 # ID=185_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.361
+k141_551966_2        -          Ndh2                 -            6.9e-13   45.4   0.0   2.4e-11   40.3   0.0   2.0   2   0   0   2   2   2   2 # 2011 # 3207 # 1 # ID=413_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.350
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//Ndh2.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.6.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.6.fa-HMM/Ndh2.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.6.fa-HMM/Ndh2.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//Ndh2.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.6.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:14:40 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_510586_2        -          PvsA_vibrioferrin_biosynthesis-rep -            3.7e-29  103.7   0.0   4.6e-29  103.4   0.0   1.1   1   0   0   1   1   1   1 # 1415 # 2680 # -1 # ID=14784_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.727
+k141_459671_2        -          PvsA_vibrioferrin_biosynthesis-rep -            1.3e-26   95.3   0.0   1.9e-26   94.8   0.0   1.2   1   0   0   1   1   1   1 # 551 # 1780 # -1 # ID=13315_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.700
+k141_641775_4        -          PvsA_vibrioferrin_biosynthesis-rep -            1.4e-26   95.2   0.0   1.7e-26   95.0   0.0   1.1   1   0   0   1   1   1   1 # 2949 # 4178 # -1 # ID=7049_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.732
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsA_vibrioferrin_biosynthesis-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750952_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750952_contigs_filtered_1500bp.fasta-HMM/PvsA_vibrioferrin_biosynthesis-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750952_contigs_filtered_1500bp.fasta-HMM/PvsA_vibrioferrin_biosynthesis-rep.hmm.tblout -T 62 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//PvsA_vibrioferrin_biosynthesis-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750952_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:14:01 2025
+# [ok]

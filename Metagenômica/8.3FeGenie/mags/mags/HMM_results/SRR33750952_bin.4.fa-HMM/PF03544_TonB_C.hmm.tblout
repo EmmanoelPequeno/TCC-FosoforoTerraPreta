@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_579918_4        -          PF03544_TonB_C       PF03544.14   4.5e-23   81.8   0.0   6.9e-23   81.3   0.0   1.3   1   0   0   1   1   1   1 # 2511 # 2999 # -1 # ID=4271_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.769
+k141_298363_2        -          PF03544_TonB_C       PF03544.14   6.4e-17   62.1   0.0   1.1e-16   61.4   0.0   1.4   1   0   0   1   1   1   1 # 73 # 1032 # 1 # ID=751_2;partial=00;start_type=ATG;rbs_motif=GGAG;rbs_spacer=8bp;gc_cont=0.758
+k141_453595_4        -          PF03544_TonB_C       PF03544.14   5.6e-15   55.9   0.2   1.2e-14   54.8   0.2   1.6   1   0   0   1   1   1   1 # 3837 # 4679 # 1 # ID=1655_4;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.668
+k141_114915_3        -          PF03544_TonB_C       PF03544.14   1.1e-06   29.4   0.0   2.2e-06   28.4   0.0   1.5   1   0   0   1   1   1   1 # 1721 # 3124 # -1 # ID=1672_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.728
+k141_718944_6        -          PF03544_TonB_C       PF03544.14   1.7e-06   28.7   0.0   3.3e-06   27.8   0.0   1.4   1   0   0   1   1   1   1 # 3725 # 4390 # -1 # ID=3798_6;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.685
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF03544_TonB_C.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PF03544_TonB_C.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.4.fa-HMM/PF03544_TonB_C.hmm.tblout -T 24 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF03544_TonB_C.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.4.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:15:15 2025
+# [ok]

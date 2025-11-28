@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_586308_2        -          FUR                  PF01475.14   4.3e-41  137.8   0.1     5e-41  137.6   0.1   1.0   1   0   0   1   1   1   1 # 614 # 1048 # -1 # ID=585_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.611
+k141_480325_3        -          FUR                  PF01475.14     3e-24   83.5   0.0   3.5e-24   83.3   0.0   1.1   1   0   0   1   1   1   1 # 1851 # 2255 # -1 # ID=43_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+k141_343866_3        -          FUR                  PF01475.14   2.5e-23   80.5   0.0   2.9e-23   80.3   0.0   1.1   1   0   0   1   1   1   1 # 1560 # 1991 # 1 # ID=960_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.600
+k141_604355_2        -          FUR                  PF01475.14   2.1e-12   45.2   0.0   2.6e-12   44.9   0.0   1.1   1   0   0   1   1   1   1 # 231 # 653 # -1 # ID=1035_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.697
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01475-Iron_dependent_repressor-fur_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.8.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.8.fa-HMM/PF01475-Iron_dependent_repressor-fur_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.8.fa-HMM/PF01475-Iron_dependent_repressor-fur_family.hmm.tblout -T 23 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01475-Iron_dependent_repressor-fur_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.8.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:42:17 2025
+# [ok]

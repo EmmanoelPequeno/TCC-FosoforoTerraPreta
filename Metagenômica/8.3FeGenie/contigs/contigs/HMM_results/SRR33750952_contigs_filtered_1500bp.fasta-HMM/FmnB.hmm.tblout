@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_247122_1        -          FmnB                 -            1.1e-48  168.7   0.0   1.3e-48  168.4   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1006 # -1 # ID=2851_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.558
+k141_100086_3        -          FmnB                 -            7.5e-17   63.9   0.0   1.1e-16   63.3   0.0   1.2   1   0   0   1   1   1   1 # 1905 # 2906 # 1 # ID=1802_3;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.756
+k141_269998_1        -          FmnB                 -            6.7e-14   54.2   0.0   7.8e-14   54.0   0.0   1.0   1   0   0   1   1   1   1 # 409 # 1047 # 1 # ID=15653_1;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.687
+k141_203055_2        -          FmnB                 -            8.3e-13   50.6   0.0   1.1e-12   50.3   0.0   1.0   1   0   0   1   1   1   1 # 347 # 1282 # -1 # ID=5224_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.730
+k141_667395_4        -          FmnB                 -            1.6e-11   46.4   0.0   1.9e-11   46.2   0.0   1.0   1   0   0   1   1   1   1 # 2116 # 3060 # 1 # ID=21362_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.719
+k141_347337_1        -          FmnB                 -            6.1e-10   41.2   0.0   7.6e-10   40.9   0.0   1.0   1   0   0   1   1   1   1 # 2 # 628 # 1 # ID=4733_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.742
+k141_88903_4         -          FmnB                 -            1.3e-08   36.9   0.0   1.7e-08   36.5   0.0   1.1   1   0   0   1   1   1   1 # 1366 # 1839 # -1 # ID=23651_4;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.724
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//FmnB.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750952_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750952_contigs_filtered_1500bp.fasta-HMM/FmnB.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750952_contigs_filtered_1500bp.fasta-HMM/FmnB.hmm.tblout -T 33 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//FmnB.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750952_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:10:25 2025
+# [ok]

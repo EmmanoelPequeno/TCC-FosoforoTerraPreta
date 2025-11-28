@@ -1,0 +1,17 @@
+#                                                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_686041_1        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            4.4e-38  128.6   2.9   4.8e-37  125.2   2.9   1.9   1   1   0   1   1   1   1 # 2 # 718 # 1 # ID=571_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.688
+k141_563098_3        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            5.7e-33  111.8   0.4   9.1e-32  107.8   0.4   2.0   1   1   0   1   1   1   1 # 1468 # 2760 # 1 # ID=652_3;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.568
+k141_215916_3        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            1.2e-32  110.7   0.8   3.1e-23   79.7   0.3   2.1   2   0   0   2   2   2   2 # 638 # 1939 # 1 # ID=311_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.596
+k141_415328_1        -          Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623 -            1.9e-32  110.1   1.1   5.3e-25   85.5   0.1   2.3   1   1   0   2   2   2   2 # 2 # 862 # -1 # ID=376_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.645
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750951_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750951_bin.1.fa-HMM/Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750951_bin.1.fa-HMM/Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623.hmm.tblout -T 98 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PvdH_Pyoverdine_biosynthesis_Pseudomonas_aeruginosa_PA2413_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750951_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:23:41 2025
+# [ok]

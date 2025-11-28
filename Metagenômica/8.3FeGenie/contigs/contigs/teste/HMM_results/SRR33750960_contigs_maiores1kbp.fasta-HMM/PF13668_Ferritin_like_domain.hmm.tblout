@@ -1,0 +1,17 @@
+#                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_106682_1        -          PF13668_Ferritin_like_domain PF13668.6    4.9e-23   84.2   0.1   5.6e-23   84.0   0.1   1.0   1   0   0   1   1   1   1 # 2 # 466 # 1 # ID=9474_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.572
+k141_40968_3         -          PF13668_Ferritin_like_domain PF13668.6    1.1e-18   70.1   0.2   1.4e-18   69.7   0.2   1.1   1   0   0   1   1   1   1 # 1474 # 2028 # 1 # ID=9713_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.519
+k141_453485_1        -          PF13668_Ferritin_like_domain PF13668.6    2.3e-09   39.9   0.0   0.00027   23.5   0.0   2.2   2   0   0   2   2   2   2 # 384 # 1325 # 1 # ID=30206_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.584
+k141_62051_2         -          PF13668_Ferritin_like_domain PF13668.6    1.1e-05   28.1   0.2   1.1e-05   28.0   0.2   1.0   1   0   0   1   1   1   1 # 2172 # 2393 # 1 # ID=34424_2;partial=01;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.694
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_storage//PF13668_Ferritin_like_domain.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750960_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750960_contigs_maiores1kbp.fasta-HMM/PF13668_Ferritin_like_domain.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750960_contigs_maiores1kbp.fasta-HMM/PF13668_Ferritin_like_domain.hmm.tblout -T 23 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_storage//PF13668_Ferritin_like_domain.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750960_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:48:34 2025
+# [ok]

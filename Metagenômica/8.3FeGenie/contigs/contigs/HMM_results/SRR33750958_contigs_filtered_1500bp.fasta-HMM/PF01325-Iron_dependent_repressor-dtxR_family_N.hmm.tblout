@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_25425_5         -          Fe_dep_repress       PF01325.14   7.3e-16   58.4   0.1   1.4e-15   57.5   0.1   1.5   1   0   0   1   1   1   1 # 4082 # 4759 # -1 # ID=6178_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.698
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01325-Iron_dependent_repressor-dtxR_family_N.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750958_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750958_contigs_filtered_1500bp.fasta-HMM/PF01325-Iron_dependent_repressor-dtxR_family_N.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750958_contigs_filtered_1500bp.fasta-HMM/PF01325-Iron_dependent_repressor-dtxR_family_N.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01325-Iron_dependent_repressor-dtxR_family_N.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750958_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:19:49 2025
+# [ok]

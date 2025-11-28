@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_615895_8        -          Fe_dep_repress       PF01325.14   8.3e-22   79.1   0.8   2.1e-21   77.8   0.5   1.8   2   0   0   2   2   2   1 # 9977 # 10354 # 1 # ID=8752_8;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.362
+k141_168751_25       -          Fe_dep_repress       PF01325.14     8e-19   69.5   2.2   1.3e-18   68.8   2.2   1.4   1   0   0   1   1   1   1 # 27949 # 28302 # 1 # ID=4669_25;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+k141_351357_2        -          Fe_dep_repress       PF01325.14   1.5e-18   68.6   0.2   5.4e-18   66.8   0.3   1.8   2   0   0   2   2   2   1 # 954 # 1406 # 1 # ID=16475_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.556
+k141_138909_2        -          Fe_dep_repress       PF01325.14   3.9e-17   64.1   0.1   7.2e-17   63.2   0.1   1.5   1   0   0   1   1   1   1 # 546 # 1229 # 1 # ID=10309_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.711
+k141_339946_3        -          Fe_dep_repress       PF01325.14   1.8e-15   58.7   0.1   2.9e-15   58.1   0.1   1.3   1   0   0   1   1   1   1 # 621 # 1079 # -1 # ID=10566_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.673
+k141_517565_3        -          Fe_dep_repress       PF01325.14   1.4e-13   52.7   0.0     3e-13   51.6   0.0   1.6   1   0   0   1   1   1   1 # 2355 # 3068 # 1 # ID=19132_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.697
+k141_528189_1        -          Fe_dep_repress       PF01325.14   1.4e-11   46.3   0.0   1.8e-11   46.0   0.0   1.1   1   0   0   1   1   1   1 # 3 # 293 # -1 # ID=3842_1;partial=10;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.677
+k141_311799_2        -          Fe_dep_repress       PF01325.14   2.5e-11   45.5   0.0   4.1e-11   44.8   0.0   1.3   1   0   0   1   1   1   1 # 332 # 757 # 1 # ID=16259_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+k141_148629_5        -          Fe_dep_repress       PF01325.14   4.3e-10   41.5   0.0   1.2e-09   40.1   0.0   1.8   1   0   0   1   1   1   1 # 3916 # 4629 # 1 # ID=15319_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.710
+k141_137111_1        -          Fe_dep_repress       PF01325.14   1.3e-09   40.0   0.8   6.1e-07   31.4   0.0   2.5   3   0   0   3   3   3   2 # 1 # 315 # -1 # ID=9385_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.689
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01325-Iron_dependent_repressor-dtxR_family_N.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750937_contigs_filtered_1500bp.fasta-HMM/PF01325-Iron_dependent_repressor-dtxR_family_N.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750937_contigs_filtered_1500bp.fasta-HMM/PF01325-Iron_dependent_repressor-dtxR_family_N.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF01325-Iron_dependent_repressor-dtxR_family_N.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750937_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:19:53 2025
+# [ok]

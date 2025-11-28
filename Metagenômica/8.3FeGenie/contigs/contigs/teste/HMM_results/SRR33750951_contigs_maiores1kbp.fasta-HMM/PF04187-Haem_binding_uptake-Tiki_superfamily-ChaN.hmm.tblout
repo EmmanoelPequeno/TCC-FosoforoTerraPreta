@@ -1,0 +1,15 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_836115_1        -          Cofac_haem_bdg       PF04187.12     3e-49  170.9   0.0   3.6e-49  170.7   0.0   1.1   1   0   0   1   1   1   1 # 1 # 864 # 1 # ID=67327_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+k141_712776_1        -          Cofac_haem_bdg       PF04187.12   1.7e-13   54.0   0.0   2.1e-13   53.8   0.0   1.1   1   0   0   1   1   1   1 # 3 # 416 # -1 # ID=2788_1;partial=10;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.725
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//PF04187-Haem_binding_uptake-Tiki_superfamily-ChaN.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750951_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750951_contigs_maiores1kbp.fasta-HMM/PF04187-Haem_binding_uptake-Tiki_superfamily-ChaN.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750951_contigs_maiores1kbp.fasta-HMM/PF04187-Haem_binding_uptake-Tiki_superfamily-ChaN.hmm.tblout -T 47 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//PF04187-Haem_binding_uptake-Tiki_superfamily-ChaN.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750951_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:57:44 2025
+# [ok]

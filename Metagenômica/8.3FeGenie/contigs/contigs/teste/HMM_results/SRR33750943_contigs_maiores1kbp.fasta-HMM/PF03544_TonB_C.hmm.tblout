@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_204182_2        -          PF03544_TonB_C       PF03544.14     4e-17   63.9   0.0   7.7e-17   63.0   0.0   1.5   1   0   0   1   1   1   1 # 710 # 1522 # -1 # ID=10543_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.673
+k141_400430_2        -          PF03544_TonB_C       PF03544.14   1.4e-15   59.0   0.1   2.5e-15   58.1   0.1   1.4   1   0   0   1   1   1   1 # 331 # 1068 # -1 # ID=14061_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.636
+k141_173247_3        -          PF03544_TonB_C       PF03544.14   1.7e-14   55.4   0.0   3.6e-14   54.4   0.0   1.5   1   0   0   1   1   1   1 # 1063 # 1851 # -1 # ID=7534_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.658
+k141_314298_2        -          PF03544_TonB_C       PF03544.14   1.7e-12   49.1   0.0   6.6e-12   47.2   0.0   2.1   1   0   0   1   1   1   1 # 505 # 1704 # 1 # ID=10500_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.693
+k141_124655_2        -          PF03544_TonB_C       PF03544.14   3.7e-07   32.0   0.0   6.8e-07   31.1   0.0   1.3   1   0   0   1   1   1   1 # 716 # 1285 # -1 # ID=13308_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.572
+k141_34589_1         -          PF03544_TonB_C       PF03544.14   1.4e-06   30.1   0.0   2.8e-06   29.2   0.0   1.5   1   0   0   1   1   1   1 # 3 # 881 # 1 # ID=6279_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+k141_394487_2        -          PF03544_TonB_C       PF03544.14   7.3e-06   27.8   0.0   1.1e-05   27.3   0.0   1.2   1   0   0   1   1   1   1 # 708 # 1016 # -1 # ID=8710_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.586
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF03544_TonB_C.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750943_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750943_contigs_maiores1kbp.fasta-HMM/PF03544_TonB_C.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750943_contigs_maiores1kbp.fasta-HMM/PF03544_TonB_C.hmm.tblout -T 24 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF03544_TonB_C.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750943_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:50:36 2025
+# [ok]

@@ -1,0 +1,22 @@
+#                                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_195791_2        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   6.6e-82  276.3  35.4   7.7e-82  276.1  35.4   1.0   1   0   0   1   1   1   1 # 910 # 1857 # 1 # ID=18891_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.699
+k141_183751_2        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   3.2e-74  251.0  34.2   3.8e-74  250.8  34.2   1.0   1   0   0   1   1   1   1 # 830 # 1711 # -1 # ID=9180_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.711
+k141_334204_1        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   1.2e-48  167.0  16.0   1.3e-48  166.9  16.0   1.0   1   0   0   1   1   1   1 # 1 # 483 # 1 # ID=11686_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+k141_293942_1        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   5.8e-13   49.8   3.6   6.2e-13   49.7   3.6   1.0   1   0   0   1   1   1   1 # 2 # 178 # 1 # ID=21047_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.740
+k141_195010_1        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   1.1e-08   35.7  24.3   1.5e-08   35.3  24.3   1.1   1   0   0   1   1   1   1 # 198 # 1076 # -1 # ID=18271_1;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.536
+k141_305291_1        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   2.9e-08   34.4  27.8   4.2e-08   33.8  27.8   1.2   1   0   0   1   1   1   1 # 1 # 723 # 1 # ID=7933_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.560
+k141_91439_3         -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   9.1e-08   32.7  33.7   2.5e-07   31.3  32.6   1.9   1   1   0   1   1   1   1 # 978 # 1736 # 1 # ID=14492_3;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.427
+k141_367811_1        -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   1.5e-07   32.0  15.5   1.6e-07   32.0  15.5   1.1   1   0   0   1   1   1   1 # 2 # 376 # -1 # ID=19027_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.357
+k141_81830_1         -          PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family PF01032.13   3.5e-07   30.8  19.7   3.5e-07   30.8  19.7   2.8   2   1   0   2   2   2   1 # 1 # 1188 # -1 # ID=6624_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750935_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750935_contigs_maiores1kbp.fasta-HMM/PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750935_contigs_maiores1kbp.fasta-HMM/PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm.tblout -T 25 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01032-FecCD-YfhA-FpvE-YfeCD_transport_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750935_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 19:00:02 2025
+# [ok]

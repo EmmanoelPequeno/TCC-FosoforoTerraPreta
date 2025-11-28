@@ -1,0 +1,17 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_114265_4        -          PF02472-ExbD         PF02472.11   1.9e-28   96.4   1.2   2.3e-28   96.1   1.2   1.0   1   0   0   1   1   1   1 # 2723 # 3145 # -1 # ID=359_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.579
+k141_114265_3        -          PF02472-ExbD         PF02472.11   1.4e-21   74.1   0.0   1.8e-21   73.8   0.0   1.0   1   0   0   1   1   1   1 # 2242 # 2685 # -1 # ID=359_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.595
+k141_313639_5        -          PF02472-ExbD         PF02472.11   9.9e-21   71.4   0.0   1.2e-20   71.2   0.0   1.0   1   0   0   1   1   1   1 # 3241 # 3660 # 1 # ID=113_5;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.571
+k141_26553_2         -          PF02472-ExbD         PF02472.11   3.1e-15   53.7   0.0   3.4e-15   53.5   0.0   1.0   1   0   0   1   1   1   1 # 2369 # 2710 # -1 # ID=351_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.585
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF02472-ExbD.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.1.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.1.fa-HMM/PF02472-ExbD.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750947_bin.1.fa-HMM/PF02472-ExbD.hmm.tblout -T 32 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF02472-ExbD.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750947_bin.1.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:15:34 2025
+# [ok]

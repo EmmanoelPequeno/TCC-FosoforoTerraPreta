@@ -1,0 +1,25 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_192772_1        -          Ndh2                 -            6.7e-54  184.1   0.1   8.4e-54  183.7   0.1   1.0   1   0   0   1   1   1   1 # 17 # 1273 # 1 # ID=191_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.667
+k141_163854_1        -          Ndh2                 -            3.9e-52  178.2   0.2   5.1e-52  177.9   0.2   1.0   1   0   0   1   1   1   1 # 2 # 1282 # -1 # ID=3044_1;partial=10;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.386
+k141_13371_2         -          Ndh2                 -            8.1e-49  167.3   0.0   9.9e-49  167.0   0.0   1.0   1   0   0   1   1   1   1 # 584 # 1756 # 1 # ID=3879_2;partial=01;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.692
+k141_95711_3         -          Ndh2                 -            2.8e-46  158.9   0.0   3.3e-46  158.7   0.0   1.0   1   0   0   1   1   1   1 # 764 # 1924 # -1 # ID=5453_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+k141_137030_1        -          Ndh2                 -            1.4e-39  136.8   0.0   1.6e-39  136.6   0.0   1.0   1   0   0   1   1   1   1 # 2 # 1201 # -1 # ID=6463_1;partial=10;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.725
+k141_8252_1          -          Ndh2                 -            1.8e-37  129.8   0.0   2.2e-37  129.5   0.0   1.0   1   0   0   1   1   1   1 # 3 # 1097 # 1 # ID=2430_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.384
+k141_2666_2          -          Ndh2                 -            6.5e-34  118.0   0.0     8e-34  117.7   0.0   1.0   1   0   0   1   1   1   1 # 993 # 1889 # 1 # ID=798_2;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.627
+k141_519511_1        -          Ndh2                 -            6.5e-31  108.1   0.0   8.3e-31  107.8   0.0   1.0   1   0   0   1   1   1   1 # 404 # 2053 # 1 # ID=5914_1;partial=01;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.623
+k141_273048_1        -          Ndh2                 -            3.6e-29  102.4   0.0   4.6e-29  102.0   0.0   1.0   1   0   0   1   1   1   1 # 3 # 740 # -1 # ID=1265_1;partial=10;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=3-4bp;gc_cont=0.631
+k141_267834_1        -          Ndh2                 -            5.2e-22   78.7   0.0   5.4e-22   78.7   0.0   1.0   1   0   0   1   1   1   1 # 2 # 445 # -1 # ID=10935_1;partial=10;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.538
+k141_195004_1        -          Ndh2                 -            8.9e-11   41.6   0.0     1e-10   41.4   0.0   1.0   1   0   0   1   1   1   1 # 3 # 386 # 1 # ID=913_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.677
+k141_13039_2         -          Ndh2                 -            2.2e-10   40.3   0.0   4.9e-10   39.2   0.0   1.5   2   0   0   2   2   2   1 # 112 # 1260 # -1 # ID=3789_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.688
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//Ndh2.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750938_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750938_contigs_filtered_1500bp.fasta-HMM/Ndh2.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750938_contigs_filtered_1500bp.fasta-HMM/Ndh2.hmm.tblout -T 40 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//Ndh2.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750938_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:09:25 2025
+# [ok]

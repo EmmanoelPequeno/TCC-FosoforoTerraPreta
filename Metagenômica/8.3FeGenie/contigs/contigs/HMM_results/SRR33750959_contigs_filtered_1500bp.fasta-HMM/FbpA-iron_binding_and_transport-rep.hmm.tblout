@@ -1,0 +1,24 @@
+#                                                                              --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_16102_2         -          FbpA-iron_binding_and_transport-rep -              5e-53  180.3   0.2   5.5e-53  180.2   0.2   1.0   1   0   0   1   1   1   1 # 1300 # 2325 # -1 # ID=5291_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.602
+k141_322746_4        -          FbpA-iron_binding_and_transport-rep -              3e-27   95.6   0.0   5.3e-27   94.7   0.0   1.3   1   0   0   1   1   1   1 # 2819 # 3940 # 1 # ID=3535_4;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.635
+k141_326560_1        -          FbpA-iron_binding_and_transport-rep -            4.8e-27   94.9   0.0   6.8e-27   94.4   0.0   1.2   1   0   0   1   1   1   1 # 136 # 1194 # 1 # ID=4669_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.643
+k141_288670_1        -          FbpA-iron_binding_and_transport-rep -            5.1e-27   94.8   0.0   1.2e-26   93.6   0.0   1.5   1   1   0   1   1   1   1 # 16 # 1122 # 1 # ID=401_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.635
+k141_37665_1         -          FbpA-iron_binding_and_transport-rep -            1.2e-22   80.5   0.0   5.8e-19   68.3   0.0   2.0   2   0   0   2   2   2   2 # 228 # 1289 # -1 # ID=4206_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+k141_282970_2        -          FbpA-iron_binding_and_transport-rep -            4.6e-21   75.2   0.1   5.9e-21   74.9   0.1   1.0   1   0   0   1   1   1   1 # 961 # 1932 # 1 # ID=5981_2;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.620
+k141_59400_2         -          FbpA-iron_binding_and_transport-rep -            5.2e-20   71.8   0.1   1.5e-19   70.2   0.1   1.6   1   1   0   1   1   1   1 # 1257 # 2339 # 1 # ID=3582_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.641
+k141_247725_2        -          FbpA-iron_binding_and_transport-rep -            2.9e-19   69.3   0.1   1.3e-18   67.1   0.1   1.8   1   1   0   1   1   1   1 # 912 # 1967 # -1 # ID=2566_2;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.618
+k141_98180_2         -          FbpA-iron_binding_and_transport-rep -              1e-18   67.5   0.0   1.9e-18   66.6   0.0   1.4   1   1   0   1   1   1   1 # 137 # 1168 # 1 # ID=793_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.504
+k141_280275_1        -          FbpA-iron_binding_and_transport-rep -            2.5e-17   63.0   0.1   3.2e-17   62.6   0.1   1.1   1   0   0   1   1   1   1 # 1 # 858 # -1 # ID=5130_1;partial=10;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.641
+k141_54520_2         -          FbpA-iron_binding_and_transport-rep -            4.5e-17   62.1   0.0   6.8e-17   61.5   0.0   1.2   1   0   0   1   1   1   1 # 1521 # 2591 # 1 # ID=2084_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.619
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpA-iron_binding_and_transport-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750959_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750959_contigs_filtered_1500bp.fasta-HMM/FbpA-iron_binding_and_transport-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750959_contigs_filtered_1500bp.fasta-HMM/FbpA-iron_binding_and_transport-rep.hmm.tblout -T 62 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//FbpA-iron_binding_and_transport-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750959_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:16:09 2025
+# [ok]

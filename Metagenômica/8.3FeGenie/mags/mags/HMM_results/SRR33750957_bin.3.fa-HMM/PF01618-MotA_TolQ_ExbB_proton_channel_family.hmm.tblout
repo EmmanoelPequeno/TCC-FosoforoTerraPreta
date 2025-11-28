@@ -1,0 +1,16 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_463811_5        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11     8e-38  127.5   0.8   1.3e-37  126.8   0.8   1.4   1   0   0   1   1   1   1 # 3783 # 4370 # -1 # ID=51_5;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.636
+k141_76853_4         -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   8.5e-37  124.1   2.7   1.5e-36  123.3   0.4   2.0   2   0   0   2   2   2   1 # 1189 # 1869 # 1 # ID=356_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.652
+k141_496426_1        -          PF01618-MotA_TolQ_ExbB_proton_channel_family PF01618.11   1.1e-12   46.0   0.3     1e-11   42.9   0.0   2.1   2   0   0   2   2   2   1 # 1 # 447 # -1 # ID=68_1;partial=10;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.633
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.3.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.3.fa-HMM/PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.3.fa-HMM/PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm.tblout -T 22 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF01618-MotA_TolQ_ExbB_proton_channel_family.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.3.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:15:23 2025
+# [ok]

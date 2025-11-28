@@ -1,0 +1,15 @@
+#                                                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_305137_1        -          Sid_FpvG_iron_reductase_PA2403_Paeruginosa_PAO1_180602 -            1.8e-05   26.2   2.2   2.3e-05   26.0   2.2   1.2   1   0   0   1   1   1   1 # 87 # 1052 # 1 # ID=564_1;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.666
+k141_506752_1        -          Sid_FpvG_iron_reductase_PA2403_Paeruginosa_PAO1_180602 -            6.7e-05   24.4   8.8     0.063   14.6   0.1   2.2   2   0   0   2   2   2   2 # 29 # 997 # -1 # ID=30534_1;partial=00;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.559
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FpvG_iron_reductase_PA2403_Paeruginosa_PAO1_180602.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750947_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750947_contigs_maiores1kbp.fasta-HMM/Sid_FpvG_iron_reductase_PA2403_Paeruginosa_PAO1_180602.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750947_contigs_maiores1kbp.fasta-HMM/Sid_FpvG_iron_reductase_PA2403_Paeruginosa_PAO1_180602.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_FpvG_iron_reductase_PA2403_Paeruginosa_PAO1_180602.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750947_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 19:00:13 2025
+# [ok]

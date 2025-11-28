@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_16070_1         -          PF04773_FecR         PF04773.13   5.8e-14   54.1   0.1   9.8e-14   53.4   0.1   1.4   1   0   0   1   1   1   1 # 156 # 710 # -1 # ID=12693_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+k141_158567_1        -          PF04773_FecR         PF04773.13   6.3e-14   54.0   0.6   1.3e-13   53.0   0.0   1.7   2   0   0   2   2   2   1 # 321 # 899 # -1 # ID=22486_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.585
+k141_27203_1         -          PF04773_FecR         PF04773.13   3.4e-09   38.8   0.0   9.7e-09   37.3   0.0   1.8   2   0   0   2   2   2   1 # 3 # 959 # -1 # ID=21350_1;partial=10;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.597
+k141_26670_3         -          PF04773_FecR         PF04773.13   3.2e-08   35.7   0.1   6.7e-08   34.6   0.0   1.5   2   0   0   2   2   2   1 # 764 # 1216 # 1 # ID=20946_3;partial=01;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.561
+k141_254067_1        -          PF04773_FecR         PF04773.13   6.1e-08   34.8   0.1   2.1e-07   33.1   0.1   1.9   1   0   0   1   1   1   1 # 312 # 1751 # 1 # ID=20778_1;partial=01;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.631
+k141_322444_1        -          PF04773_FecR         PF04773.13   2.2e-07   33.0   0.5   5.2e-07   31.8   0.5   1.7   1   0   0   1   1   1   1 # 3 # 1589 # 1 # ID=23318_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.621
+k141_191982_1        -          PF04773_FecR         PF04773.13   4.2e-06   28.9   0.6   1.1e-05   27.6   0.1   1.9   2   0   0   2   2   2   1 # 36 # 743 # 1 # ID=22988_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.528
+k141_429655_2        -          PF04773_FecR         PF04773.13    0.0011   21.2   0.0    0.0013   20.9   0.0   1.2   1   0   0   1   1   1   1 # 303 # 665 # 1 # ID=5514_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=3-4bp;gc_cont=0.634
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF04773_FecR.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750958_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750958_contigs_maiores1kbp.fasta-HMM/PF04773_FecR.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750958_contigs_maiores1kbp.fasta-HMM/PF04773_FecR.hmm.tblout -T 21 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//PF04773_FecR.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750958_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 19:00:47 2025
+# [ok]

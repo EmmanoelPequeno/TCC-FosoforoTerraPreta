@@ -1,0 +1,26 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_463811_4        -          PF02472-ExbD         PF02472.11   1.8e-29  104.2   0.3     2e-29  104.0   0.3   1.0   1   0   0   1   1   1   1 # 3317 # 3772 # -1 # ID=840_4;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.632
+k141_76853_5         -          PF02472-ExbD         PF02472.11   5.2e-28   99.5   0.1     6e-28   99.3   0.1   1.0   1   0   0   1   1   1   1 # 1879 # 2334 # 1 # ID=5944_5;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.654
+k141_345643_3        -          PF02472-ExbD         PF02472.11   2.5e-27   97.3   1.5   3.1e-27   97.0   1.5   1.0   1   0   0   1   1   1   1 # 2019 # 2480 # 1 # ID=8450_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.578
+k141_191955_3        -          PF02472-ExbD         PF02472.11   1.6e-25   91.4   0.2   1.8e-25   91.3   0.2   1.0   1   0   0   1   1   1   1 # 2209 # 2577 # -1 # ID=14583_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+k141_388704_4        -          PF02472-ExbD         PF02472.11   4.7e-25   89.9   0.0   5.7e-25   89.6   0.0   1.0   1   0   0   1   1   1   1 # 2555 # 2974 # -1 # ID=13668_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.631
+k141_479693_3        -          PF02472-ExbD         PF02472.11   1.4e-23   85.1   0.0   1.9e-23   84.7   0.0   1.0   1   0   0   1   1   1   1 # 1020 # 1445 # -1 # ID=9843_3;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.606
+k141_349_2           -          PF02472-ExbD         PF02472.11     6e-23   83.1   0.0   6.6e-23   83.0   0.0   1.0   1   0   0   1   1   1   1 # 388 # 789 # 1 # ID=170_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.679
+k141_206441_2        -          PF02472-ExbD         PF02472.11   5.3e-22   80.0   0.0   6.1e-22   79.8   0.0   1.0   1   0   0   1   1   1   1 # 841 # 1263 # 1 # ID=4513_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.660
+k141_510638_3        -          PF02472-ExbD         PF02472.11   1.1e-19   72.5   0.1   1.4e-19   72.2   0.1   1.1   1   0   0   1   1   1   1 # 1248 # 1640 # 1 # ID=9512_3;partial=01;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.623
+k141_118142_1        -          PF02472-ExbD         PF02472.11   2.3e-18   68.2   0.0   2.8e-18   68.0   0.0   1.1   1   0   0   1   1   1   1 # 2 # 493 # -1 # ID=10749_1;partial=10;start_type=GTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.677
+k141_345643_4        -          PF02472-ExbD         PF02472.11   1.3e-16   62.6   0.1   1.4e-16   62.5   0.1   1.0   1   0   0   1   1   1   1 # 2503 # 2802 # 1 # ID=8450_4;partial=01;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.560
+k141_206441_3        -          PF02472-ExbD         PF02472.11   3.3e-14   54.8   0.0     4e-14   54.6   0.0   1.1   1   0   0   1   1   1   1 # 1268 # 1732 # 1 # ID=4513_3;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.585
+k141_190065_5        -          PF02472-ExbD         PF02472.11   7.2e-14   53.7   0.0   8.8e-14   53.5   0.0   1.0   1   0   0   1   1   1   1 # 1875 # 2252 # -1 # ID=13628_5;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.664
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF02472-ExbD.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750957_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750957_contigs_filtered_1500bp.fasta-HMM/PF02472-ExbD.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750957_contigs_filtered_1500bp.fasta-HMM/PF02472-ExbD.hmm.tblout -T 32 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF02472-ExbD.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750957_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:10:42 2025
+# [ok]

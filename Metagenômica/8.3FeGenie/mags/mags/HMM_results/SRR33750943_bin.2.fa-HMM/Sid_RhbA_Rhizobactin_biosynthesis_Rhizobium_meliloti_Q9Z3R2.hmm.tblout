@@ -1,0 +1,19 @@
+#                                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                  accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                        -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_388500_9        -          Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2 -            8.4e-79  262.0   2.0     1e-78  261.8   2.0   1.0   1   0   0   1   1   1   1 # 6881 # 8215 # 1 # ID=51_9;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=9bp;gc_cont=0.687
+k141_289629_1        -          Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2 -            2.3e-60  201.3   5.9   2.1e-57  191.5   5.9   2.8   1   1   0   1   1   1   1 # 1 # 1056 # 1 # ID=212_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.705
+k141_407626_1        -          Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2 -            1.9e-53  178.4   0.6   5.1e-37  124.3   0.4   2.9   1   1   1   2   2   2   2 # 2 # 1231 # 1 # ID=338_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.689
+k141_36202_3         -          Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2 -            6.3e-46  153.7   0.1   7.7e-46  153.4   0.1   1.0   1   0   0   1   1   1   1 # 1832 # 3148 # 1 # ID=113_3;partial=00;start_type=ATG;rbs_motif=AGGGGG;rbs_spacer=4bp;gc_cont=0.671
+k141_143388_4        -          Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2 -            1.3e-28   96.6   2.8   5.5e-28   94.5   2.7   1.9   1   1   0   1   1   1   1 # 2791 # 4176 # -1 # ID=78_4;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=6bp;gc_cont=0.680
+k141_28842_1         -          Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2 -            1.4e-11   40.4   0.0   1.8e-11   40.1   0.0   1.1   1   0   0   1   1   1   1 # 1 # 378 # -1 # ID=25_1;partial=10;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.717
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750943_bin.2.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750943_bin.2.fa-HMM/Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750943_bin.2.fa-HMM/Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2.hmm.tblout -T 35 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_RhbA_Rhizobactin_biosynthesis_Rhizobium_meliloti_Q9Z3R2.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750943_bin.2.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:17:20 2025
+# [ok]

@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_94176_5         -          DFE_0451             -            2.1e-48  162.2  10.5     5e-21   72.4   0.9   3.4   1   1   2   3   3   3   3 # 3438 # 4508 # -1 # ID=13_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.397
+k141_94176_2         -          DFE_0451             -            1.6e-47  159.4   7.4   1.3e-22   77.6   0.1   4.0   1   1   3   4   4   4   4 # 862 # 1887 # -1 # ID=13_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.373
+k141_383120_4        -          DFE_0451             -            8.2e-47  157.0  12.5   8.6e-17   58.5   1.3   4.0   1   1   3   4   4   4   4 # 1696 # 2829 # 1 # ID=123_4;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.365
+k141_2390_10         -          DFE_0451             -              3e-45  151.9  15.2   5.1e-18   62.5   0.6   3.1   1   1   2   3   3   3   3 # 5430 # 6512 # 1 # ID=28_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.385
+k141_316105_5        -          DFE_0451             -            1.9e-42  142.7  13.9   2.6e-16   56.9   0.5   4.1   1   1   2   3   3   3   3 # 3228 # 4706 # 1 # ID=398_5;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404
+k141_181933_2        -          DFE_0451             -            2.2e-37  126.0  16.7   1.8e-16   57.4   0.2   4.0   1   1   3   4   4   4   4 # 104 # 1276 # -1 # ID=479_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+k141_286027_5        -          DFE_0451             -            7.7e-36  121.0  20.3   8.3e-15   52.0   0.4   4.0   1   1   3   4   4   4   4 # 3478 # 4473 # -1 # ID=75_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.392
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0451.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.7.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.7.fa-HMM/DFE_0451.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750956_bin.7.fa-HMM/DFE_0451.hmm.tblout -T 64 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_reduction//DFE_0451.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750956_bin.7.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:13:04 2025
+# [ok]

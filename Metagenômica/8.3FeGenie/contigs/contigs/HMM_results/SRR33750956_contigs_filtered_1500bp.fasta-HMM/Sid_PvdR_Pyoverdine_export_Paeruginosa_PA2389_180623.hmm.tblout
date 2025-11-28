@@ -1,0 +1,20 @@
+#                                                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                 -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_552100_3        -          Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623 -            5.3e-89  300.6  13.7   1.2e-73  250.0   9.7   2.0   1   1   1   2   2   2   2 # 932 # 2140 # 1 # ID=17162_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.562
+k141_726296_1        -          Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623 -            2.1e-31  110.9  29.1   1.2e-26   95.3  21.6   3.0   1   1   2   3   3   3   2 # 377 # 1702 # 1 # ID=11798_1;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.630
+k141_455696_4        -          Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623 -            5.5e-30  106.3  18.3   9.8e-26   92.3  13.9   3.0   2   1   2   4   4   4   2 # 2517 # 3980 # -1 # ID=15504_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.636
+k141_160807_1        -          Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623 -            6.6e-27   96.1   8.2   7.2e-27   96.0   8.2   1.0   1   0   0   1   1   1   1 # 3 # 827 # -1 # ID=9350_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.650
+k141_388980_2        -          Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623 -            1.2e-24   88.7  12.0   7.9e-20   72.8   9.9   2.5   1   1   1   2   2   2   2 # 1150 # 2376 # -1 # ID=6852_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.591
+k141_724797_3        -          Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623 -            4.3e-19   70.4  20.2   2.5e-14   54.7  17.2   3.1   1   1   0   2   2   2   2 # 1075 # 2499 # -1 # ID=11154_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.587
+k141_454979_2        -          Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623 -            8.7e-17   62.8   3.6   2.3e-11   45.0   1.1   2.4   1   1   1   2   2   2   2 # 1704 # 2852 # -1 # ID=15231_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.663
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750956_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750956_contigs_filtered_1500bp.fasta-HMM/Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750956_contigs_filtered_1500bp.fasta-HMM/Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623.hmm.tblout -T 61 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//Sid_PvdR_Pyoverdine_export_Paeruginosa_PA2389_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750956_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:18:26 2025
+# [ok]

@@ -1,0 +1,18 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_407951_2        -          MamE                 -            5.8e-74  246.0  15.6     2e-52  175.0   8.0   3.8   2   1   1   3   3   3   3 # 763 # 2268 # 1 # ID=135_2;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.582
+k141_332593_2        -          MamE                 -            4.6e-73  243.0   8.6     4e-54  180.6   3.3   3.2   2   1   1   3   3   3   3 # 951 # 2489 # -1 # ID=28_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.565
+k141_329410_1        -          MamE                 -            3.2e-72  240.2  15.5   1.4e-50  169.0   9.2   3.0   2   1   1   3   3   3   3 # 1 # 1410 # -1 # ID=347_1;partial=10;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.591
+k141_293560_1        -          MamE                 -            1.7e-66  221.4   7.1   7.1e-40  133.7   0.8   3.0   2   1   1   3   3   3   3 # 3 # 1067 # 1 # ID=322_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.554
+k141_112877_5        -          MamE                 -              3e-61  204.1  10.6   1.3e-56  188.8   3.4   2.2   2   0   0   2   2   2   2 # 2538 # 3674 # 1 # ID=170_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.551
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamE.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.8.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.8.fa-HMM/MamE.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750957_bin.8.fa-HMM/MamE.hmm.tblout -T 170 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//magnetosome_formation//MamE.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750957_bin.8.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:32:30 2025
+# [ok]

@@ -1,0 +1,21 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_314298_2        -          PF13103_TonB_2       PF13103.6      1e-11   46.4   0.0   3.2e-11   44.8   0.0   1.9   1   0   0   1   1   1   1 # 505 # 1704 # 1 # ID=10500_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.693
+k141_34589_1         -          PF13103_TonB_2       PF13103.6    6.4e-11   43.8   0.1   1.2e-10   42.9   0.1   1.4   1   0   0   1   1   1   1 # 3 # 881 # 1 # ID=6279_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.569
+k141_204182_2        -          PF13103_TonB_2       PF13103.6    1.2e-10   43.0   1.5   1.6e-10   42.5   0.0   2.0   2   0   0   2   2   2   1 # 710 # 1522 # -1 # ID=10543_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.673
+k141_173247_3        -          PF13103_TonB_2       PF13103.6    1.4e-10   42.7   0.0   3.9e-10   41.3   0.0   1.7   1   0   0   1   1   1   1 # 1063 # 1851 # -1 # ID=7534_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.658
+k141_400430_2        -          PF13103_TonB_2       PF13103.6    7.4e-10   40.4   0.0   2.3e-09   38.9   0.0   1.9   1   0   0   1   1   1   1 # 331 # 1068 # -1 # ID=14061_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.636
+k141_124655_2        -          PF13103_TonB_2       PF13103.6    1.5e-07   33.0   0.1   5.4e-07   31.3   0.0   1.8   2   0   0   2   2   2   1 # 716 # 1285 # -1 # ID=13308_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.572
+k141_394487_2        -          PF13103_TonB_2       PF13103.6      2e-07   32.6   0.0   2.6e-07   32.3   0.0   1.2   1   0   0   1   1   1   1 # 708 # 1016 # -1 # ID=8710_2;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.586
+k141_78924_3         -          PF13103_TonB_2       PF13103.6    0.00015   23.4   0.0   0.00017   23.3   0.0   1.0   1   0   0   1   1   1   1 # 2059 # 2181 # -1 # ID=21961_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF13103_TonB_2.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750943_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750943_contigs_maiores1kbp.fasta-HMM/PF13103_TonB_2.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750943_contigs_maiores1kbp.fasta-HMM/PF13103_TonB_2.hmm.tblout -T 21 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF13103_TonB_2.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750943_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:50:36 2025
+# [ok]

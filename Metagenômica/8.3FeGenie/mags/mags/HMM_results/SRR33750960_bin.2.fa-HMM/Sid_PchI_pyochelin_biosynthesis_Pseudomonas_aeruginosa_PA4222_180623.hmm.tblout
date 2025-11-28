@@ -1,0 +1,16 @@
+#                                                                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                 -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_391651_2        -          Sid_PchI_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4222_180623 -            4.5e-21   69.6   0.2   5.9e-21   69.2   0.2   1.1   1   0   0   1   1   1   1 # 164 # 1294 # 1 # ID=105_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.694
+k141_426308_2        -          Sid_PchI_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4222_180623 -            3.8e-11   36.8   0.0   4.8e-11   36.5   0.0   1.0   1   0   0   1   1   1   1 # 2165 # 2620 # -1 # ID=112_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.697
+k141_149449_1        -          Sid_PchI_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4222_180623 -            1.5e-09   31.6   5.2   6.3e-06   19.6   0.5   3.0   3   0   0   3   3   3   2 # 1 # 2295 # 1 # ID=55_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.696
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PchI_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4222_180623.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750960_bin.2.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750960_bin.2.fa-HMM/Sid_PchI_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4222_180623.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750960_bin.2.fa-HMM/Sid_PchI_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4222_180623.hmm.tblout -T 24 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_synthesis//Sid_PchI_pyochelin_biosynthesis_Pseudomonas_aeruginosa_PA4222_180623.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750960_bin.2.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:21:26 2025
+# [ok]

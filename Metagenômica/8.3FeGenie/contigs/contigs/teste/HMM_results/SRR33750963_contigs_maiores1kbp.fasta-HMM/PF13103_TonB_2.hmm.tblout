@@ -1,0 +1,34 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_503111_1        -          PF13103_TonB_2       PF13103.6    2.5e-16   62.1   0.0   2.5e-16   62.1   0.0   2.2   2   0   0   2   2   2   1 # 43 # 828 # 1 # ID=33081_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+k141_183369_3        -          PF13103_TonB_2       PF13103.6    2.9e-14   55.5   0.0   4.7e-14   54.8   0.0   1.4   1   0   0   1   1   1   1 # 1452 # 1856 # -1 # ID=45818_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.667
+k141_69251_2         -          PF13103_TonB_2       PF13103.6    5.6e-14   54.6   0.1   7.5e-14   54.2   0.1   1.2   1   0   0   1   1   1   1 # 1258 # 1626 # -1 # ID=39890_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.547
+k141_361830_2        -          PF13103_TonB_2       PF13103.6    4.8e-11   45.2   0.5   4.8e-10   42.0   0.0   2.5   2   0   0   2   2   2   1 # 1187 # 1972 # -1 # ID=39338_2;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.628
+k141_191141_2        -          PF13103_TonB_2       PF13103.6    7.6e-11   44.5   0.0   8.1e-11   44.4   0.0   1.0   1   0   0   1   1   1   1 # 959 # 1195 # -1 # ID=9773_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.671
+k141_557789_1        -          PF13103_TonB_2       PF13103.6    9.4e-11   44.2   0.0   1.6e-10   43.4   0.0   1.4   1   0   0   1   1   1   1 # 1 # 837 # 1 # ID=10806_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.571
+k141_138648_1        -          PF13103_TonB_2       PF13103.6    1.1e-09   40.8   0.0   1.7e-09   40.2   0.0   1.3   1   0   0   1   1   1   1 # 2 # 361 # 1 # ID=36038_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+k141_41243_1         -          PF13103_TonB_2       PF13103.6    3.2e-09   39.3   0.0   7.9e-09   38.1   0.0   1.7   1   0   0   1   1   1   1 # 3 # 797 # 1 # ID=5553_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.644
+k141_305444_3        -          PF13103_TonB_2       PF13103.6    3.2e-09   39.3   0.0   7.9e-09   38.1   0.0   1.7   1   0   0   1   1   1   1 # 918 # 1673 # 1 # ID=14580_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.657
+k141_553767_2        -          PF13103_TonB_2       PF13103.6    4.7e-09   38.8   1.8   4.9e-09   38.7   0.0   2.0   2   0   0   2   2   1   1 # 615 # 1619 # -1 # ID=5522_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.639
+k141_121811_2        -          PF13103_TonB_2       PF13103.6    5.8e-09   38.5   0.0   6.5e-09   38.3   0.0   1.0   1   0   0   1   1   1   1 # 835 # 1056 # -1 # ID=15290_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.653
+k141_522140_1        -          PF13103_TonB_2       PF13103.6    6.9e-09   38.3   0.0   1.2e-08   37.5   0.0   1.4   1   0   0   1   1   1   1 # 3 # 500 # 1 # ID=11094_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.657
+k141_218316_1        -          PF13103_TonB_2       PF13103.6    1.3e-08   37.3   0.0   5.9e-07   32.0   0.0   2.1   1   1   0   1   1   1   1 # 3 # 440 # 1 # ID=43420_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+k141_29053_2         -          PF13103_TonB_2       PF13103.6      2e-08   36.8   0.0   5.3e-08   35.4   0.0   1.8   1   0   0   1   1   1   1 # 404 # 1201 # 1 # ID=35667_2;partial=00;start_type=GTG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.554
+k141_381225_2        -          PF13103_TonB_2       PF13103.6    2.1e-08   36.7   0.3   4.2e-08   35.7   0.0   1.6   2   0   0   2   2   1   1 # 972 # 1538 # -1 # ID=18585_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.695
+k141_7535_1          -          PF13103_TonB_2       PF13103.6    2.4e-08   36.5   0.0   5.9e-08   35.3   0.0   1.7   1   0   0   1   1   1   1 # 169 # 1752 # -1 # ID=9165_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.609
+k141_87549_2         -          PF13103_TonB_2       PF13103.6      8e-08   34.8   0.0     8e-08   34.8   0.0   2.3   3   0   0   3   3   2   1 # 1113 # 1709 # -1 # ID=17769_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.621
+k141_96198_2         -          PF13103_TonB_2       PF13103.6    0.00013   24.5   1.2   0.00022   23.8   0.0   2.0   2   0   0   2   2   1   1 # 221 # 1108 # 1 # ID=28647_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.541
+k141_156956_1        -          PF13103_TonB_2       PF13103.6    0.00015   24.4   1.0    0.0002   23.9   0.0   1.8   2   0   0   2   2   2   1 # 1 # 693 # -1 # ID=13943_1;partial=10;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.674
+k141_90232_2         -          PF13103_TonB_2       PF13103.6    0.00021   23.9   0.0   0.00036   23.1   0.0   1.4   1   0   0   1   1   1   1 # 925 # 1665 # -1 # ID=21222_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.648
+k141_338487_1        -          PF13103_TonB_2       PF13103.6     0.0014   21.2   0.1    0.0089   18.7   0.0   2.1   2   0   0   2   2   2   1 # 3 # 842 # 1 # ID=10398_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.570
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF13103_TonB_2.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/PF13103_TonB_2.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/PF13103_TonB_2.hmm.tblout -T 21 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport_potential//PF13103_TonB_2.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:50:29 2025
+# [ok]

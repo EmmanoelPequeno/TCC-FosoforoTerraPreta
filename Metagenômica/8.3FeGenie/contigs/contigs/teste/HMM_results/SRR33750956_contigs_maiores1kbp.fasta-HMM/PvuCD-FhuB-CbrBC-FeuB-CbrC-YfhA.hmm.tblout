@@ -1,0 +1,26 @@
+#                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                      accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------            -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_13532_2         -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            5.8e-68  232.3  26.5   6.5e-68  232.1  26.5   1.1   1   0   0   1   1   1   1 # 666 # 1658 # -1 # ID=16603_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.712
+k141_377123_1        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            3.4e-63  216.6  36.1   4.2e-63  216.3  36.1   1.0   1   0   0   1   1   1   1 # 2 # 883 # 1 # ID=4576_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.723
+k141_716256_1        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            7.1e-61  209.0  26.7     8e-61  208.8  26.7   1.0   1   0   0   1   1   1   1 # 1 # 864 # 1 # ID=20310_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.735
+k141_648802_4        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            6.6e-60  205.8  30.8   8.2e-60  205.5  30.8   1.0   1   0   0   1   1   1   1 # 1631 # 2536 # -1 # ID=51830_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.693
+k141_494664_2        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            2.1e-59  204.1  34.0   2.7e-59  203.8  34.0   1.0   1   0   0   1   1   1   1 # 283 # 1296 # -1 # ID=34040_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.707
+k141_599029_2        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            5.6e-59  202.7  31.3   7.3e-59  202.4  31.3   1.1   1   0   0   1   1   1   1 # 99 # 1052 # -1 # ID=48656_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.684
+k141_377813_2        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            2.2e-57  197.5  30.8   2.7e-57  197.2  30.8   1.0   1   0   0   1   1   1   1 # 375 # 1403 # -1 # ID=5430_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.707
+k141_321813_2        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            3.2e-53  183.8  29.7   3.7e-53  183.6  29.7   1.0   1   0   0   1   1   1   1 # 324 # 1121 # -1 # ID=50593_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.702
+k141_581788_3        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            3.9e-33  117.8   4.9   4.9e-33  117.5   4.9   1.0   1   0   0   1   1   1   1 # 955 # 1356 # -1 # ID=26934_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.607
+k141_413506_1        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            8.6e-32  113.4   9.3   9.9e-32  113.2   9.3   1.0   1   0   0   1   1   1   1 # 3 # 359 # 1 # ID=48978_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.602
+k141_254992_2        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            2.9e-29  105.1  11.6   3.5e-29  104.8  11.6   1.0   1   0   0   1   1   1   1 # 851 # 1309 # -1 # ID=29242_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.684
+k141_181630_1        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            9.3e-20   73.9  13.1   1.1e-19   73.7  13.1   1.0   1   0   0   1   1   1   1 # 3 # 569 # -1 # ID=51394_1;partial=10;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.684
+k141_234078_3        -          PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA -            5.9e-05   25.2   0.3   5.9e-05   25.2   0.3   1.0   1   0   0   1   1   1   1 # 1082 # 1192 # -1 # ID=1019_3;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.613
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750956_contigs_maiores1kbp.fasta-HMM/PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PvuCD-FhuB-CbrBC-FeuB-CbrC-YfhA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750956_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:59:07 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_344650_1        -          FeoB_C               PF07664.7    1.1e-15   59.4   1.8   2.5e-15   58.2   0.1   2.6   2   0   0   2   2   2   1 # 1 # 1026 # -1 # ID=17889_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.672
+k141_561108_1        -          FeoB_C               PF07664.7      2e-13   52.2   0.3   8.3e-13   50.2   0.3   2.2   1   0   0   1   1   1   1 # 1 # 1002 # 1 # ID=14959_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.678
+k141_345042_2        -          FeoB_C               PF07664.7    3.8e-11   44.9   1.7   6.9e-11   44.0   1.7   1.4   1   0   0   1   1   1   1 # 291 # 1136 # 1 # ID=18389_2;partial=01;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.682
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF07664-FeoB_C.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/PF07664-FeoB_C.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750963_contigs_maiores1kbp.fasta-HMM/PF07664-FeoB_C.hmm.tblout -T 27 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-iron_transport//PF07664-FeoB_C.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750963_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:55:33 2025
+# [ok]

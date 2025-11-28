@@ -1,0 +1,21 @@
+#                                                                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                                              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                                                    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_84986_2         -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   3.8e-35  122.6   0.0   4.8e-35  122.3   0.0   1.1   1   0   0   1   1   1   1 # 601 # 1497 # 1 # ID=15012_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.687
+k141_11978_2         -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   6.2e-35  121.9   0.0   7.1e-35  121.7   0.0   1.0   1   0   0   1   1   1   1 # 653 # 1456 # 1 # ID=10496_2;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.693
+k141_61484_1         -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   1.3e-33  117.6   0.0   1.6e-33  117.3   0.0   1.1   1   0   0   1   1   1   1 # 238 # 1188 # 1 # ID=14589_1;partial=01;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=3-4bp;gc_cont=0.702
+k141_230343_1        -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   3.2e-29  103.2   0.0   4.1e-29  102.9   0.0   1.1   1   0   0   1   1   1   1 # 1 # 1125 # 1 # ID=8307_1;partial=11;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.663
+k141_7936_1          -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   3.9e-22   80.0   0.0   4.3e-22   79.9   0.0   1.0   1   0   0   1   1   1   1 # 2 # 454 # -1 # ID=7104_1;partial=10;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.596
+k141_36664_2         -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   2.8e-15   57.6   0.0     4e-15   57.1   0.0   1.1   1   0   0   1   1   1   1 # 108 # 1064 # 1 # ID=12962_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.675
+k141_45967_2         -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   5.5e-15   56.6   0.0   6.5e-15   56.4   0.0   1.1   1   0   0   1   1   1   1 # 500 # 1153 # -1 # ID=1736_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.677
+k141_22669_2         -          PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA PF01497.18   5.4e-11   43.6   0.0   6.9e-11   43.2   0.0   1.0   1   0   0   1   1   1   1 # 522 # 1118 # -1 # ID=492_2;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.692
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750936_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750936_contigs_maiores1kbp.fasta-HMM/PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750936_contigs_maiores1kbp.fasta-HMM/PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA.hmm.tblout -T 27 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//PF01497_Peripla_BP_2-HatD-SsstD-PhuT-FhuD-HmuT-YfiY-FpuA-FatB-ViuP-CbrA.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750936_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:59:43 2025
+# [ok]

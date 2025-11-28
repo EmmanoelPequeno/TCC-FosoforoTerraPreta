@@ -1,0 +1,20 @@
+#                                                                                       --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                   accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                         -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_6304_2          -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            3.7e-07   26.7   0.0   1.3e-05   21.7   0.0   2.0   1   1   0   1   1   1   1 # 597 # 1049 # -1 # ID=39_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.684
+k141_536769_1        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            5.1e-07   26.3   0.0   1.2e-06   25.1   0.0   1.5   1   1   0   1   1   1   1 # 80 # 670 # 1 # ID=31_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650
+k141_746751_6        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            1.5e-06   24.7   0.0   1.8e-06   24.5   0.0   1.1   1   0   0   1   1   1   1 # 1893 # 2447 # 1 # ID=146_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.728
+k141_623888_5        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            1.6e-06   24.6   0.0   1.9e-06   24.4   0.0   1.1   1   0   0   1   1   1   1 # 2880 # 3500 # 1 # ID=315_5;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.696
+k141_588105_4        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            3.7e-06   23.5   0.0   4.9e-06   23.1   0.0   1.2   1   0   0   1   1   1   1 # 1579 # 2130 # -1 # ID=53_4;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.681
+k141_249412_4        -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            2.5e-05   20.8   0.0   2.9e-05   20.5   0.0   1.1   1   0   0   1   1   1   1 # 2426 # 2950 # -1 # ID=52_4;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.674
+k141_4761_7          -          Sid_PvdS_regulator_Paeruginosa_PA2426_180620 -            6.3e-05   19.4   0.0   8.3e-05   19.0   0.0   1.2   1   0   0   1   1   1   1 # 2614 # 3174 # 1 # ID=32_7;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.672
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.7.fa-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.7.fa-HMM/Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/mags/SRR33750952_bin.7.fa-HMM/Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm.tblout -T 18 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_gene_regulation//Sid_PvdS_regulator_Paeruginosa_PA2426_180620.hmm /home/public/Terra-Preta/metagenomics/8fegenie/mags/ORF_calls/SRR33750952_bin.7.fa-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  2 15:42:28 2025
+# [ok]

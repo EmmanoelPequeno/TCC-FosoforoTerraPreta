@@ -1,0 +1,16 @@
+#                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                         accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------               -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_427908_2        -          FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC -            3.8e-47  161.6  22.3   5.4e-47  161.1  22.3   1.2   1   0   0   1   1   1   1 # 175 # 1188 # -1 # ID=1286_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.687
+k141_479815_2        -          FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC -            3.3e-46  158.5  25.0   1.2e-45  156.7  25.0   1.7   1   1   0   1   1   1   1 # 640 # 1623 # 1 # ID=5968_2;partial=01;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.694
+k141_210896_2        -          FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC -            1.3e-44  153.3  16.5   1.7e-44  152.9  16.5   1.0   1   0   0   1   1   1   1 # 779 # 1807 # -1 # ID=3786_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.706
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750958_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750958_contigs_filtered_1500bp.fasta-HMM/FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750958_contigs_filtered_1500bp.fasta-HMM/FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC.hmm.tblout -T 151 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-siderophore_transport//FeuB-FhuB-PvuC-CbrB-PvuD-FeuC-CbrC.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750958_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:19:01 2025
+# [ok]

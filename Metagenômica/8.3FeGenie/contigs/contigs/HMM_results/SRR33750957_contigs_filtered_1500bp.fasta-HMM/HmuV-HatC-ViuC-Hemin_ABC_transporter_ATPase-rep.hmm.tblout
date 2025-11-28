@@ -1,0 +1,18 @@
+#                                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                      accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                            -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_515517_3        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            1.4e-71  242.3   0.4   2.1e-70  238.4   0.4   1.9   1   1   0   1   1   1   1 # 2200 # 3078 # 1 # ID=12461_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.542
+k141_140346_4        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            2.1e-69  235.1   2.2   2.4e-69  234.9   0.8   1.8   2   1   0   2   2   2   1 # 3489 # 4859 # -1 # ID=4497_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.543
+k141_37660_1         -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            6.4e-69  233.5   4.9     9e-36  124.9   0.3   2.6   2   1   0   2   2   2   2 # 3 # 1319 # 1 # ID=2861_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.734
+k141_45010_3         -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            2.3e-68  231.7   6.9   1.9e-34  120.6   0.3   2.0   2   0   0   2   2   2   2 # 4711 # 6237 # -1 # ID=6817_3;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.752
+k141_399758_3        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            8.9e-66  223.2   0.0   1.2e-65  222.8   0.0   1.1   1   0   0   1   1   1   1 # 1791 # 2630 # 1 # ID=1939_3;partial=01;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.723
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750957_contigs_filtered_1500bp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750957_contigs_filtered_1500bp.fasta-HMM/HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/SRR33750957_contigs_filtered_1500bp.fasta-HMM/HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm.tblout -T 220 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/ORF_calls/SRR33750957_contigs_filtered_1500bp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Wed Sep 10 11:17:05 2025
+# [ok]

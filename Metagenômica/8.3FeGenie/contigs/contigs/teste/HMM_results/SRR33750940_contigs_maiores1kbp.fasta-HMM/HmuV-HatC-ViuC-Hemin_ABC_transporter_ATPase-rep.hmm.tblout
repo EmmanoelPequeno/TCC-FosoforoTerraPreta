@@ -1,0 +1,15 @@
+#                                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name                                      accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------                            -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+k141_443766_1        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            1.4e-68  232.3   2.0   1.8e-68  231.9   2.0   1.2   1   0   0   1   1   1   1 # 33 # 821 # 1 # ID=7124_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.706
+k141_363722_2        -          HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep -            1.7e-66  225.5   0.0   2.2e-66  225.1   0.0   1.1   1   0   0   1   1   1   1 # 121 # 906 # -1 # ID=19591_2;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.716
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm
+# Target file:     /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750940_contigs_maiores1kbp.fasta-proteins.faa
+# Option settings: hmmsearch -o /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750940_contigs_maiores1kbp.fasta-HMM/HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm.txt --tblout /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/SRR33750940_contigs_maiores1kbp.fasta-HMM/HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm.tblout -T 220 --cpu 16 /home/mayllon23025/anacondaaa/envs/fegenie/share/fegenie-1.0/hmms/iron//iron_aquisition-heme_transport//HmuV-HatC-ViuC-Hemin_ABC_transporter_ATPase-rep.hmm /home/public/Terra-Preta/metagenomics/8fegenie/contigs/teste/ORF_calls/SRR33750940_contigs_maiores1kbp.fasta-proteins.faa 
+# Current dir:     /home/public/Terra-Preta/metagenomics/scripts
+# Date:            Sun Nov  9 18:57:40 2025
+# [ok]
