@@ -46,7 +46,7 @@ Este repositório reúne dados, scripts e análises relacionadas ao estudo da Te
 - `B11/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 10 a 20 cm. Varredura de 50 x 50 $\mu$m$^2$.
 - `B12/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 10 a 20 cm. Varredura de 100 x 100 $\mu$m$^2$.
 - `B13/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 10 a 20 cm. Varredura de 100 x 100 $\mu$m$^2$. Região de interesse deslocada em relação ao arquivo anterior.
-- `images_tiff` – Esse diretório contém, para cada amostra, os mapas de cada elemento e todas as combinações par a par dos elementos identificados.
+- `images_tiff` – Esse diretório contém, para cada amostra, os mapas de cada elemento e todas as combinações par a par dos elementos identificados. Todas as imagens estão com as devidas legendas e escalas.
 
 - **Fracionamento** (caminho da pasta): Destinada a abrigar os protocolos e arquivos de tratamento dos dados obtidos a partir das análises químicas realizadas em laboratório.
 - `03-10(H2O)-Pres` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo residual (P-res) em H2O realizadas no dia 03/10/25.
