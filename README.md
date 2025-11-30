@@ -6,13 +6,13 @@
 
 Este repositório, dedidco a abrigar os resultados do trabalho de conclusão de curso da Ilum Escola de Ciência, faculdade vinculada ao Centro Nacional de Pesquisa em Energia e materiais (CNPEM), tendo como pesquisadores:
 
-- Davi José Araújo Pereira (https://github.com/davijosearaujo)
+- Davi José Araújo Pereira (https://github.com/davijosearaujo) ⚛️
 
-- Mayllon Emmanoel Pequeno (https://github.com/EmmanoelPequeno)
+- Mayllon Emmanoel Pequeno (https://github.com/EmmanoelPequeno) 🦠
 
-- Emelyn Alves (https://github.com/emelyn23017) (Colaboradora)
+- Emelyn Alves (https://github.com/emelyn23017) (Colaboradora) 🌱
 
-- Izaque Júnior Oliveira Silva (https://github.com/Izaque-Junior) (Colaborador)
+- Izaque Júnior Oliveira Silva (https://github.com/Izaque-Junior) (Colaborador) 🧪
 
 
 Este repositório reúne dados, scripts e análises relacionadas ao estudo da Terra Preta Amazônica como sistema socioambiental de referência para a investigação da biodisponibilidade de fósforo. O objetivo geral desta pesquisa foi Investigar os mecanismos envolvidos na biodisponibilização de fósforo na Terra Preta Amazônica, por meio da identificação e anotação funcional de microrganismos solubilizadores de fósforo e da análise de suas interações com a matriz físico-química do solo, integrando técnicas avançadas de espectroscopia por luz síncrotron, fracionamento de fósforo e análises metagenômicas. Este respositório está divido em Três pastas principais:
@@ -64,3 +64,18 @@ Este repositório reúne dados, scripts e análises relacionadas ao estudo da Te
 - `25_09_placa(HCl1M)_Pi_Pt` Contém os dados das medidas realizadas no leitor de placa de 96 poços para o fósforo inorgânico e total em HCl 1 M realizadas no dia 25/09/2025
 - `26-09(NaOH0,5M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaOH 0,5 M realizadas no dia 26/09/2025
 - `26-09(NaOH0,5M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaOH 0,5 M realizadas no dia 26/09/2025
+
+O resultados da pesquisa indicaram:
+- A alta taxa de matéria orgânica se dá pelo manejo e cultivo intencional da TPA, realizado por povos originários e seus descendentes.
+- Ferro foi o elemento medido em maior abundância na fluorescência de raios X.
+- O ambiente ácido e à alta taxa de matéria orgânica mantém um óxido de ferro pouco cristalino com alta capacidade de adsorção de P: a ferrihidrita.
+- A maior parte do P está em formas orgânicas na fração moderadamente lábil, sendo a maior parte dessa fração composta por fósforo ligado ao ferro.
+- O P prontamente disponível representa uma fração pequena em relação ao total, mas o P lábil representa cerca de 25% do total de P.
+- Existem mecanismos biológicos capazes de contrapor a tendência química de adsorver fósforo.
+
+Obrigado pelo interesse!
+
+Link página da Ilum: https://ilum.cnpem.br <br>
+Link página do CNPEM: https://cnpem.br <br>
+Link página do LNLS: https://lnls.cnpem.br <br>
+Link página do CENA-USP: http://www.cena.usp.br <br>
