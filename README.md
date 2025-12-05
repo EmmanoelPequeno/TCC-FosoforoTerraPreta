@@ -61,7 +61,7 @@ Este repositório reúne dados, scripts e análises relacionadas ao estudo da Te
 - `26-09(NaOH0,5M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaOH 0,5 M realizadas no dia 26/09/2025
 - `26-09(NaOH0,5M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaOH 0,5 M realizadas no dia 26/09/2025
 
-O resultados da pesquisa indicaram:
+Os resultados da pesquisa indicaram:
 - A alta taxa de matéria orgânica se dá pelo manejo e cultivo intencional da TPA, realizado por povos originários e seus descendentes.
 - Ferro foi o elemento medido em maior abundância na fluorescência de raios X.
 - O ambiente ácido e à alta taxa de matéria orgânica mantém um óxido de ferro pouco cristalino com alta capacidade de adsorção de P: a ferrihidrita.
