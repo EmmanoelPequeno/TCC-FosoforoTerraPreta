@@ -22,22 +22,39 @@ Este repositório reúne dados, scripts e análises relacionadas ao estudo da Te
   A pasta está dividida em subpastas de acordo com cada ferramenta e/ou método utilizado nas análises metagenômicas:
 
   - `0dados/` – Contém dados utilizados nas análises. Nenhum processamento é feito aqui. Esta pasta funciona como referência para todas as etapas subsequentes.
+    - Fonte: <a> https://www.ncbi.nlm.nih.gov/sra?linkname=bioproject_sra_all&from_uid=1262372 </a>
   - `1.1FastQC/` – Inclui os relatórios individuais gerados pelo FastQC, permitindo avaliar, por exemplo, qualidade por base, Conteúdo GC, adaptadores ect.
+    - Fonte: <a> https://github.com/s-andrews/FastQC </a>
   - `1.2MultiQC/` – Dados do FastQC sumarizados. Agrupamento de todos os relatórios em um único arquivo.
+    - Fonte: <a> https://github.com/MultiQC/MultiQC </a>
   - `2Trimmomatic/` – Contém dados do processamento pelo Trimmomatic, incluindo, por exemplo, remoção de adaptadores, cortes de baixa qualidade e descarte de <i> reads </i> muito curtas
+    - Fonte: <a> https://github.com/usadellab/Trimmomatic </a>
   - `3Metaphlan4/` – Contém os arquivos de saída do MetaPhlAn4 com composições taxonômicas microbianas identificadas nas <i> reads </i> após o Trimmomatic. Inclui tabelas e perfis de abundância relativa.
+    - Fonte: <a> https://github.com/biobakery/MetaPhlAn <\a>
   - `4Megahit/` – Dados de <i> contigs </i> montadas
+    - Fonte: <a> https://github.com/voutcn/megahit </a>
   - `5.1Bowtie2/` – Dados do mapeamento das <i> reads </i> para as <i> contigs </i>
+    - Fonte: <a> https://github.com/BenLangmead/bowtie2 </a>
   - `5.2Samtools/` – Dados de processamento dos arquivos SAM e BAM, incluindo conversões, ordenamentos, indexação e cálculo de cobertura.
+    - Fonte: <a> https://github.com/samtools/samtools </a>
   - `5.3MetaBat2/` – Dados de agrupamento de <i> contigs </i> em genomas individuais
+    - Fonte: <a> anaconda.org/bioconda/metabat2 </a>
   - `6CheckM2/` – Contém os relatórios gerados pelo CheckM2 indicando a qualidade dos genomas agrupados.
+    - Fonte: <a> https://github.com/chklovski/CheckM2 </a>
   - `7GTDB-tk/` – Contém os arquivos de saída do GTDB-tk, definindo a taxonômia dos genomas gerados com base no banco de dados GTDB. Inclui tabelas de qualidade e árvores de referência.
+    - Fonte: <a> https://github.com/Ecogenomics/GTDBTk </a>
   - `8.1Prokka/` – Contém os arquivos de anotação funcional inicial.
+    - Fonte: <a> https://github.com/tseemann/prokka </a>
   - `8.2eggNOG/` – Contém os arquivos de anotação funcional e categorização metabólica.
+    - Fonte: <a> https://github.com/eggnogdb/eggnog-mapper </a>
   - `8.3FeGenie/` – Contém os arquivos de análises de genes ligados ao cilo do Ferro. Inclui <i> heatmpas </i>, tabelas funcionais e genes anotados.
+    - Fonte: <a> https://github.com/Arkadiy-Garber/FeGenie </a>
   - `9.1InterProScan/` – Contém os arquivos de anotação funcional com foco em domínios conservados e assinaturas funcionais.
+    - Fonte: <a> https://github.com/ebi-pf-team/interproscan </a>
   - `9.2MAFFT/` – Contém os arquivos de alinhamento múltiplo das sequências do gene <i> gcd </i> (marcador de microrganismos solubilizadores de fósforo).
+    - Fonte: <a> https://anaconda.org/channels/bioconda/packages/mafft/overview </a>
   - `9.3IQ-TREE/` – Contém os arquivos relacionados à inferência filogenética do gene <i> gcd </i>. Inclui arquivos como .treefile, .log e .iqtre
+    - Fonte: <a> https://github.com/iqtree/iqtree3 </a>
 
   
 - **Espectroscopia** (caminho da pasta): Destinada a abrigar os arquivos de tratamento de dados obtidos por meio ds Microfluorescência de Raios X ($\mu$-SXRF) e Estrutura de Absorção de Raios X Próxima à Borda (XANES).
