@@ -58,25 +58,25 @@ Este repositório reúne dados, scripts e análises relacionadas ao estudo da Te
 
   
 - **Espectroscopia** (caminho da pasta): Destinada a abrigar os arquivos de tratamento de dados obtidos por meio ds Microfluorescência de Raios X ($\mu$-SXRF) e Estrutura de Absorção de Raios X Próxima à Borda (XANES).
-- `A11/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 0 a 10 cm. Varredura de 50 x 50 $\mu$m$^2$.
-- `A12/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 0 a 10 cm. Varredura de 100 x 100 $\mu$m$^2$.
-- `B11/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 10 a 20 cm. Varredura de 50 x 50 $\mu$m$^2$.
-- `B12/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 10 a 20 cm. Varredura de 100 x 100 $\mu$m$^2$.
-- `B13/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 10 a 20 cm. Varredura de 100 x 100 $\mu$m$^2$. Região de interesse deslocada em relação ao arquivo anterior.
-- `images_tiff` – Esse diretório contém, para cada amostra, os mapas de cada elemento e todas as combinações par a par dos elementos identificados. Todas as imagens estão com as devidas legendas e escalas.
+  - `A11/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 0 a 10 cm. Varredura de 50 x 50 $\mu$m$^2$.
+  - `A12/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 0 a 10 cm. Varredura de 100 x 100 $\mu$m$^2$.
+  - `B11/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 10 a 20 cm. Varredura de 50 x 50 $\mu$m$^2$.
+  - `B12/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 10 a 20 cm. Varredura de 100 x 100 $\mu$m$^2$.
+  - `B13/` – Fluorescência de raios X. Amostra de Terra Preta Amazônica de 10 a 20 cm. Varredura de 100 x 100 $\mu$m$^2$. Região de interesse deslocada em relação ao arquivo anterior.
+  - `images_tiff` – Esse diretório contém, para cada amostra, os mapas de cada elemento e todas as combinações par a par dos elementos identificados. Todas as imagens estão com as devidas legendas e escalas.
 
 - **Fracionamento** (caminho da pasta): Destinada a abrigar os protocolos e arquivos de tratamento dos dados obtidos a partir das análises químicas realizadas em laboratório.
-- `03-10(H2O)-Pres` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo residual (P-res) em H2O realizadas no dia 03/10/25.
-- `22-09(HCl0,5M)`- Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo em resina (P-RTA) em HCl 0,5 M realizadas no dia 22/09/25.
-- `23-09(NaHCO3)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaHCO3 (pH ajustado pra 8,5) realizadas no dia 23/09/2025
-- `23-09(NaHCO3)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaHCO3 (pH ajustado pra 8,5) realizadas no dia 23/09/2025
-- `24-09(NaOH-0,1M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaOH 0,1 M realizadas no dia 24/09/2025
-- `24-09(NaOH-0,1M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaOH 0,1 M realizadas no dia 24/09/2025
-- `25-09(HCl1M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em HCl 1 M realizadas no dia 25/09/2025
-- `25-09(HCl1M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em HCl 1 M realizadas no dia 25/09/2025
-- `25_09_placa(HCl1M)_Pi_Pt` Contém os dados das medidas realizadas no leitor de placa de 96 poços para o fósforo inorgânico e total em HCl 1 M realizadas no dia 25/09/2025
-- `26-09(NaOH0,5M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaOH 0,5 M realizadas no dia 26/09/2025
-- `26-09(NaOH0,5M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaOH 0,5 M realizadas no dia 26/09/2025
+  - `03-10(H2O)-Pres` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo residual (P-res) em H2O realizadas no dia 03/10/25.
+  - `22-09(HCl0,5M)`- Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo em resina (P-RTA) em HCl 0,5 M realizadas no dia 22/09/25.
+  - `23-09(NaHCO3)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaHCO3 (pH ajustado pra 8,5) realizadas no dia 23/09/2025
+  - `23-09(NaHCO3)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaHCO3 (pH ajustado pra 8,5) realizadas no dia 23/09/2025
+  - `24-09(NaOH-0,1M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaOH 0,1 M realizadas no dia 24/09/2025
+  - `24-09(NaOH-0,1M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaOH 0,1 M realizadas no dia 24/09/2025
+  - `25-09(HCl1M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em HCl 1 M realizadas no dia 25/09/2025
+  - `25-09(HCl1M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em HCl 1 M realizadas no dia 25/09/2025
+  - `25_09_placa(HCl1M)_Pi_Pt` Contém os dados das medidas realizadas no leitor de placa de 96 poços para o fósforo inorgânico e total em HCl 1 M realizadas no dia 25/09/2025
+  - `26-09(NaOH0,5M)-Pi` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo inorgânico em NaOH 0,5 M realizadas no dia 26/09/2025
+  - `26-09(NaOH0,5M)-Pt` - Contém os dados das medidas realizadas no espectrofotômetro UV-Vis para o fósforo total em NaOH 0,5 M realizadas no dia 26/09/2025
 
 Os resultados da pesquisa indicaram:
 - A alta taxa de matéria orgânica se dá pelo manejo e cultivo intencional da TPA, realizado por povos originários e seus descendentes.
